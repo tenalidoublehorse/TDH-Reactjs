@@ -93,7 +93,7 @@ class Maplocations extends Component {
                       <div className='map-frame'>
                       <iframe
                             src={this.state.mapSrc}
-                            width="600"
+                            width="100%"
                             height="550"
                             style={{ border: 0 }}
                             allowFullScreen=""
