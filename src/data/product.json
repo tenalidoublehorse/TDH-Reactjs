@@ -1,0 +1,4015 @@
+[
+    
+    {
+        "id": 1,
+        "img": "assets/img/prods-sm/Tenali-Double-Horse-Urad-Gota-300x300.png",
+        "img2": "assets/img/prods-sm/uradgota/uradagota-sample-1.png",
+        "img3": "assets/img/prods-sm/uradgota/uradagota-sample-2.png",
+        "img4": "assets/img/prods-sm/uradgota/uradagota-sample-3.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "cookingimg1": "assets/img/prods-sm/cooking-imgs/dosa.png",
+        "cookingimg2": "assets/img/prods-sm/cooking-imgs/vada.png",
+
+        
+        "name": "Urad Gota 1Kg",
+        "shortdesc": "Round Urad Gota is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price": 220.00,
+        "symbol":"₹",
+        "urls":"https://www.amazon.in/dp/B07QJ3TJQY?ref=myi_title_dp",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse",
+            "Item Weight ":"1 Kilograms",
+            "Variety":"Lentils",
+            "Container Maximum Shelf Life" :"4 Months"
+            }
+        ],
+        "sizes": [
+            {
+                "size": "1kg",
+                "state": true
+            },
+            {
+                "size": "10kgs",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            8
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly, dosa, vada, and other Indian recipes. It is a protein-rich food, and its quality is determined by the softness of the batter and the taste of the recipe. Tenali Double Horse Urad Gota is the best choice as it is procured from the best farmers and fields across India. It is processed in hygienic conditions and packed in sustainable packing punches to ensure that the freshness lasts for a long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "assets/img/prods-sm/Tenali-Double-Horse-Urad-Dall-300x300.png",
+        "img2": "assets/img/prods-sm/maharani-urdadall/tenali-double-horse-maharani-urad-sample-1.png",
+        "img3": "assets/img/prods-sm/maharani-urdadall/tenali-double-horse-maharani-urad-sample-2.png",
+        "img4": "assets/img/prods-sm/maharani-urdadall/tenali-double-horse-maharani-urad-sample-3.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Tenali Maharani Urad Dall 1kg",
+        "shortdesc": "Round Urad Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price": 195.00,
+        "symbol":"₹",
+        "urls":"https://amzn.eu/d/4vd4fR1/",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+                
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms",
+                "Item Form":"Whole"
+                }
+                
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            3,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"This hygienically packed pack of 1 kg of whole urad gota white helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein. You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Urad Dall (whole). It features an unpolished texture, which helps retain its wholesome benefits. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+                
+                "comment":""
+            }
+        ]
+    }
+    ,
+    {
+        "id": 3,
+        "img": "assets/img/prods-sm/Tenali-Double-Horse-Urad-Dal-300x300.png",
+        "img2": "assets/img/prods-sm/Tenali-Double-Horse-Urad-Dal-300x300.png",
+        "img3": "assets/img/prods-sm/Tenali-Double-Horse-Urad-Dal-300x300.png",
+        "img4": "assets/img/prods-sm/Tenali-Double-Horse-Urad-Dal-300x300.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Urad Dall 1kg",
+        "shortdesc": "Urad Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price":195.00,
+        "symbol":"₹",
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            2,
+            1,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Elevate your culinary creations with the exceptional quality of Tenali Double Horse Urad Dall. Renowned for its purity, flavor, and unmatched nutritional value, our Urad Dall is a staple ingredient in households across India. Whether you're an expert chef or a home cook, our Urad Dal will add depth and richness to your dishes, making every meal a delightful experience. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+                
+                "comment":""
+            }
+        ]
+    },
+    
+    {
+        "id": 4,
+        "img": "assets/img/prods-sm/Tenali-Double-Horse-Husked-Urad-Dall-300x300.png",
+        "img2": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Husked-Urad-Dall-1457X1457-2.png",
+        "img3": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Husked-Urad-Dall-1457X1457-3.png",
+        "img4": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Husked-Urad-Dall-1457X1457-4.png",
+
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Husked Black Gram Dall 1kg",
+        "shortdesc": "Tenali double horse-husked black gram Dall is rich in nutrients, and Urad dall is naturally rich in protein and high in dietary fiber.",
+        "price": 175.00,
+        "symbol":"₹",
+        "urls":"https://amzn.eu/d/0O3t9IJ",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms",
+                "Region of Origin":"india"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            5,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"This hygienically packed Husked Black Gram Dall whole pack of 2 helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein. You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Husked Black Gram Dall.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+                
+                "comment":""
+            }
+        ]
+    },
+    
+    {
+        "id": 5,
+        "img": "assets/img/prods-sm/Tenali-Double-Horse-Black-Gram-Rounds-300x300.png",
+        "img2": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Urad-Dall-1457X1457-4.png",
+        "img3": "assets/img/prods-sm/Tenali-Double-Horse-Black-Gram-Rounds-300x300.png",
+        "img4": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Urad-Dall-1457X1457-4.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Black Gram 1kg",
+        "shortdesc": "Tenali Double Horse Black Gram Dall is rich in nutrients, and Urad Dall is naturally rich in protein and high in dietary fiber.",
+        "price": 185.00,
+        "symbol":"₹",
+        "urls":"https://amzn.eu/d/51gEpmI",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Experience the unmatched quality and exquisite flavor of Tenali Double Horse Black Gram. Revered for its absolute purity and sumptuous taste, our black gram is a kitchen staple that transcends culinary boundaries. Regardless of your expertise in the kitchen, whether you're a seasoned chef or an eager home cook, our Black Gram will elevate your culinary creations to an entirely new level of excellence.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney    "
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "assets/img/prods-sm/Tenali-Double-Horse-Toor-Dall-300x300.png",
+        "img2": "assets/img/prods-sm/toordall/Tenali-Double-Horse-Toor-Dall-sample-1.png",
+        "img3": "assets/img/prods-sm/toordall/Tenali-Double-Horse-Toor-Dall-sample-2.png",
+        "img4": "assets/img/prods-sm/toordall/Tenali-Double-Horse-Toor-Dall-sample-3.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Toor Dall 1kg",
+        "shortdesc": "Toor Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price": 260.00,
+        "symbol":"₹",
+        "urls":"https://amzn.eu/d/8d0e5US",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+            
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms"
+                }
+            
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Indulge in the rich and authentic taste of Tenali Double Horse Toor Dall, a culinary gem that's cherished for its quality and flavor. Renowned for its wholesomeness, our Toor Dal is a kitchen essential that promises to elevate your cooking to new heights.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+
+    
+    {
+        "id": 7,
+        "img": "assets/img/prods-sm/Tenali-Double-horse-Moong-Dal-300x300.png",
+        "img2": "assets/img/home/moong-dall.png",
+        "img3": "assets/img/prods-sm/Tenali-Double-horse-Moong-Dal-300x300.png",
+        "img4": "assets/img/home/moong-dall.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Moong Dall 1/2kg",
+        "shortdesc": "Moong Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price":90.00,
+        "symbol":"₹",
+        "urls":"https://www.amazon.in/dp/B0BJ784MMY?ref=myi_title_dp ",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+            
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"1/2 Kilograms"
+                }
+            
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Are you craving a taste of authentic Indian cuisine? Look no further than Tenali Double Horse's premium moong dal! Sourced from the heart of India's fertile farmlands, our Moong Dal is a must-have for every kitchen. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "img": "assets/img/prods-sm/tenali-double-horse-chana-dall.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-chana-dall.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-chana-dall.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-chana-dall.png",
+  
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Chana Dall 1/2kg",
+        "shortdesc": "Elevate your culinary experience with the finest Chana Dal, brought to you by Tenali Double Horse. Sourced from the heartlands of India.",
+        "price":65.00,
+        "symbol":"₹",
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Premium Sourcing":"At Tenali Double Horse, we take great care in sourcing the finest chana dal, ensuring that you receive only the highest quality product. We are committed to delivering excellence with every pack",
+                "Nutrient-Rich Goodness":"Chana dal is a nutritional powerhouse, rich in protein, fiber, vitamins, and minerals. It's a versatile addition to your diet, perfect for those seeking a nutritious food option.",
+                "Weight ":"1/2 Kilograms",
+                "Healthy Lifestyle Choice:":"Chana dal is renowned for its health benefits, being a low-fat, high-protein food. It helps in Rich in Protein,Rich in Vitamins,Regulates Blood Sugar,Weight Management,Antioxidant Properties "
+              
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Add Tenali Double Horse's Chana Dall to your cart today and savor the authentic taste of India. Elevate your culinary skills and enjoy the goodness of premium Chana Dall with every meal. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+              
+                "comment":""
+            }
+        ]
+    }
+    ,
+   
+
+    {
+        "id": 30,
+        "img": "assets/img/prods-sm/tenali-double-horse-eco-pack.png",
+        "img2": "assets/img/prods-sm/Eco-pack/tenali-double-horse-eco-pack-3.png",
+        "img3": "assets/img/prods-sm/Eco-pack/tenali-double-horse-eco-pack-4.png",
+        "img4": "assets/img/prods-sm/Eco-pack/tenali-double-horse-eco-pack-2.png",
+        
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Eco Pack 1Kg",
+        "shortdesc": "Tenali Double Horse is devoted to fusing tradition with sustainability. Our Eco Pack 1 kg exemplifies this by promoting eco-friendliness while preserving the authentic taste of India.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms",
+                "100% Natural": "We believe in providing you with authentic products, free from artificial additives or preservatives.",
+                "Form :Whole Polished ":"yes",
+                "Container Maximum Shelf Life": "6 Months"
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"This hygienically packed 1kg pack of white urad dal helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein. You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Urad Dal (whole). It features an unpolished texture, which helps retain its wholesome benefits.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+   
+
+    {
+        "id": 9,
+        "img": "assets/img/prods-sm/idly/tenali-double-horse-idly-rava-300x300.png",
+        "img2": "assets/img/prods-sm/idly/tenali-double-horse-idly-rava-1.png",
+        "img3": "assets/img/home/new-idly-ravva.png",
+        "img4": "assets/img/prods-sm/idly/tenali-double-horse-idly-rava-2.png",
+  
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Idly Ravva 1Kg",
+        "shortdesc": "Fine-textured semolina is used to make traditional South Indian idlis, offering a fluffy and nutritious breakfast option.",
+        "price":60.00,
+        "symbol":"₹",
+        "urls":"https://amzn.eu/d/5o6j5U2/",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms",
+                "Premium Quality":"Our Idly Ravva is made from the highest quality ingredients, ensuring superior taste and texture for your idlis.",
+                "Soft and Fluffy Idlis":" Experience the joy of soft, fluffy idlis with our specially crafted idli rava.",
+                "100% Natural": "We believe in providing you with authentic products, free from artificial additives or preservatives.",
+                "Easy To Cook":"Prepare delicious idlis effortlessly with our Idly Ravva. Just follow the simple instructions and enjoy a homemade feast",
+                "Nutritionally Rich": "Our idli rava is packed with essential nutrients, making it a healthy choice for you and your family."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Discover the secret to making perfect idlis every time with Tenali Double Horse Idly Ravva. Our premium-quality idli rava is specially crafted to deliver soft, fluffy, and delicious idlis that will tantalize your taste buds. Made from the finest ingredients, this 100% natural and authentic idly ravva guarantees a delightful culinary experience.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+            
+                "comment":""
+            }
+        ]
+    },
+   
+
+    
+   
+    {
+        "id": 10,
+        "img": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
+        "img2": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
+        "img3": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
+        "img4": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Idly Rava 30kgs",
+        "shortdesc": "Fine-textured semolina is used to make traditional South Indian idlis, offering a fluffy and nutritious breakfast option.",
+        "price": 0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"30 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Discover the secret to making perfect idlis every time with Tenali Double Horse Idly Ravva. Our premium-quality idli rava is specially crafted to deliver soft, fluffy, and delicious idlis that will tantalize your taste buds. Made from the finest ingredients, this 100% natural and authentic idly ravva guarantees a delightful culinary experience.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "img": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
+        "img2": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
+        "img3": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
+        "img4": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Orid Rounds ",
+        "shortdesc": "Experience the Richness of Orid Rounds by Tenali Double Horse",
+        "price": 0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Savor the crispy goodness of Tenali Double Horse Orid Rounds and embark on a flavorful journey that transcends time and tradition. With each bite, you'll experience the dedication and craftsmanship that go into creating these mouthwatering treats. Bring home a pack of Orid Rounds today and discover why Tenali Double Horse is a trusted name for authentic, quality snacks. Treat yourself to the taste of tradition and make every snack time a memorable experience. Order now and indulge in the finest! ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+              
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "img": "assets/img/prods-sm/tenali-double -horse-urad-dall-thirty-kgs.png",
+        "img2": "assets/img/prods-sm/tenali-double -horse-urad-dall-thirty-kgs.png",
+        "img3": "assets/img/prods-sm/tenali-double -horse-urad-dall-thirty-kgs.png",
+        "img4": "assets/img/prods-sm/tenali-double -horse-urad-dall-thirty-kgs.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Urad Dall 30kgs",
+        "shortdesc": "Urad Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price": 0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"30 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Elevate your culinary creations with the exceptional quality of Tenali Double Horse Urad Dall. Renowned for its purity, flavor, and unmatched nutritional value, Our Urad Dal is a staple ingredient in households across India. Whether you're an expert chef or a home cook, our Urad Dal will add depth and richness to your dishes, making every meal a delightful experience.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+              
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "img": "assets/img/prods-sm/tenali-double -horse-urad-gota-thirty-kg.png",
+        "img2": "assets/img/prods-sm/tenali-double -horse-urad-gota-thirty-kg.png",
+        "img3": "assets/img/prods-sm/tenali-double -horse-urad-gota-thirty-kg.png",
+        "img4": "assets/img/prods-sm/tenali-double -horse-urad-gota-thirty-kg.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Maharani Urad Dall 30kg",
+        "shortdesc": "Maharani Urad Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price": 0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"30 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"This hygienically packed pack of 30 kg whole urad Gota white helps you to be active by boosting energy levels It is good for digestion and also prevents constipation as it is enriched with Dietary Fabre and Protein You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Urad Dall (Whole). It features an unpolished texture, which helps retain its wholesome benefits. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+   
+    
+    {
+        "id": 14,
+        "img": "assets/img/prods-sm/tenali-double-horse-dubai-Chana-dall-1457x1457.webp",
+        "img2": "assets/img/prods-sm/tenali-double-horse-dubai-Chana-dall-1457x1457.webp",
+        "img3": "assets/img/prods-sm/tenali-double-horse-dubai-Chana-dall-1457x1457.webp",
+        "img4": "assets/img/prods-sm/tenali-double-horse-dubai-Chana-dall-1457x1457.webp",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Chana Dall 1kg",
+        "shortdesc": "Our Chana Dall, sourced with care and crafted with excellence, brings you the essence of health and taste in every bite.",
+        "price":4.95,
+        "symbol":"د.إ ",
+        "urls":"https://qr.emenu.ae/goodearth/#/product/110618",
+        "rating": 4,
+        "category": [
+            4,3
+        ],
+        "countery":"qtr",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Add Tenali Double Horse's Chana Dall to your cart today and savor the authentic taste of India. Elevate your culinary skills and enjoy the goodness of premium Chana Dal with every meal.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+              
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "img": "assets/img/prods-sm/tenali-double-horse-dubai-Moong-dall-1457x1457.webp",
+        "img2": "assets/img/prods-sm/tenali-double-horse-dubai-Moong-dall-1457x1457.webp",
+        "img3": "assets/img/prods-sm/tenali-double-horse-dubai-Moong-dall-1457x1457.webp",
+        "img4": "assets/img/prods-sm/tenali-double-horse-dubai-Moong-dall-1457x1457.webp",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Moong Dall 1kg",
+        "shortdesc": "Moong Dall is the best, procured from the best farms and fields in the country, and packed under hygienic conditions.",
+        "price": 6.95,
+        "symbol":"د.إ ",
+        "urls":"https://qr.emenu.ae/goodearth/#/product/110620",
+        "rating": 4,
+        "category": [
+            4,3
+        ],
+        "countery":"qtr",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Are you craving a taste of authentic Indian cuisine? Look no further than Tenali Double Horse's premium Moong Dal! Sourced from the heart of India's fertile farmlands, our Moong Dal is a must-have for every kitchen.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "img": "assets/img/prods-sm/tenali-double-horse-dubai-toor-dall-1457x1457.webp",
+        "img2": "assets/img/prods-sm/tenali-double-horse-dubai-toor-dall-1457x1457.webp",
+        "img3": "assets/img/prods-sm/tenali-double-horse-dubai-toor-dall-1457x1457.webp",
+        "img4": "assets/img/prods-sm/tenali-double-horse-dubai-toor-dall-1457x1457.webp",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Toor Dal 1kg",
+        "shortdesc": "Toor Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price":14.50,
+        "symbol":"د.إ ",
+        "urls":"https://qr.emenu.ae/goodearth/#/product/110614",
+        "rating": 4,
+        "category": [
+            4,3
+        ],
+        "countery":"qtr",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Indulge in the rich and authentic taste of Tenali Double Horse Toor Dal, a culinary gem that's cherished for its quality and flavor. Renowned for its wholesomeness, our Toor Dal is a kitchen essential that promises to elevate your cooking to new heights.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+         
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "img": "assets/img/prods-sm/tenali-double-horse-dubai-Urad-Dall-dall-1457x1457.webp",
+        "img2": "assets/img/prods-sm/tenali-double-horse-dubai-Urad-Dall-dall-1457x1457.webp",
+        "img3": "assets/img/prods-sm/tenali-double-horse-dubai-Urad-Dall-dall-1457x1457.webp",
+        "img4": "assets/img/prods-sm/tenali-double-horse-dubai-Urad-Dall-dall-1457x1457.webp",
+
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Urad Dal 1kg",
+        "shortdesc": "Discover the unparalleled quality of Tenali Double Horse Split Urad Dal, a pantry essential that will elevate your cooking to new heights. Sourced from the finest urad beans.",
+        "price":6.50,
+        "symbol":"د.إ ",
+        "urls":"https://qr.emenu.ae/goodearth/#/product/110621",
+        "rating": 4,
+        "category": [
+            4,3
+        ],
+        "countery":"qtr",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms",
+                "Nutrient-Rich": "Urad dall is a nutritional powerhouse, packed with protein, fiber, vitamins, and minerals. It's an excellent source of plant-based protein, making it an ideal choice for vegetarians "
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. It is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .It is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "img": "assets/img/prods-sm/tenali-double-horse-dubai-Urad-gota-1457x1457.webp",
+        "img2": "assets/img/prods-sm/tenali-double-horse-dubai-Urad-gota-1457x1457.webp",
+        "img3": "assets/img/prods-sm/tenali-double-horse-dubai-Urad-gota-1457x1457.webp",
+        "img4": "assets/img/prods-sm/tenali-double-horse-dubai-Urad-gota-1457x1457.webp",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Urad Gota 1kg",
+        "shortdesc": "Round Urad Gota is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
+        "price":13.50,
+        "symbol":"د.إ ",
+        "urls":"https://qr.emenu.ae/goodearth/#/product/110615",
+        "rating": 4,
+        "category": [
+            4,3
+        ],
+        "countery":"qtr",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. It is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .It is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney    "
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "img": "assets/img/prods-sm/tenali-double-horse-dubai-Rishika-sunnundalu--1457x1457.webp",
+        "img2": "assets/img/prods-sm/tenali-double-horse-dubai-Rishika-sunnundalu--1457x1457.webp",
+        "img3": "assets/img/prods-sm/tenali-double-horse-dubai-Rishika-sunnundalu--1457x1457.webp",
+        "img4": "assets/img/prods-sm/tenali-double-horse-dubai-Rishika-sunnundalu--1457x1457.webp",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Sunnundalu 1kg",
+        "shortdesc": "TDH Rishika Sunnundalu makes your celebration special, tasteful, and complete. Its sweetness brings about a feeling of togetherness and oneness with your family.",
+        "price":11.95,
+        "symbol":"د.إ ",
+        "urls":"https://qr.emenu.ae/goodearth/#/product/110622",
+        "rating": 4,
+        "category": [
+            4,3
+        ],
+        "countery":"qtr",
+        "bulletpoints": [
+            {
+               "Authentic Indian sweet": "Enjoy the traditional taste of Rishika Sunnundalu, a popular Andhra sweet.",
+              "Made from ghee" : "Made from roasted urad flour, jaggery, and desi ghee for a delicious and wholesome treat",
+                "Nutrient-rich": "These laddus are rich in iron, providing both sweetness and nutritional value.",
+                "No preservatives or added colors": "sweets are made with pure and natural ingredients."
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Indulge in the authentic flavors of India with Tenali Double Horse Foods Rishika Sunnundalu. These delectable laddus, also known as urad dal laddu, are a beloved traditional sweet from Andhra Pradesh. Made with a blend of roasted urad flour, jaggery, and desi ghee, these sweets offer a delightful combination of flavors and textures. Each box contains 12 pieces of Rishika Sunnundalu, providing you with ample servings to share with family and friends.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+              
+                "comment":""
+            }
+        ]
+    },
+
+    {
+        "id": 20,
+        "img": "assets/img/prods-sm/tenali-double-horse-usa-urad-gota.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-usa-urad-gota.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-usa-urad-gota.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-usa-urad-gota.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Urad Gota 2LB",
+        "shortdesc": "Round Urad Gota is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            2
+        ],
+        "countery":"usa",
+        "bulletpoints": [
+            {
+                "Weight ":"2LB"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly, dosa, vada, and other Indian recipes. It is a protein-rich food and its quality is determined by the softness of the batter and the taste of the recipe. Tenali Double Horse urad gota is the best choice as it is procured from the best framers& fields across India. It is processed in hygienic conditions and packed in substainable packing punches to ensure that the freshness lasts for long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    }
+    , {
+        "id": 32,
+        "img": "assets/img/prods-sm/tenali-double-horse-usa-Toor-dall.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-usa-Toor-dall.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-usa-Toor-dall.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-usa-Toor-dall.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Toor Dall 2LB",
+        "shortdesc": "Toor Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            2
+        ],
+        "countery":"usa",
+        "bulletpoints": [
+            {
+                "Weight ":"1 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. It is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India. It is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "img": "assets/img/prods-sm/tenali-double-horse-usa-Moong-dall.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-usa-Moong-dall.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-usa-Moong-dall.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-usa-Moong-dall.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Moong Dall 2LB",
+        "shortdesc": "Moong Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            2
+        ],
+        "countery":"usa",
+        "bulletpoints": [
+            {
+                "Weight ":"2LB"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. It is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .It is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    }, {
+        "id": 22,
+        "img": "assets/img/prods-sm/tenali-double-horse-usa-urad-gota.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-usa-urad-gota.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-usa-urad-gota.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-usa-urad-gota.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Urad Gota 4LB",
+        "shortdesc": "Round Urad Gota is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price":0.00,
+        "urls":"https://tenalidoublehorse.com/product/moong-dal-1kg/ ",
+        "rating": 4,
+        "category": [
+            2
+        ],
+        "countery":"usa",
+        "bulletpoints": [
+            {
+                "Weight ":"4LB"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. It is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .It is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    }
+    , {
+        "id": 23,
+        "img": "assets/img/prods-sm/tenali-double-horse-usa-Toor-dall.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-usa-Toor-dall.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-usa-Toor-dall.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-usa-Toor-dall.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Toor Dall 4LB",
+        "shortdesc": "Toor Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            2
+        ],
+        "countery":"usa",
+        "bulletpoints": [
+            {
+                "Weight ":"4LB"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. It is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .It is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "img": "assets/img/prods-sm/tenali-double-horse-usa-Moong-dall.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-usa-Moong-dall.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-usa-Moong-dall.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-usa-Moong-dall.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Moong Dall 4LB",
+        "shortdesc": "Moong Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price":65.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            2
+        ],
+        "countery":"usa",
+        "bulletpoints": [
+            {
+                "Weight ":"4LB"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. It is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .It is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    } ,
+    {
+        "id": 25,
+        "img": "assets/img/prods-sm/tenali-double-horse-husked-black-gram-thirty-kgs-pack.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-husked-black-gram-thirty-kgs-pack.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-husked-black-gram-thirty-kgs-pack.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-husked-black-gram-thirty-kgs-pack.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Husked Black gram 30kgs",
+        "shortdesc": "Tenali double-horse-husked black gram dall is rich in nutrients and is naturally rich in protein and high in dietary fiber.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"30 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"This hygienically packed 30kg bundle of Tenali Double Horse Husked Black Gram Dall is your key to maintaining high energy levels and an active lifestyle. Rich in dietary fiber and protein, it not only aids digestion but also effectively prevents constipation. With this generous supply, you have the freedom to craft a diverse array of daily meals, each brimming with delectable flavor and essential protein, thanks to the Tenali Double Horse Husked Black Gram Dall.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+              
+                "comment":""
+            }
+        ]
+    }
+    ,
+    {
+        "id": 26,
+        "img": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Chana Dall 30kgs",
+        "shortdesc": "Elevate your culinary experience with the finest Chana Dal brought to you by Tenali Double Horse. Sourced from the heartlands of India",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"30 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Experience the convenience of bulk cooking without compromising on quality. With our 30kg mega pack, you're all set to embark on a culinary journey filled with delicious flavors and wholesome nutrition. Order yours today and discover why Tenali Double Horse Chana Dal is the preferred choice of discerning chefs and home cooks. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+                "rating":4,
+                "comment":""
+            }
+        ]
+    }
+    ,
+    {
+        "id": 27,
+        "img": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Toor Dall 30Kgs",
+        "shortdesc": "Toor Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+               
+                "Weight ":"30 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. It is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .It is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney    "
+            }
+        ]
+    }
+    ,
+    {
+        "id": 28,
+        "img": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Moong Dall 30kgs",
+        "shortdesc": "Moong Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                "Weight ":"30 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Elevate your cooking with the finest Moong Dal in a generous 30kg quantity. Explore the limitless possibilities of your kitchen with premium quality and exceptional taste. Place your order for the 30kg bulk pack today and embark on a culinary journey that gratifies both your palate and your passion for cooking. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    }
+    ,
+    {
+        "id": 29,
+        "img": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Urad Rounds 30kgs",
+        "shortdesc": "We source the finest Urad Dal from trusted farms, ensuring each Urad Round is made from the best ingredients available.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"30 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Introducing Tenali Double Horse Urad Rounds, the quintessential choice for those who crave the authentic taste of traditional Indian cuisine. Crafted with precision and care, our Urad Rounds are the epitome of purity and flavor, capturing the essence of age-old culinary traditions in every bite.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "img": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Urad Chakki Dal (M2) 30kgs",
+        "shortdesc": "Are you in search of premium-quality, wholesome lentils to elevate your culinary creations? Look no further than Urad Chakki Dal M2, proudly presented by the renowned brand, Tenali Double Horse.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "1":"Processed with Desi Black Gram",
+                "2": "Procurement from the best harvesting fields",
+                "3": "Naturally processed, No added preservatives",
+                "4": "Pure Chakki",
+                "5": "Processed in first fully atomized plant in south India",
+                "6": "Packed without hand touch",
+                "7": "The best in quality, taste & yielding",
+                "8": "Process cared by committed & 18 years experience employees",
+                "9": "Plant certified with ISO 9001, ISO 22000"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Are you in search of premium-quality, wholesome lentils to elevate your culinary creations? Look no further than Urad Chakki Dal M2, proudly presented by the renowned brand, Tenali Double Horse. Our 30kg pack of Urad Chakki Dal M2 is the epitome of purity and taste, making it the perfect addition to your kitchen pantry. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    }
+    
+]
+    

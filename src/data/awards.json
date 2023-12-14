@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "assets/img/newsevents/awards/ek-bharat-shreshta-bharat.png",
+        "year":"2023",
+        "title":"Ek Bharat Shreshta Bharat",
+        "description":"Our MD, Mohan Shyam Prasad Garu, Felicated By The Honourable Governor of Tamil Nadu Thiru R.N.Ravi During EK Bharat Shreshta Bharat Programme."
+    },
+    {
+        "id": 2,
+        "imageUrl": "assets/img/newsevents/awards/yapararatna.png",
+        "year":"2023",
+        "title":"Vyapararatna",
+        "description":"The awarding of the Vyapararatna title to Mr. Shyam Prasad Garu by the  Akkineni Foundation of America is a momentous occasion of great significance. This prestigious recognition highlights Mr. Shyam Prasad Garu's remarkable accomplishments and contributions in the field of business and philanthropy."
+    },
+    {
+        "id": 3,
+        "imageUrl": "assets/img/newsevents/awards/the-best-food-product.png",
+        "year":"2023",
+        "title":"Best Food Products Company of The Year",
+        "description":"Tenali Double Horse, a name synonymous with quality and authenticity in the world of food products, has achieved a remarkable milestone by being honored with the prestigious Best Food Products Company of the Year award at the Hybiz TV Business Excellence Awards. This accolade underscores the brand's unwavering commitment to delivering top-notch food products that have won the hearts of consumers far and wide"
+    }
+   
+]

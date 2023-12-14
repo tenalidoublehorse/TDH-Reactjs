@@ -1,0 +1,79 @@
+{
+    "pizzamenu":[
+        {
+            "id":1,
+            "title":"Naturally Processed",
+            "price":14.99,
+            "icon":"assets/img/mtwo/1.png"
+        },{
+            "id":2,
+            "title":"No Added Preservatives",
+            "price":13.99,
+            "icon":"assets/img/mtwo/2.png"
+        },{
+            "id":3,
+            "title":"Packed Without Hand Touch",
+            "price":9.99,
+            "icon":"assets/img/mtwo/3.png"
+        },{
+            "id":4,
+            "title":"Procurement from best Harvesting fields",
+            "price":13.99,
+            "icon":"assets/img/mtwo/4.png"
+        },{
+            "id":5,
+            "title":"The Best In Quality, Taste",
+            "price":11.99,
+            "icon":"assets/img/mtwo/6.png"
+        }
+        ,{
+            "id":6,
+            "title":"Processed With Desi Black Gram",
+            "price":9.99,
+            "icon":"assets/img/mtwo/9.png"
+        },{
+            "id":7,
+            "title":"Processed In a first Fully Atomized Plant",
+            "price":13.99,
+            "icon":"assets/img/mtwo/7.png"
+        },{
+            "id":8,
+            "title":"Superior Quality",
+            "price":11.99,
+            "icon":"assets/img/mtwo/8.png"
+        }
+    ],
+    "pastamenu":[
+        {
+            "id":1,
+            "title":"Pesto Pasta",
+            "price":14.99,
+            "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+        },{
+            "id":2,
+            "title":"Fettucini",
+            "price":13.99,
+            "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+        },{
+            "id":3,
+            "title":"Chicken Alfredo",
+            "price":9.99,
+            "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+        },{
+            "id":4,
+            "title":"Linguini",
+            "price":13.99,
+            "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+        },{
+            "id":5,
+            "title":"Mac & Cheese",
+            "price":11.99,
+            "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+        },{
+            "id":6,
+            "title":"Italian Specialty",
+            "price":10.99,
+            "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been."
+        }
+    ]
+}

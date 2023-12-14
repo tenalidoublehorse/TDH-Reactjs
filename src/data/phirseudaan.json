@@ -1,0 +1,34 @@
+[
+    
+    
+    
+    {
+        "id": 1,
+        "imageUrl": "assets/img/csrgallery/phirseudaan-one.jpg"
+    },
+    {
+        "id": 2,
+        "imageUrl": "assets/img/csrgallery/phirseudaan-two.jpg"
+    },
+    {
+        "id": 3,
+        "imageUrl": "assets/img/csrgallery/phirseudaan-seven.png"
+    },
+    {
+        "id": 4,
+        "imageUrl": "assets/img/csrgallery/phirseudaan-three.jpg"
+    },
+    {
+        "id": 5,
+        "imageUrl": "assets/img/csrgallery/phirseudaan-four.jpg"
+    },
+    {
+        "id": 6,
+        "imageUrl": "assets/img/csrgallery/phirseudaan-five.jpg"
+    },
+    {
+        "id": 7,
+        "imageUrl": "assets/img/csrgallery/phirseudaan-six.jpg"
+    }
+   
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/team/one.png",
+        "name": "A Dinesh Reddy",
+        "desig": "Food Specialist",
+        "comment": "Tenali Double Horse Urad dal is the perfect way to elevate your cooking! After a suggestion from one of our friends, we gave it a try and were left pleasantly surprised - this unbelievable flavor was unlike anything we'd ever tasted before. Now, Tenali Gold Standard Urad Dal has become an essential addition to all of our dishes."
+    },
+    
+    {
+        "id": 2,
+        "img": "assets/img/team/three.png",
+        "name": "Radhika Mamidi",
+        "desig": "Food Specialist",
+        "comment": "Enjoy our Sundays with tdh recipes with family not only breakfast but sweets too... meeting together with delicious food is a long lasting memory. Tq tdh"
+    },
+    {
+        "id": 3,
+        "img": "assets/img/team/six.png",
+        "name": "Charmi Smily",
+        "desig": "Food Specialist",
+        "comment": "After the visit of the industry I came to know that the quality of the product is good. The process is clean without any chemicals. The concept of paper packing is amazing as they are eco-friendly. Liked the team work."
+    },
+    {
+        "id": 4,
+        "img": "assets/img/team/five.png",
+        "name": "Khushal T",
+        "desig": "Food Specialist",
+        "comment": "Great facility... most appreciable staff... have been very helpful... loved the time spent here... would love to look forward to coming by once again... their products r top notch and no other company could ever come close to the products tenali double horse could provide... have loved the company... would definitely request everyone to come by at least once in life"
+    }
+]

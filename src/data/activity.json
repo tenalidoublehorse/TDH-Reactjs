@@ -1,0 +1,38 @@
+[
+   
+    {
+        "id": 1,
+        "imageUrl": "assets/img/newsevents/eight.jpeg",
+        "imageUrl2": "assets/img/newsevents/vit-industrial.png",
+        "imageUrl3": "assets/img/newsevents/seven.jpeg",
+        "uiUrl": "assets/img/newsevents/eight.jpeg"
+    },
+    {
+        "id": 2,
+        "imageUrl": "assets/img/newsevents/vit-industrial.png",
+        "uiUrl": "assets/img/newsevents/eight.jpeg"
+    },
+    {
+        "id": 3,
+        "imageUrl": "assets/img/newsevents/seven.jpeg",
+        "uiUrl": "assets/img/newsevents/eight.jpeg"
+    },
+    {
+        "id": 4,
+        "imageUrl": "assets/img/newsevents/three.jpeg",
+        "uiUrl": "assets/img/newsevents/eight.jpeg"
+    },
+    {
+        "id": 5,
+        "imageUrl": "assets/img/newsevents/four.jpeg",
+        "uiUrl": "assets/img/newsevents/eight.jpeg"
+    },
+    {
+        "id": 6,
+        "imageUrl": "assets/img/newsevents/five.jpeg",
+        "uiUrl": "assets/img/newsevents/eight.jpeg"
+    }
+    
+   
+   
+]

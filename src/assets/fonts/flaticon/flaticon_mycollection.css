@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("./flaticon_mycollection.ttf?a8d38fcfb32324a19d9a17158d4b6a45") format("truetype"),
+url("./flaticon_mycollection.woff?a8d38fcfb32324a19d9a17158d4b6a45") format("woff"),
+url("./flaticon_mycollection.woff2?a8d38fcfb32324a19d9a17158d4b6a45") format("woff2"),
+url("./flaticon_mycollection.eot?a8d38fcfb32324a19d9a17158d4b6a45#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.svg?a8d38fcfb32324a19d9a17158d4b6a45#flaticon_mycollection") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-destination:before {
+    content: "\f101";
+}
+.flaticon-box:before {
+    content: "\f102";
+}
+.flaticon-india:before {
+    content: "\f103";
+}
+.flaticon-quality:before {
+    content: "\f104";
+}

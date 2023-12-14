@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "link":"/",
+        "child": false,
+        "submenu": [
+            {
+                "id": 12,
+                "link": "/home-v2",
+                "linkText": "Home"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "linkText": "Our Legacy",
+        "link":"/about",
+        "child": true,
+        "submenu": [{
+                "id": 21,
+                "linkText": "The Journey",
+                "link": "/about",
+                "type":"p"
+               
+            },
+            {
+                "id": 22,
+                "link": "/Where-we-are",
+                "linkText": "Where We Are",
+                "type":"p"
+            },
+            {
+                "id": 44,
+                "link": "/awards-recognitions",
+                "linkText": "Awards & Recognitions",
+                "type":"p"
+            }
+            
+        ]
+    },
+    {
+        "id": 3,
+        "linkText": "Blog",
+        "child": false,
+        "submenu": [
+            {
+                "id": 31,
+                "link": "/about",
+                "linkText": "About Us"
+            },
+            {
+                "id": 32,
+                "link": "/login",
+                "linkText": "Login"
+            },
+            {
+                "id": 33,
+                "link": "/register",
+                "linkText": "Sign Up"
+            },
+            {
+                "id": 34,
+                "link": "/checkout",
+                "linkText": "Checkout"
+            },
+            {
+                "id": 35,
+                "link": "/cart",
+                "linkText": "Cart"
+            },
+            {
+                "id": 36,
+                "link": "/legal",
+                "linkText": "Legal"
+            },
+            {
+                "id": 37,
+                "link": "/error",
+                "linkText": "Error 404"   
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linkText": "Products",
+        "child": true,
+        "submenu": [
+            {
+                "id": 41,
+                "link": "/tenali-double-horse-products",
+                "linkText": "TDH Products"
+            }
+        ]
+        
+    },
+    {
+        "id": 5,
+        "linkText": "News Room",
+        "link": "/news-room"
+    },
+    {
+        "id": 6,
+        "linkText": "Contact",
+        "link": "/Contactus"
+    }
+    
+    
+]

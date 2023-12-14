@@ -1,0 +1,1713 @@
+[
+    
+    {
+        "id": 1,
+        "img": "assets/img/prods-sm/rishika-instant-vada-mix.png",
+        "img2": "assets/img/prods-sm/rishika-instant-vada-mix.png",
+        "img3": "assets/img/prods-sm/rishika-instant-vada-mix.png",
+        "img4": "assets/img/prods-sm/rishika-instant-vada-mix.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+
+        "name": "Rishika Instant Vada Mix 200g",
+        "shortdesc": "Round Urad Gota is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions",
+        "price": 75.00,
+        "urls":"https://www.amazon.in/s?k=tenali+double+horse&crid=1U08I0ND78BQP&sprefix=tenali+do%2Caps%2C257&ref=nb_sb_ss_ts-doa-p_1_9",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+           
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Speciality":"suitable for vegetarians",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"200 Grams",
+            "Variety":"Lentils",
+            "Spicy and Flavorful": "Tenali Double Horse Foods Idli Karam Podi measures 100gm and is suitable for all age ranges. Enhance the taste and quality of your idlis with our carefully crafted spice mix. Color/Size Variation.",
+            "Authentic South Indian Blend":" Tenali Double Horse Foods Idli Karam Podi features a unique blend of traditional spices for an authentic taste. Ideal for South Indian cuisine lovers and spice enthusiasts.",
+            "Premium Quality Ingredients": "Made with high-quality spices, our Idli Karam Podi provides enhanced flavor. Suitable for all ideal cooking conditions, perfect for home cooks and professional chefs."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "1kg",
+                "state": true
+            },
+            {
+                "size": "10kgs",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            8
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. it is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .it is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ] 
+    },
+    {
+        "id": 2,
+        "img": "assets/img/prods-sm/rishika-instant-idly-mix.png",
+        "img2": "assets/img/prods-sm/rishika-instant-idly-mix.png",
+        "img3": "assets/img/prods-sm/rishika-instant-idly-mix.png",
+        "img4": "assets/img/prods-sm/rishika-instant-idly-mix.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Rishika Instant Idli Mix 200g",
+        "shortdesc": "Tenali Double Horse Foods has just launched the Rishika Instant Idli mix. It’s really easy when you have instant idli mix powder on hand.",
+        "price": 75.00,
+        "urls":"https://www.amazon.in/s?k=tenali+double+horse&crid=1U08I0ND78BQP&sprefix=tenali+do%2Caps%2C257&ref=nb_sb_ss_ts-doa-p_1_9",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Speciality":"suitable for vegetarians",
+            "Diet Type":"Vegetarian",
+            "Variety":"Lentils"
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            3,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+                
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "assets/img/prods-sm/rishika-instant-dosa-mix.png",
+        "img2": "assets/img/prods-sm/rishika-instant-dosa-mix.png",
+        "img3": "assets/img/prods-sm/rishika-instant-dosa-mix.png",
+        "img4": "assets/img/prods-sm/rishika-instant-dosa-mix.png",
+
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Rishika Instant Dosa Mix 200g",
+        "shortdesc": "Tenali Double Horse Foods has just launched the Rishika Instant Dosa mix. The dosas made with this quick mix were really tasty, crispy, and mouth-filling.",
+        "price":75.00,
+        "urls":"https://www.amazon.in/s?k=tenali+double+horse&crid=1U08I0ND78BQP&sprefix=tenali+do%2Caps%2C257&ref=nb_sb_ss_ts-doa-p_1_9",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse",
+            "Speciality":"suitable for vegetarians",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"200 grams",
+            "Authentic South Indian Flavors": "Enjoy the traditional taste of crispy and crunchy dosas with Tenali Double Horse Rishika Instant Dosa Mix.",
+            "Quick and Easy 5-minute Preparation": "Prepare delicious dosas in no time with this instant dosa mix, saving you valuable time in the kitchen.",
+           " No Colors or Preservatives": "We believe in providing you with a healthy and chemical-free food option, which is why our dosa mix contains no artificial colors or preservatives.",
+          " READY TO EAT":" Just add water and cook for delicious dosas in no time."
+
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            2,
+            1,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "img": "assets/img/prods-sm/rishika-sunnundalu.png",
+        "img2": "assets/img/prods-sm/rishika-sunnundalu.png",
+        "img3": "assets/img/prods-sm/rishika-sunnundalu.png",
+        "img4": "assets/img/prods-sm/rishika-sunnundalu.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Rishika Sunnundalu 200gms",
+        "shortdesc": "TDH Rishika Sunnundalu makes your celebration special, tasteful and complete. Its sweetness brings about a feeling of togetherness and oneness with your family.",
+        "price": 162.00,
+        "urls":"https://amzn.eu/d/7CSDDxW",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+            "Brand":"Tenali Double Horse Foods",
+            "Flavour":"Urad laddu",
+            "Speciality":"Preservative-Free",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"200 Grams",
+            "Variety":"Lentils",
+            "Authentic Indian sweet": "Enjoy the traditional taste of Rishika Sunnundalu, a popular Andhra sweet.",
+            "Made from ghee": "Made from roasted urad flour, jaggery, and desi ghee for a delicious and wholesome treat",
+            "Nutrient-rich": "These laddus are rich in iron, providing both sweetness and nutritional value."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            5,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    },
+    
+   
+    {
+        "id": 7,
+        "img": "assets/img/prods-sm/rishika-coriander.png",
+        "img2": "assets/img/prods-sm/rishika-coriander.png",
+        "img3": "assets/img/prods-sm/rishika-coriander.png",
+        "img4": "assets/img/prods-sm/rishika-coriander.png",
+
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Coriander Powder",
+        "shortdesc": " Discover the exceptional flavor and aroma of Tenali Double Horse Foods Coriander Powder. Made from the finest coriander seeds, this 100gm pack",
+        "price": 55.00,
+        "urls":"https://amzn.eu/d/7CSDDxW",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Speciality":"suitable for vegetarians",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"500 Grams",
+            "Freshly Ground Coriander": "Tenali Double Horse Foods' Coriander Powder is made from freshly ground coriander seeds, ensuring the highest quality and durability.",
+            "Aromatic and Flavorful": "Our Coriander Powder features a unique technology that preserves the natural aroma and flavor of coriander, adding a distinctive taste to your dishes."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+                
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "assets/img/prods-sm/rishika-dhaniya-powder.png",
+        "img2": "assets/img/prods-sm/rishika-dhaniya-powder.png",
+        "img3": "assets/img/prods-sm/rishika-dhaniya-powder.png",
+        "img4": "assets/img/prods-sm/rishika-dhaniya-powder.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Dhaniya Karam Podi",
+        "shortdesc": "Experience the true essence of Indian cuisine with our Authentic Pure Dhaniya Kara Podi. Sourced from the finest coriander seeds and meticulously blended",
+        "price": 55.00,
+        "urls":"https://amzn.eu/d/7CSDDxW",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+            
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Speciality":"suitable for vegetarians",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"100 Grams",
+            "Variety":"Lentils",         
+            "Premium Quality": "Made from hand-picked coriander seeds, ensuring the highest quality and freshness.",
+            "Health Benefits": "Coriander seeds are known for their antioxidant properties and digestive benefits."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "img": "assets/img/prods-sm/rishika-idli-karapodi.png",
+        "img2": "assets/img/prods-sm/rishika-idli-karapodi.png",
+        "img3": "assets/img/prods-sm/rishika-idli-karapodi.png",
+        "img4": "assets/img/prods-sm/rishika-idli-karapodi.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Idly Karam Podi",
+        "shortdesc": "Tenali Double Horse Foods Idli Karam Podi is the perfect solution for adding a spicy and flavorful twist to your idlis. Made in India",
+        "price":55.00,
+        "urls":"https://amzn.eu/d/7CSDDxW",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+            
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Speciality":"suitable for vegetarians",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"100 Grams",
+            "Variety":"Lentils",
+            "Spicy and Flavorful": "Tenali Double Horse Foods Idli Karam Podi measures 100gm and is suitable for all age ranges. Enhance the taste and quality of your idlis with our carefully crafted spice mix. Color/Size Variation.",
+            "Versatile Ingredient": "Includes a generous amount of spicy seasoning for endless idli possibilities. Perfect for breakfast or snacks and encourages culinary creativity. Suitable for all age ranges.",
+            "Authentic South Indian Blend":" Tenali Double Horse Foods Idli Karam Podi features a unique blend of traditional spices for an authentic taste. Ideal for South Indian cuisine lovers and spice enthusiasts."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "img": "assets/img/prods-sm/rishika-rasam-powder.png",
+        "img2": "assets/img/prods-sm/rishika-rasam-powder.png",
+        "img3": "assets/img/prods-sm/rishika-rasam-powder.png",
+        "img4": "assets/img/prods-sm/rishika-rasam-powder.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Rasam Powder",
+        "shortdesc": "Experience the rich flavors of South India with Tenali Double Horse Foods Rasam Powder. Our premium blend of handpicked spices and herbs brings you the authentic taste of traditional rasam.",
+        "price":80.00,
+        "urls":"https://amzn.eu/d/7CSDDxW",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Speciality":"suitable for vegetarians",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"100 Grams",
+            "Item Form":"Powder",
+            "TEMPTING AROMA":" Delight your senses with the enticing aroma of our Rasam Powder.",
+"AUTHENTIC TASTE": "Experience the authentic flavors of South India with our traditional recipe.",
+"PREMIUM QUALITY": "Made from handpicked spices and herbs for superior quality and taste.",
+"EASY TO PREPARE": "Prepare a tangy and flavorful rasam effortlessly in no time.",
+"HEALTHY INGREDIENTS": "Made with natural ingredients, free from preservatives and additives.",
+"IDEAL PACK SIZE":" Convenient 100g pack for freshness and easy storage."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 10,
+        "img": "assets/img/prods-sm/rishika-sambar-powder.png",
+        "img2": "assets/img/prods-sm/rishika-sambar-powder.png",
+        "img3": "assets/img/prods-sm/rishika-sambar-powder.png",
+        "img4": "assets/img/prods-sm/rishika-sambar-powder.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Sambar Powder",
+        "shortdesc": "Indulge in the authentic flavors of South India with Tenali Double Horse Sambar Powder. Crafted with passion and expertise, this spice mix is the secret to mouthwatering sambar",
+        "price":80.00,
+        "urls":"https://amzn.eu/d/gLQVpzb",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Item Form":"Powder",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"100 Grams",
+            "Package":"Bag",
+            "Uthentic South Indian Flavors" : "Experience the true taste of South India with our expertly crafted sambar powder.",
+            "Premium Quality Ingredients": "Made from high-quality ingredients, including coriander, red chilli, fenugreek, and more."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 11,
+        "img": "assets/img/prods-sm/rsihika-kandi-karapodi.png",
+        "img2": "assets/img/prods-sm/rsihika-kandi-karapodi.png",
+        "img3": "assets/img/prods-sm/rsihika-kandi-karapodi.png",
+        "img4": "assets/img/prods-sm/rsihika-kandi-karapodi.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Kandi Karam Powder",
+        "shortdesc": "A culinary delight that will add an explosion of flavors to your meals. Crafted with care and expertise, our Kandi Kara Podi is a versatile spice blend that will elevate your cooking to new heights.",
+        "price":55.00,
+        "urls":"https://amzn.eu/d/fPXmXYY",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Item Form":"Powder",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"100 Grams",
+            "Variety":"Lentils",
+            "FLAVORFUL SPICE BLEND": "Our Kandi Kara Podi combines the richness of traditional spices to create an unforgettable taste experience.",
+            "AUTHENTIC SOUTH INDIAN RECIPE": "Crafted with passion and using traditional methods, our spice blend captures the true essence of South Indian cuisine.",
+            "VERSATILE CULINARY INGREDIENT": "Add depth and complexity to a wide range of dishes including curries, stir-fries, marinades, and more."
+                        }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "img": "assets/img/prods-sm/rishika-karvepaku-karapodi.png",
+        "img2": "assets/img/prods-sm/rishika-karvepaku-karapodi.png",
+        "img3": "assets/img/prods-sm/rishika-karvepaku-karapodi.png",
+        "img4": "assets/img/prods-sm/rishika-karvepaku-karapodi.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Karvepaku Powder",
+        "shortdesc": "Indulge in the authentic flavors of Tenali Double Horse Foods’ Karvepaku Karam Podi. Made from carefully selected, high-quality ingredients",
+        "price":55.00,
+        "urls":"https://amzn.eu/d/diRefLF",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Item Form":"Power",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"100 Grams",
+            "ROBUST FLAVOR": "Ignite your taste buds with the robust flavor of our Karvepaku Karam",
+            "AUTHENTIC RECIPE": "Crafted using an authentic recipe, this spice blend captures the essence of traditional Indian cuisine.",
+            "FLAVORFUL BLEND": "Experience the perfect balance of spices and curry leaves in our Karvepaku Karam Podi, delivering a burst of flavors in every bite.",
+            "HEALTHY AND NATURAL": "Our spice blend is made without any artificial preservatives or additives, providing a natural and wholesome option for your meals."
+                        }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "img": "assets/img/prods-sm/rishika-chilli-powder.png",
+        "img2": "assets/img/prods-sm/rishika-chilli-powder.png",
+        "img3": "assets/img/prods-sm/rishika-chilli-powder.png",
+        "img4": "assets/img/prods-sm/rishika-chilli-powder.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Chilli Powder",
+        "shortdesc": "Enhance the taste of your favorite dishes with Tenali Double Horse Foods Chilli Powder. Made from the finest quality hand-picked chillies",
+        "price":284.00,
+        "urls":"https://www.amazon.in/s?k=tenali+double+horse&crid=1U08I0ND78BQP&sprefix=tenali+do%2Caps%2C257&ref=nb_sb_ss_ts-doa-p_1_9",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Speciality":"suitable for vegetarians",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"500 Grams",
+            "Variety":"Lentils"
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 14,
+        "img": "assets/img/prods-sm/rishika-tumeric.png",
+        "img2": "assets/img/prods-sm/rishika-tumeric.png",
+        "img3": "assets/img/prods-sm/rishika-tumeric.png",
+        "img4": "assets/img/prods-sm/rishika-tumeric.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Turmeric Powder",
+        "shortdesc": "Experience the finest quality of Turmeric Powder with Tenali Double Horse Foods. Our 100g pack of Turmeric Powder is made from carefully selected organic turmeric roots",
+        "price":108.00,
+        "urls":"https://amzn.eu/d/3tXFnog ",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Speciality":"Organic",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"500 Grams",
+           " Rich Flavor":" Our Turmeric Powder is known for its robust flavor that enhances the taste of various dishes.",
+"Nutrient-Rich": "Turmeric is renowned for its numerous health benefits, and our powder retains its natural goodness.",
+"Premium Quality":" Made from carefully selected organic turmeric roots for the finest taste and aroma.",
+"Health Benefits": "Contains curcumin, an antioxidant and anti-inflammatory compound for promoting wellness."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 15,
+        "img": "assets/img/prods-sm/rishika-tomato-pickle.png",
+        "img2": "assets/img/prods-sm/rishika-tomato-pickle.png",
+        "img3": "assets/img/prods-sm/rishika-tomato-pickle.png",
+        "img4": "assets/img/prods-sm/rishika-tomato-pickle.png",
+        
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Tomato Pickle",
+        "shortdesc": "Discover the Flavors of India with Tenali Double Horse Foods’ Rishika Tomato Pickles.Handcrafted with care and made from the finest ingredients",
+        "price":99.00,
+        "urls":"https://amzn.eu/d/8h3jT3D",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Speciality":"Spicy",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"250 Grams",
+            "Package":"Jar",
+            "Tangy and Delicious Flavor ":"Our Rishika Tomato Pickles are bursting with a tangy and delicious taste that will tantalize your taste buds. Elevate your meals with a burst of flavor.",
+            "Authentic Indian Cuisine ": "Made with traditional recipes and authentic ingredients, our Rishika Tomato Pickles capture the true essence of Indian cuisine. Indulge in the flavors of India.",
+            "Versatile Condiment ": "Whether you're enjoying it with rice, bread, curries, or snacks, our tomato pickles are the perfect condiment to enhance the taste of your favorite dishes."
+                        }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 16,
+        "img": "assets/img/prods-sm/rishika-mango-pickle.png",
+        "img2": "assets/img/prods-sm/rishika-mango-pickle.png",
+        "img3": "assets/img/prods-sm/rishika-mango-pickle.png",
+        "img4": "assets/img/prods-sm/rishika-mango-pickle.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Mango Pickle ",
+        "shortdesc": "Indulge in the rich and traditional flavors of Tenali Double Horse Foods Rishika Mango Pickles, carefully crafted to perfection. Our delicious mango pickles are a true delight for pickle enthusiasts.",
+        "price":97.00,
+        "urls":"https://amzn.eu/d/jlzWUhM",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Fods",
+            "Speciality":"Preservative Free, Spicy",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"250 Grams",
+            "Package":"Jar",
+            "TRADITIONAL RECIPE ":"Crafted with care using a time-tested recipe for an authentic taste.",
+            "TANGY & SPICY ":" A perfect balance of tanginess and spiciness to add zing to your meals.",
+            "PRESERVATIVE-FREE": "healthy product, free from artificial preservatives or additives.",
+            "SMALL-BATCH CRAFTSMANSHIP":" our pickles maintain their homemade taste and premium quality."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 17,
+        "img": "assets/img/prods-sm/rishika-gongura-pickle.png",
+        "img2": "assets/img/prods-sm/rishika-gongura-pickle.png",
+        "img3": "assets/img/prods-sm/rishika-gongura-pickle.png",
+        "img4": "assets/img/prods-sm/rishika-gongura-pickle.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Gongura Pickle",
+        "shortdesc": "Experience the Rich and Tangy Flavors of Tenali Double Horse Rishika Gongura Pickle. Discover the secret to delightful meals with our authentic Gongura Pickle.",
+        "price":99.00,
+        "urls":"https://amzn.eu/d/8h3jT3D",
+        "rating": 4,
+        "category": [
+            1,2,
+            4,5,7,8,9,10,11
+        ],
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse Foods",
+            "Speciality":"suitable for vegetarians",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"500 Grams",
+            "Tangy and Spicy Flavor ": "Adds zing to your meals with a perfect balance of tanginess and spiciness. Enhances the overall taste.",
+            "Handcrafted with Traditional Methods ":"Our Gongura Pickle is made using age-old techniques, preserving the authentic flavors and ensuring a delightful experience.",
+            "Versatile Condiment":"Goes well with rice, roti, dosa, and other Indian dishes. Elevates the taste and brings out the best flavors.",
+            "High-Quality Ingredients ":" We use carefully selected ingredients to deliver a pickle that is rich in taste, aroma, and quality.",
+            "Convenient Packaging":" The 250g pack is designed for easy storage and usage. Keep the pickle fresh and enjoy it at your convenience."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    
+                ]
+            }
+           
+            
+        ],
+        "longdescription":"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img":"assets/img/people/2.jpg",
+                "name":"Ilyn Rodrick",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img":"assets/img/people/3.jpg",
+                "name":"Fiyona Lumber",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
+            }
+        ]
+    }
+]
+    

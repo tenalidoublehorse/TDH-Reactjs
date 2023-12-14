@@ -1,0 +1,534 @@
+[
+    
+    {
+        "id": 1,
+        "img": "./assets/img/home/tenali-double-horse-urad-gota.png",
+        "img2": "assets/img/prods-sm/uradgota/uradagota-sample-1.png",
+        "img3": "assets/img/prods-sm/uradgota/uradagota-sample-2.png",
+        "img4": "assets/img/prods-sm/uradgota/uradagota-sample-3.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+
+        
+        "name": "Urad Gota 1Kg",
+        "shortdesc": "Round Urad Gota is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price": 220.00,
+        "symbol":"₹",
+        "urls":"https://www.amazon.in/dp/B07QJ3TJQY?ref=myi_title_dp",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                
+            "Brand":"Tenali Double Horse",
+            "Speciality":"suitable for vegetarians",
+            "Diet Type":"Vegetarian",
+            "Item Weight ":"1 Kilograms",
+            "Variety":"Lentils",
+            "Organic" :"No",
+            "Container Maximum Shelf Life" :"4 Months"
+            }
+        ],
+        "sizes": [
+            {
+                "size": "1kg",
+                "state": true
+            },
+            {
+                "size": "10kgs",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            8
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly, dosa, vada, and other Indian recipes. It is a protein-rich food, and its quality is determined by the softness of the batter and the taste of the recipe. Tenali Double Horse Urad Gota is the best choice as it is procured from the best farmers and fields across India. It is processed in hygienic conditions and packed in sustainable packing punches to ensure that the freshness lasts for a long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    }
+    ,
+    
+    {
+        "id": 6,
+        "img": "./assets/img/home/tenali-double-horse-toor-dall.png",
+        "img2": "assets/img/prods-sm/toordall/Tenali-Double-Horse-Toor-Dall-sample-1.png",
+        "img3": "assets/img/prods-sm/toordall/Tenali-Double-Horse-Toor-Dall-sample-2.png",
+        "img4": "assets/img/prods-sm/toordall/Tenali-Double-Horse-Toor-Dall-sample-3.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Toor Dall 1kg",
+        "shortdesc": "Toor Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price": 260.00,
+        "symbol":"₹",
+        "urls":"https://amzn.eu/d/8d0e5US",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+            
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Speciality":"suitable for vegetarians",
+                "Diet Type":"Vegetarian",
+                "Weight ":"1 Kilograms"
+                }
+            
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Indulge in the rich and authentic taste of Tenali Double Horse Toor Dall, a culinary gem that's cherished for its quality and flavor. Renowned for its wholesomeness, our Toor Dal is a kitchen essential that promises to elevate your cooking to new heights.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+
+
+    
+    {
+        "id": 7,
+        "img": "./assets/img/home/tenali-double-horse-moong-dall.png",
+        "img2": "assets/img/home/moong-dall.png",
+        "img3": "assets/img/prods-sm/Tenali-Double-horse-Moong-Dal-300x300.png",
+        "img4": "assets/img/home/moong-dall.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Moong Dall 1/2kg",
+        "shortdesc": "Moong Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "price":90.00,
+        "symbol":"₹",
+        "urls":"https://www.amazon.in/dp/B0BJ784MMY?ref=myi_title_dp ",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+            
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Speciality":"suitable for vegetarians",
+                "Diet Type":"Vegetarian",
+                "Weight ":"1 Kilograms"
+                }
+            
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Are you craving a taste of authentic Indian cuisine? Look no further than Tenali Double Horse's premium moong dal! Sourced from the heart of India's fertile farmlands, our Moong Dal is a must-have for every kitchen. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    
+
+    
+   
+
+    {
+        "id": 9,
+        "img": "./assets/img/home/tenali-double-horse-idly-rava.png",
+        "img2": "assets/img/prods-sm/idly/tenali-double-horse-idly-rava-1.png",
+        "img3": "assets/img/home/new-idly-ravva.png",
+        "img4": "assets/img/prods-sm/idly/tenali-double-horse-idly-rava-2.png",
+  
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Idly Ravva 1Kg",
+        "shortdesc": "Fine-textured semolina is used to make traditional South Indian idlis, offering a fluffy and nutritious breakfast option.",
+        "price":60.00,
+        "symbol":"₹",
+        "urls":"https://amzn.eu/d/5o6j5U2/",
+        "rating": 4,
+        "category": [
+            1,
+            5,7,8,9,10,11
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Speciality":"suitable for vegetarians",
+                "Diet Type":"Vegetarian",
+                "Weight ":"1 Kilograms",
+                "Premium Quality":"Our Idly Ravva is made from the highest quality ingredients, ensuring superior taste and texture for your idlis.",
+                "Soft and Fluffy Idlis":" Experience the joy of soft, fluffy idlis with our specially crafted idli rava.",
+                "100% Natural": "We believe in providing you with authentic products, free from artificial additives or preservatives.",
+                "Easy To Cook":"Prepare delicious idlis effortlessly with our Idly Ravva. Just follow the simple instructions and enjoy a homemade feast",
+                "Nutritionally Rich": "Our idli rava is packed with essential nutrients, making it a healthy choice for you and your family."
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    }
+                    ,
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Discover the secret to making perfect idlis every time with Tenali Double Horse Idly Ravva. Our premium-quality idli rava is specially crafted to deliver soft, fluffy, and delicious idlis that will tantalize your taste buds. Made from the finest ingredients, this 100% natural and authentic idly ravva guarantees a delightful culinary experience.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+            
+                "comment":""
+            }
+        ]
+    }
+   
+
+    
+   
+    
+   
+    
+]
+    

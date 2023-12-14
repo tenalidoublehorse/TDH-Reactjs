@@ -1,0 +1,41 @@
+$flaticon_mycollection-font: "flaticon_mycollection";
+
+@font-face {
+    font-family: $flaticon_mycollection-font;
+    src: url("./flaticon_mycollection.ttf?a8d38fcfb32324a19d9a17158d4b6a45") format("truetype"),
+url("./flaticon_mycollection.woff?a8d38fcfb32324a19d9a17158d4b6a45") format("woff"),
+url("./flaticon_mycollection.woff2?a8d38fcfb32324a19d9a17158d4b6a45") format("woff2"),
+url("./flaticon_mycollection.eot?a8d38fcfb32324a19d9a17158d4b6a45#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.svg?a8d38fcfb32324a19d9a17158d4b6a45#flaticon_mycollection") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_mycollection-map: (
+    "destination": "\f101",
+    "box": "\f102",
+    "india": "\f103",
+    "quality": "\f104",
+);
+
+.flaticon-destination:before {
+    content: map-get($flaticon_mycollection-map, "destination");
+}
+.flaticon-box:before {
+    content: map-get($flaticon_mycollection-map, "box");
+}
+.flaticon-india:before {
+    content: map-get($flaticon_mycollection-map, "india");
+}
+.flaticon-quality:before {
+    content: map-get($flaticon_mycollection-map, "quality");
+}

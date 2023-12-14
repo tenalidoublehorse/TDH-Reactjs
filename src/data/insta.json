@@ -1,0 +1,70 @@
+[  
+     {
+    "id": 12,
+    "imageUrl": "assets/img/newsevents/tdh-msme-enaadu-news-artical.png",
+    "caption": "phirese udaan"
+}
+,
+    {
+    "id": 9,
+    "imageUrl": "assets/img/newsevents/tdh-msmec-2-national-award.png",
+    "caption": "Image 2" 
+}
+,
+    {
+    "id": 13,
+    "imageUrl": "assets/img/newsevents/tdh-msme-award-sakshi-news-artical.png",
+    "caption": "phirese udaan"
+}
+,
+    {
+        "id": 20,
+        "imageUrl": "assets/img/newsevents/diwali-wishes.png",
+        "caption": "diwali Wishes"
+    },
+    {
+        "id": 19,
+        "imageUrl": "assets/img/newsevents/divali-enadu-paper-adv.png",
+        "caption": "divali enadu paper adv"
+    },
+    {
+        "id": 18,
+        "imageUrl": "assets/img/newsevents/nutrition-powder-packets-distributed-5.png",
+        "caption": "ek bharat shreshta barat"
+    },
+   
+    
+    {
+        "id": 15,
+        "imageUrl": "assets/img/newsevents/Leprosy.png",
+        "caption": "phirese udaan"
+    }
+    ,
+    {
+        "id": 14,
+        "imageUrl": "assets/img/newsevents/merite-scoller-two.png",
+        "caption": "phirese udaan"
+    }
+    ,
+    
+
+  
+    {
+        "id": 11,
+        "imageUrl": "assets/img/newsevents/tenali-double-horse-all-products-img.png",
+        "caption": "Image 2"
+    }
+    ,  
+    {
+        "id": 10,
+        "imageUrl": "assets/img/newsevents/the-changemaker-of-india.png",
+        "caption": "Image 2"
+    }
+    ,
+   
+   
+    {
+        "id": 2,
+        "imageUrl": "assets/img/newsevents/industrial-visit-to-tenali-double-horse-09-jan-2023.png"
+    }
+]

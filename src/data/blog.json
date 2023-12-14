@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "image": "assets/img/blog/1.jpg",
+        "masonryimage": "assets/img/people/2025.png",
+        "fullview": "col-lg-3",
+        "title": "Our all new chicken  now available",
+        "shortdesc": "An online platform to help women who have taken a break in their careers to rejoin the workforce with confidence",
+        "postdate": "Octomber 2, 2023",
+        "author": {
+            "name": "tenali double horse"
+        },
+        "longdescription": "<p> An online platform to help women who have taken a break in their careers to rejoin the workforce with confidence </p>"
+    }
+]

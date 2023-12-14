@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/prods-sm/1.png",
+        "name": "Eco Pack",
+        "qty": 4,
+        "price": 154.99,
+        "flavours": [
+            "14 Inches",
+            "Extra Cheese",
+            "Cheese Crust"
+        ]
+    }
+    
+]

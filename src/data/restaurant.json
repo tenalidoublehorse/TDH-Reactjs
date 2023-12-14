@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/tenali-double-horse-640x426.jpg",
+        "title": "Regional Office",
+        "brancetype": "Main Branch",
+        "location": [
+            "JK TOWERS, 8-2-293/82/B/S-7 ",
+             " 2nd Floor Road Number 10C ",
+              " Gayatri Hills Jubilee Hills,",
+               "  Hyderabad Telangana 500033, India"
+        ],
+        "contactno": "1800270567567",
+        "emailid": "info@tenalidoublehorse.com",
+        "mapdata": [
+            17.434710,
+            78.414280
+        ]
+    },
+    {
+        "id": 2,
+        "img": "assets/img/tenali-double-horse-640x426.jpg",
+        "title": "Factory Office",
+        "brancetype": "Factory Office",
+        "location": [
+            "Maharani Dall Mill ",
+             " Plot No. 38 & 39 Somasundaram Palem,",
+             "  Auto Nagar Katevaram,",
+              " Guntur District Andhra Pradesh,",
+              "  522202 ,India"
+        ],
+        "contactno": "1800270567567",
+        "emailid": "info@tenalidoublehorse.com",
+        "mapdata": [
+            16.267490,
+            80.636830
+        ]
+    }
+    
+]
