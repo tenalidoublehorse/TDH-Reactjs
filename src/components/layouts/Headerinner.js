@@ -90,7 +90,7 @@ class Headerinner extends HeaderComponent {
                                 </div>
                                  
                                 </ul>
-                                {/* Toggler */}
+                             
                                 <div className="aside-toggler aside-trigger" onClick={this.toggleNav}>
                                     <span />
                                     <span />

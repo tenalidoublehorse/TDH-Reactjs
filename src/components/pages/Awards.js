@@ -7,7 +7,7 @@ import Footer from '../layouts/Footer';
 import Content from '../sections/awards/content';
 import Submenu from '../layouts/submenu';
 const pagelocation = 'Awards & Recognitions'
-const bannerimg = "/assets/img/banner/awards-recginations.png"
+const bannerimg = "/assets/img/banner/awards-and-Reconginations.jpeg"
 
 class Locations extends Component {
     render() {
