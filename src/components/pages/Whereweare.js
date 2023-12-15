@@ -7,7 +7,7 @@ import Footer from '../layouts/Footer';
 import Content from '../sections/blog-grid/Content';
 import Submenu from '../layouts/submenu';
 const pagelocation = 'Where we are'
-const bannerimg = "/assets/img/banner/contact-header-banner.png"
+const bannerimg = "/assets/img/banner/where-we-are.png"
 
 class Bloggrid extends Component {
     render() {
