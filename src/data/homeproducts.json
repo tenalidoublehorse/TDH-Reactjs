@@ -1042,21 +1042,23 @@
     ]
 } 
     
-   ,{
-    "id": 3,
+  ,
+{
+    "id": 4,
     "img": "assets/img/prods-sm/tdh-husked-urad-dall.png",
-    "img2": "assets/img/prods-sm/Tenali-Double-Horse-Urad-Dal-300x300.png",
-    "img3": "assets/img/prods-sm/Tenali-Double-Horse-Urad-Dal-300x300.png",
-    "img4": "assets/img/prods-sm/Tenali-Double-Horse-Urad-Dal-300x300.png",
+    "img2": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Husked-Urad-Dall-1457X1457-2.png",
+    "img3": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Husked-Urad-Dall-1457X1457-3.png",
+    "img4": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Husked-Urad-Dall-1457X1457-4.png",
+
     "productsafetyimg1": "assets/img/safety-images/no-colora.png",
     "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
     "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
     "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-    "name": "Urad Dall 1kg",
-    "shortdesc": "Urad Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
-    "price":195.00,
+    "name": "Husked Black Gram Dall 1kg",
+    "shortdesc": "Tenali double horse-husked black gram Dall is rich in nutrients, and Urad dall is naturally rich in protein and high in dietary fiber.",
+    "price": 175.00,
     "symbol":"₹",
-    "urls":"",
+    "urls":"https://amzn.eu/d/0O3t9IJ",
     "rating": 4,
     "category": [
         1,
@@ -1065,7 +1067,8 @@
     "countery":"ind",
     "bulletpoints": [
         {
-            "Weight ":"1 Kilograms"
+            "Weight ":"1 Kilograms",
+            "Region of Origin":"india"
             }
     ],
     "sizes": [
@@ -1084,9 +1087,9 @@
     ],
     "sku":"N/A",
     "tags": [
-        2,
         1,
         4,
+        5,
         7
     ],
     "attributes": [
@@ -1155,7 +1158,7 @@
             ]
         }
     ],
-    "longdescription":"Elevate your culinary creations with the exceptional quality of Tenali Double Horse Urad Dall. Renowned for its purity, flavor, and unmatched nutritional value, our Urad Dall is a staple ingredient in households across India. Whether you're an expert chef or a home cook, our Urad Dal will add depth and richness to your dishes, making every meal a delightful experience. ",
+    "longdescription":"This hygienically packed Husked Black Gram Dall whole pack of 2 helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein. You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Husked Black Gram Dall.",
     "reviews":[
         {
             "img":"assets/img/people/1.jpg",
@@ -1165,7 +1168,6 @@
             "comment":""
         }
     ]
-}
-    
+}  
 ]
     

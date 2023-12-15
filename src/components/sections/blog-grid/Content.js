@@ -140,7 +140,7 @@ class Content extends Component {
             ))}
       
     </ComposableMap>
-    <Feedback/>
+    {/* <Feedback/> */}
     <Messenger/>
   </div>
                 

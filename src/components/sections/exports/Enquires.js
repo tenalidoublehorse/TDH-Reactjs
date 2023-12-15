@@ -104,7 +104,7 @@ class Enquires extends Component {
                 </div>
              
             
-                <Feedback/>
+                {/* <Feedback/> */}
                 <Messenger/>
                 <div className="section" style={{ paddingBottom: '0px' }}>
 

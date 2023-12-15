@@ -13,7 +13,7 @@ class Content extends Component {
             <Fragment>
               
                <PortfolioV2/>
-               <Feedback/>
+               {/* <Feedback/> */}
                <Messenger/>
                {/* <AppleFactsSlider/> */}
             </Fragment>

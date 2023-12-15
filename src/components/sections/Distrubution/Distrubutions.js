@@ -103,8 +103,8 @@ class Distrubutions extends Component {
                     </div>
                 </div>
              
-            
-                <Feedback/>
+{/*             
+                <Feedback/> */}
                 <Messenger/>
                 <div className="section" style={{ paddingBottom: '0px' }}>
 

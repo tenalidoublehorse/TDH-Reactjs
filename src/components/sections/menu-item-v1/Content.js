@@ -259,7 +259,7 @@ class Content extends Component {
                 </div>
 
                 <Relatedproduct productId={item.countery}/>
-                <Feedback/>
+                {/* <Feedback/> */}
                 <Messenger/>
             </Fragment>
         );

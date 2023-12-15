@@ -13,7 +13,7 @@ class Content extends Component {
             <Fragment>
               
                <Enquires/>
-               <Feedback/>
+               {/* <Feedback/> */}
                <Messenger/>
             
             </Fragment>
