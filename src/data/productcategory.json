@@ -18,7 +18,7 @@
     {
         "id": 3,
         "title": "UAE",
-        "img": "assets/img/categories-lg/uae.png",
+        "img": "assets/img/categories-lg/Uae.png",
         "lgimg":"assets/img/categories-lg/3.jpg",
         "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
         "urls":" "
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "title": "Qatar",
-        "img": "assets/img/categories-lg/qatar.png",
+        "img": "assets/img/categories-lg/Qatar.png",
         "lgimg":"assets/img/categories-lg/1.jpg",
         "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
         "urls":" "
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "title": "Singapore",
-        "img": "assets/img/categories-lg/singapore.png",
+        "img": "assets/img/categories-lg/Singapore.png",
         "lgimg":"assets/img/categories-lg/1.jpg",
         "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
         "urls":" "
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "title": "Paris",
-        "img": "assets/img/categories-lg/paris.png",
+        "img": "assets/img/categories-lg/Paris.png",
         "lgimg":"assets/img/categories-lg/1.jpg",
         "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
         "urls":" "
@@ -75,7 +75,7 @@
     {
         "id": 10,
         "title": "UK",
-        "img": "assets/img/categories-lg/uk.png",
+        "img": "assets/img/categories-lg/Uk.png",
         "lgimg":"assets/img/categories-lg/1.jpg",
         "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
         "urls":" "
@@ -84,7 +84,7 @@
     {
         "id": 11,
         "title": "Austraila",
-        "img": "/assets/img/categories-lg/austraila.png",
+        "img": "assets/img/categories-lg/Austraila.png",
         "lgimg":"assets/img/categories-lg/1.jpg",
         "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
         "urls":" "
@@ -93,7 +93,7 @@
     {
         "id": 12,
         "title": "Europe",
-        "img": "assets/img/categories-lg/europe.png",
+        "img": "assets/img/categories-lg/Europe.png",
         "lgimg":"assets/img/categories-lg/1.jpg",
         "shortdesc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
         "urls":" "
