@@ -9977,6 +9977,10 @@ section {
 .pattern {
     margin-top: -45px;
 }
+.sub-header-breadcrumbs {
+  padding: 200px 0 40px;
+}
+
 }
 
 
@@ -10344,6 +10348,9 @@ section {
     .bulk-subpoint{
       display: block;
       
+    }
+    .sub-header-breadcrumbs {
+      padding: 500px 0 40px;
     }
 }
 
