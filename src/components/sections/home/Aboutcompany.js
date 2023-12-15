@@ -34,7 +34,7 @@ class TimelineSection extends Component {
                         <h2 className="title">Tenali Double Horse</h2>
                         <p>At Tenali Double Horse, our journey began in 2005 with a vision to bring excellence and trust to every household in India. Guided by our commitment to quality and customer satisfaction, we have since become a trusted name that resonates with millions.</p>
               </div>
-            <div className="fluid-container video-conatiner mt-3">
+            <div className="container-fluid video-conatiner mt-3">
               <div className="row ourstory-section text-center"  >
                 <div className='col-lg-12   about-video'>
 

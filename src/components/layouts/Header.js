@@ -77,7 +77,7 @@ class Header extends HeaderComponent {
                 {/* Header Start */}
                 <header className={headerClass} style={{ backgroundColor: isSticky ? 'white' : 'transparent',boxShadow: isSticky ? '0px 4px 6px rgba(0, 0, 0, 0.1)':'0px 4px 6px rgba(0, 0, 0, 0)'}}>
                     
-                    <div className="container">
+                    <div className="container-fluid">
                         <nav className="navbar">
                             {/* Logo */}
                             <Link className="navbar-brand" to="/">

@@ -23,78 +23,79 @@ class Bultproductsslider extends Component {
         }
 
         return (
-            <div className="pb-5 pt-5">
+            <div className="bule-container-section pb-2 pt-5">
                 <Slider className="" {...settings}>
-                    <div className="row d-flex">
-                        <div className='col-sm-12 col-lg-6'>
-                            <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/maharani.png"} alt="img" />
-                        </div>
-                        <div className='col-sm-12 col-lg-6 d-flex align-items-center pro-slider'>
-                            <div className=''>
-                                <h5 className="">Tenali Double Horse</h5>
-                                <h3 className="text-start">Maha Urad Dall</h3>
-                                <p>This hygienically packed pack of 1 kg of whole urad gota white helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein.</p>
-                                <div className='d-flex justify-content-between px-1 img-points'>
-                                    <div className='d-flex'>
-                                        <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
-                                        &nbsp;&nbsp;<p className='pt-2'>Tasty and non-sticky </p>
+                 
+                <div className="row d-flex aligen-items-center">
+                            <div className='col-sm-12 col-lg-6 bulk-product'>
+                                <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/maharani.png"} alt="img" />
+                            </div>
+                            <div className='col-sm-12 col-lg-6 d-flex align-items-center pro-slider'>
+                                <div className='pro-slider-content'>
+                                    <h5 className="">Tenali Double Horse2</h5>
+                                    <h3 className="text-start">Maha Urad Dall</h3>
+                                    <p>This hygienically packed pack of 1 kg of whole urad gota white helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein.</p>
+                                    <div className='bulk-subpoint px-1' >
+                                        <div className='d-flex'>
+                                            <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
+                                            &nbsp;&nbsp;;<p className='pt-2'>Tasty and non-sticky </p>
+                                        </div>
+                                        <div className='d-flex'>
+                                            <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
+                                            &nbsp;&nbsp;<p>Tasty and non-sticky </p>
+                                        </div>
+                                        <div className='d-flex'>
+                                            <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
+                                            &nbsp;&nbsp;<p>Tasty and non-sticky </p>
+                                        </div>
                                     </div>
-                                    <div className='d-flex'>
-                                        <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
-                                        &nbsp;&nbsp;<p>Tasty and non-sticky </p>
+                                    <div className='sizes'>
+                                        <span>Packs available in</span>
+                                        <p>500gm & 1kg packs</p>
                                     </div>
-                                    <div className='d-flex'>
-                                        <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
-                                        &nbsp;&nbsp;<p>Tasty and non-sticky </p>
+                                    <div className='launch'>
+                                        <span>Launched across</span>
+                                        <p>Andhra Pradesh, Telangana, Karnataka</p>
                                     </div>
-                                </div>
-                                <div className='sizes'>
-                                    <span>Packs available in</span>
-                                    <p>500gm & 1kg packs</p>
-                                </div>
-                                <div className='launch'>
-                                    <span>Launched across</span>
-                                    <p>Andhra Pradesh, Telangana, Karnataka</p>
                                 </div>
                             </div>
                         </div>
-
-                    </div>
-                    <div className="row d-flex">
-                        <div className='col-sm-12 col-lg-6'>
-                            <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/maharani.png"} alt="img" />
-                        </div>
-                        <div className='col-sm-12 col-lg-6 d-flex align-items-center pro-slider'>
-                            <div className=''>
-                                <h5 className="">Tenali Double Horse2</h5>
-                                <h3 className="text-start">Maha Urad Dall</h3>
-                                <p>This hygienically packed pack of 1 kg of whole urad gota white helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein.</p>
-                                <div className='d-flex justify-content-between px-1' style={{ width: "100%" }}>
-                                    <div className='d-flex'>
-                                        <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
-                                        &nbsp;&nbsp;;<p className='pt-2'>Tasty and non-sticky </p>
+                        <div className="row  d-flex aligen-items-center">
+                            <div className='col-sm-12 col-lg-6 bulk-product'>
+                                <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/maharani.png"} alt="img" />
+                            </div>
+                            <div className='col-sm-12 col-lg-6 d-flex align-items-center pro-slider'>
+                                <div className='pro-slider-content'>
+                                    <h5 className="">Tenali Double Horse</h5>
+                                    <h3 className="text-start">Maha Urad Dall</h3>
+                                    <p>This hygienically packed pack of 1 kg of whole urad gota white helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein.</p>
+                                    <div className='d-flex justify-content-between px-1 img-points'>
+                                        <div className='d-flex'>
+                                            <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
+                                            &nbsp;&nbsp;<p className='pt-2'>Tasty and non-sticky </p>
+                                        </div>
+                                        <div className='d-flex'>
+                                            <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
+                                            &nbsp;&nbsp;<p>Tasty and non-sticky </p>
+                                        </div>
+                                        <div className='d-flex'>
+                                            <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
+                                            &nbsp;&nbsp;<p>Tasty and non-sticky </p>
+                                        </div>
                                     </div>
-                                    <div className='d-flex'>
-                                        <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
-                                        &nbsp;&nbsp;<p>Tasty and non-sticky </p>
+                                    <div className='sizes'>
+                                        <span>Packs available in</span>
+                                        <p>500gm & 1kg packs</p>
                                     </div>
-                                    <div className='d-flex'>
-                                        <img src={process.env.PUBLIC_URL + "/assets/img/mainproducts/non-sticky.png"} alt="img" />
-                                        &nbsp;&nbsp;<p>Tasty and non-sticky </p>
+                                    <div className='launch'>
+                                        <span>Launched across</span>
+                                        <p>Andhra Pradesh, Telangana, Karnataka</p>
                                     </div>
-                                </div>
-                                <div className='sizes'>
-                                    <span>Packs available in</span>
-                                    <p>500gm & 1kg packs</p>
-                                </div>
-                                <div className='launch'>
-                                    <span>Launched across</span>
-                                    <p>Andhra Pradesh, Telangana, Karnataka</p>
                                 </div>
                             </div>
                         </div>
-
-                    </div>
+                       
+             
                 </Slider>
             </div>
         );

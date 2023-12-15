@@ -8,8 +8,9 @@ import Footer from '../layouts/Footer';
 import Content from '../sections/about/Content';
 import Submenu from '../layouts/submenu';
 
+const bannerimg = "/assets/img/subpagebanners/about-section-sub-banner.jpg"
 const pagelocation = 'About Us'
-const bannerimg = "/assets/img/about/tenali-double-horse-about.jpg"
+
 class About extends Component {
     render() {
         return (

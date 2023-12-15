@@ -41,18 +41,18 @@ class Process extends Component {
                     {/* <div className='container'> */}
                     <div className='row nutrition'>
                         <div className='col-lg-6 col-sm-12 mt-3'>
-                            <div className="card border-0 shadow rounded-3">
+                            <div className="card border-0 shadow rounded-3 wow animate__animated animate__fadeInLeft" style={{ animationDelay: '100ms' }}>
                                 <div class="cardheader pt-3">
                                     <img src={process.env.PUBLIC_URL + "/assets/img/proccess/high-nutritional.png"} alt="High Nutritional" />
                                 </div>
                                 <div className="card-body">
                                     <h5 class="card-title">High Nutritional Value</h5>
-                                    <p class="card-text">Abundant nutrients, vitamins, and minerals for optimal health through our products.</p>
+                                    <p class="card-text">Rich in protein, fiber, and iron, is a nutritious choice for a balanced diet, promoting overall health and well-being..</p>
                                 </div>
                             </div>
                         </div>
                         <div className='col-lg-6 col-sm-12 mt-3'>
-                            <div className="card border-0 shadow rounded-3">
+                            <div className="card border-0 shadow rounded-3 wow animate__animated animate__fadeInRight" style={{ animationDelay: '100ms' }}>
                                 <div class="cardheader pt-3">
                                     <img src={process.env.PUBLIC_URL + "/assets/img/proccess/superior-quality.png"} alt="Superior Quality" />
                                 </div>
@@ -63,7 +63,7 @@ class Process extends Component {
                             </div>
                         </div>
                         <div className='col-lg-6 col-sm-12 mt-4'>
-                            <div className="card border-0 shadow rounded-3">
+                            <div className="card border-0 shadow rounded-3 wow animate__animated animate__fadeInLeft " style={{ animationDelay: '300ms' }}>
                                 <div class="cardheader pt-3">
                                     <img src={process.env.PUBLIC_URL + "/assets/img/proccess/trusted-brancd.png"} alt="Trusted Brand" />
                                 </div>
@@ -75,7 +75,7 @@ class Process extends Component {
                         </div>
 
                         <div className='col-lg-6 col-sm-12 mt-4'>
-                            <div className="card border-0 shadow rounded-3">
+                            <div className="card border-0 shadow rounded-3 wow animate__animated animate__fadeInRight" style={{ animationDelay: '300ms' }}>
                                 <div class="cardheader pt-3">
                                     <img src={process.env.PUBLIC_URL + "/assets/img/proccess/affordable.png"} alt="Affordable" />
                                 </div>
