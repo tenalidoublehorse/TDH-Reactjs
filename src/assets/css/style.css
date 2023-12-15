@@ -10068,14 +10068,83 @@ section {
 }
 
 
+
+
+/* Add the fade-in animation */
+.swiper-fade .swiper-slide {
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.swiper-fade .swiper-slide-active {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+
+.img-points img{
+  height: 50px;
+  width: 50px;
+}
+
+
+.pro-slider-section{
+  /* background-image: url('/assets/img/mainproducts/mobile-wave.png'); */
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+}
+.side-image{
+  position: absolute;
+  right: 1%;
+  top: -18%;
+  height: 200px;
+  width: 200px;
+  transform: scale(-20deg);
+}
+.pro-slider .sizes{
+  border-top: 1px solid #e6e6e6;
+  margin-top: 15px;
+}
+.pro-slider .sizes,.launch{
+  border-bottom: 1px solid #e6e6e6;
+}
+.pro-slider span{
+  color:#ed4e53;
+  font-size: 12px;
+}
+.pro-slider .sizes p{
+  font-size: 15px;
+  font-weight: 700;
+}
+.pro-slider .launch p{
+  font-size: 15px;
+  font-weight: 700;
+}
+
 /* m2section new */
 .m2-main-section{
   position: relative;
-  height: 650px;
+  height: 100vh;
 }
 .m2-main-image{
   position: absolute;
-  left: 30%;
+  top: 22%;
+  left: 34%;
+  height: 300px !important;
+  width: 300px !important;
 }
 .m2-surround-image{
   position: absolute;
@@ -10095,12 +10164,12 @@ section {
 .m2-surround-image:nth-child(4){
   position: absolute;
   top: 50%;
-  left: 80%;
+  left: 76%;
 }
 .m2-surround-image:nth-child(5){
   position: absolute;
   top: 50%;
-  left: 20%;
+  left: 24%;
 }
 .m2-surround-image:nth-child(6){
   position: absolute;
@@ -10116,6 +10185,12 @@ section {
   position: absolute;
   top: 95%;
   left: 50%;
+  padding-bottom: 100px;
+}
+
+.m2-surround-image .item-1 h6{
+ margin-left: -50px !important;
+ color: black !important;
 }
 
 .sub-pages-menu ul li{

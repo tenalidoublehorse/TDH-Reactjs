@@ -7,7 +7,7 @@ import Breadcrumbs from '../layouts/Breadcrumb';
 import Submenu from '../layouts/submenu';
 
 const pagelocation = 'CSR-activities'
-const bannerimg = "/assets/img/banner/contact-header-banner.png"
+const bannerimg = "/assets/img/banner/csr-top-banner.jpeg"
 
 class Homethree extends Component {
     render() {

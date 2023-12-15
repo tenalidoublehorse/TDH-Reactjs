@@ -117,56 +117,56 @@ class Camapaing extends Component {
                         </div>
                     </div>                    
                 </div> */}
-                <div className='m2-main-section'>
+                <div className='m2-main-section  mb-5'>
                 <div className='m2-main-image'>
-                {/* <img  src={process.env.PUBLIC_URL + "/assets/img/banner/icons/desgin.png"} alt="M2"   /> */}
+                <img  src={process.env.PUBLIC_URL + "/assets/img/banner/icons/desgin.png"} alt="M2"   />
                 </div>
-                <div className='m2-surround-image'>
+                <div className='m2-surround-image '>
                     <div className='item-1 p-1'>
                         <img alt="" src={process.env.PUBLIC_URL + "/assets/img/mtwo/1.png"} />
-                        <h6>title</h6>
+                        <h6>Naturally <br/>Processed</h6>
                     </div>
                 </div>
                 <div className='m2-surround-image'>
                     <div className='item-1 p-1'>
                         <img alt="" src={process.env.PUBLIC_URL + "/assets/img/mtwo/1.png"} />
-                        <h6>title</h6>
+                        <h6>The Best in <br/>Quality, Teste</h6>
                     </div>
                 </div>
                 <div className='m2-surround-image'>
                     <div className='item-1 p-1'>
                         <img alt="" src={process.env.PUBLIC_URL + "/assets/img/mtwo/1.png"} />
-                        <h6>title</h6>
+                        <h6>Superior <br/>Quality</h6>
                     </div>
                 </div>
                 <div className='m2-surround-image'>
                     <div className='item-1 p-1'>
                         <img alt="" src={process.env.PUBLIC_URL + "/assets/img/mtwo/1.png"} />
-                        <h6>title</h6>
+                        <h6>No Added <br/>Preservatives</h6>
                     </div>
                 </div>
                 <div className='m2-surround-image'>
                     <div className='item-1 p-1'>
                         <img alt="" src={process.env.PUBLIC_URL + "/assets/img/mtwo/1.png"} />
-                        <h6>title</h6>
+                        <h6>Processed With<br/> Desi Black Gram</h6>
                     </div>
                 </div>
                 <div className='m2-surround-image'>
                     <div className='item-1 p-1'>
                         <img alt="" src={process.env.PUBLIC_URL + "/assets/img/mtwo/1.png"} />
-                        <h6>title</h6>
+                        <h6>Processed in a First<br/> Full Atomized Plant</h6>
                     </div>
                 </div>
                 <div className='m2-surround-image'>
                     <div className='item-1 p-1'>
                         <img alt="" src={process.env.PUBLIC_URL + "/assets/img/mtwo/1.png"} />
-                        <h6>title</h6>
+                        <h6>Procurement from <br/>best Harvesting fields</h6>
                     </div>
                 </div>
                 <div className='m2-surround-image'>
                     <div className='item-1 p-1'>
                         <img alt="" src={process.env.PUBLIC_URL + "/assets/img/mtwo/1.png"} />
-                        <h6>title</h6>
+                        <h6>Packed Without <br/>Hand Touch</h6>
                     </div>
                 </div>
 

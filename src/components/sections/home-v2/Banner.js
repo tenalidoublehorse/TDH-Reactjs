@@ -19,6 +19,7 @@ class Banner extends Component {
             slidesToScroll: 1,
             arrows: false,
             speed: 1000,
+            fade: true,   
             autoplay: true,
             dots: false,
             responsive: [{

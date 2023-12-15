@@ -21,6 +21,8 @@ import Nutrients from './Nutrients'
 import Benefits from '../home-v2/Benefits';
 
 import Latestproducts from './Latestupdate';
+import Mainproductsslider from './Mainproductsslider';
+import Bultproductsslider from './Bultproductsslider';
 const pagelocation = 'home'
 
 
@@ -33,24 +35,19 @@ class Content extends Component {
                 <Aboutcompany pagename={{pagename: pagelocation}}/>
                 <Process />
                 <Productcards />
-                <Nutrients/>
+                {/* <Nutrients/> ammas dosa batter */}
              
                 <Latestproducts/>
+                {/* <Mainproductsslider/> */}
+                <Bultproductsslider/>
                
-                <Camapaing/>
+                {/* <Camapaing/> */}
                
                 <Benefits/>
-              
-
                 <Menuitems />
-
-               
                 <Stats />
-
                 <Paragraph />
-                
                 <Reviews/>
-
                 <Socialmedia />
                 <Feedback/>
                

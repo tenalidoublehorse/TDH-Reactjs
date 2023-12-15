@@ -17,10 +17,10 @@ class Aboutus extends Component {
                                 <h2 className="title"> Tenali Double Horse </h2>
                                 <p className="subtitle" style={{textAlign:'justify'}}>
                                 Since launching in 2005,  Tenali Double Horse has empowered many lives in India and gained millions of people. By putting all the pieces of a successful business in one convenient platform, Tenali Double Horse’s impeccable distribution network got started and grew faster. We provide the best quality Urad Gota and Urad Dall near you.
-          </p>
+                                </p>
                                 {/* <p className="subtitle">
                                 We encourage you to switch to the right choices, as it is the need of the hour!
-          </p> */}
+                                </p> */}
                                 <a href={"/about"} className="btn-custom">Read more</a>
                             </div>
                         </div>
