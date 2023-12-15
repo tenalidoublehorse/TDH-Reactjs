@@ -351,8 +351,8 @@ class Content extends Component {
                 <Factorylocation />
               </div>
             </div>
-            <Messenger/>
-            {/* <Feedback/> */}
+            {/* <Messenger/> */}
+            <Feedback/>
             </Fragment>
         );
     }

@@ -14,8 +14,8 @@ class Content extends Component {
             <Fragment>
             
                 <BlogPost/>
-                {/* <Feedback/> */}
-                <Messenger/>
+                <Feedback/>
+                {/* <Messenger/> */}
                 
               
             </Fragment>

@@ -80,8 +80,8 @@ return (
             </div>
         </div>
     </div>
- <Messenger/>
- {/* <Feedback/> */}
+ {/* <Messenger/> */}
+ <Feedback/>
   </Fragment>
 );
 }

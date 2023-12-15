@@ -31,8 +31,8 @@ returned by the rider and refund will not be given to You.</li>
             </div>
         </div>
     </div>
-    <Messenger/>
-    {/* <Feedback/> */}
+    {/* <Messenger/> */}
+    <Feedback/>
     </Fragment>
   );
 }
