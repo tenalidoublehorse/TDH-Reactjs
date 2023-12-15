@@ -36,7 +36,7 @@ class Content extends Component {
                 <Process />
                 <Productcards />
                 {/* <Nutrients/> ammas dosa batter */}
-             
+             <Lazyload/>
                 <Latestproducts/>
                 {/* <Mainproductsslider/> */}
                 <Bultproductsslider/>

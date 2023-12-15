@@ -10260,3 +10260,14 @@ section {
 .border5{
   border-radius: 10px!important;
 }
+.custom-image {
+  /* width: 100% !important; */
+  min-width:700px;
+  height: auto !important;
+}
+.absolute{
+  position:absolute;
+}
+.relative{
+  position: relative;
+}
