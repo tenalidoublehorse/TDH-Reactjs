@@ -19,9 +19,10 @@ function Popup() {
   return (
     <>
       <Modal show={showModal} onHide={handleClose} centered >
-      <Button variant="danger" onClick={handleClose} className='absolute'>
+      {/* <Button variant="danger" onClick={handleClose} className='absolute'>
             Close
-          </Button>
+          </Button> */}
+          
         <img className='relative'  src={process.env.PUBLIC_URL + "/assets/img/misc/ammammas-idly-batter.png"} alt="img"  /> 
       
        
