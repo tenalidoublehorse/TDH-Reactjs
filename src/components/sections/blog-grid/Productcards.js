@@ -64,7 +64,7 @@ class Products extends Component {
                         
                     </div>
                     <div className='slider-section-home' >
-                        <Slider className="product-slider home-product-slider p-5 " {...settings} ref={c => (this.slider = c)}>
+                        <Slider className="product-slider home-product-slider p-5  " {...settings} ref={c => (this.slider = c)}>
                         
                             {products.map((item, i) => (
                                 <div key={i} className="product card  border-0 shadow rounded-3">
@@ -75,7 +75,7 @@ class Products extends Component {
                                     <div className="product-body   border-0 shadow rounded-3 bg-white">
                                         <div className="product-desc">
                                             <div>
-                                            <h4> <Link to={"/menu-item-v1/" + item.id}>{item.name}</Link> </h4>
+                                            <h5 className='text-dark'> <Link to={"/menu-item-v1/" + item.id}>{item.name}</Link> </h5>
                                             <p className="product-price" style={{fontWeight:'800'}}>Rs. {new Intl.NumberFormat().format((item.price).toFixed(2))}</p>
                                             {/* <p className='mb-0'>{item.shortdesc}</p> */}
                                             </div>
@@ -90,9 +90,8 @@ class Products extends Component {
                                         </div>
                                         
                                         <a onClick={(e) => this.modalShow(item.id)} className="btn-custom light btn-sm shadow-none w-100 mb-2">More Info </a>
-                                            <a href="#" className="order-item btn-custom btn-sm shadow-none w-100">Order Now <i className="fas fa-shopping-cart" /> </a>
-                                        
-                                        
+                                        <a href="#" className="order-item btn-custom btn-sm shadow-none w-100">Order Now <i className="fas fa-shopping-cart" /> </a>
+                                                       
                                     </div>
                                 </div>
                             ))}
