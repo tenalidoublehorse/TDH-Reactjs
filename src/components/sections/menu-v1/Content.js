@@ -217,8 +217,8 @@ class Content extends Component {
                 <Modal show={this.state.modalshow} id="customizeModal" onHide={this.modalClose} aria-labelledby="contained-modal-title-vcenter" size="lg" centered>
                     <Quickview productId={this.state.lastActiveBox} />
                 </Modal>
-                {/* <Feedback/> */}
-                <Messenger/>
+                <Feedback/>
+                {/* <Messenger/> */}
                 {/* Menu Wrapper End */}
             </Fragment>
         );

@@ -43,8 +43,8 @@ standing. By providing the Payment Details, You represent, warrant, and covenant
            
         </div>
     </div>
-    <Messenger/>
-    {/* <Feedback/> */}
+    {/* <Messenger/> */}
+    <Feedback/>
   </Fragment>
 );
 }

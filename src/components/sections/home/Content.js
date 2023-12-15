@@ -49,7 +49,7 @@ class Content extends Component {
                 <Paragraph />
                 <Reviews/>
                 <Socialmedia />
-                {/* <Feedback/> */}
+                <Feedback/>
                
                
               

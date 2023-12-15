@@ -124,8 +124,8 @@ class Terms extends Component {
             </div>
         </div>
     </div>
-    <Messenger/>
-    {/* <Feedback/> */}
+    {/* <Messenger/> */}
+    <Feedback/>
     </Fragment>
   );
 }

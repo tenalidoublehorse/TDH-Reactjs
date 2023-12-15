@@ -132,8 +132,8 @@ class Content extends Component {
                     </div>
 
                     <MultipleMaps />
-                    {/* <Feedback/> */}
-                    <Messenger/>
+                    <Feedback/>
+                    {/* <Messenger/> */}
 
                     {/* {location.map((item, i) => (
                         <div key={i} className="location-item">

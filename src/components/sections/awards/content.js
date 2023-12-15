@@ -98,8 +98,8 @@ function Awards() {
           containerClassName={'pagination'}
           activeClassName={'active'}
         />
-        {/* <Feedback/> */}
-        <Messenger/>
+        <Feedback/>
+        {/* <Messenger/> */}
       </div>
     </div>
     

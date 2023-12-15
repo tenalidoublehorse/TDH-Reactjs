@@ -116,8 +116,8 @@ class MapChart extends Component {
         
         </div>
       </div>
-      <Messenger/>
-      {/* <Feedback/> */}
+      {/* <Messenger/> */}
+      <Feedback/>
       </Fragment>
     );
   }

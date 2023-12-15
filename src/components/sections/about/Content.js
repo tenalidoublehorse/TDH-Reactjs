@@ -27,8 +27,8 @@ class Content extends Component {
                {/* <Greatplacetowork/> */}
                 <Stats/>
                 <Grateplace/>
-                {/* <Feedback/> */}
-                <Messenger/>
+                <Feedback/>
+                {/* <Messenger/> */}
             </Fragment>
         );
     }

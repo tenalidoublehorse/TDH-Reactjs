@@ -104,8 +104,8 @@ class Enquires extends Component {
                 </div>
              
             
-                {/* <Feedback/> */}
-                <Messenger/>
+                <Feedback/>
+                {/* <Messenger/> */}
                 <div className="section" style={{ paddingBottom: '0px' }}>
 
 <div className="fluid-container locations-wrapper  ">
