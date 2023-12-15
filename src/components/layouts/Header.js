@@ -85,8 +85,8 @@ class Header extends HeaderComponent {
                             </Link>
                             {/* Menu */}
                             <Newmenu/>
-                            {/* <div className="header-controls">
-                                <ul className="header-controls-inner">
+                            <div className="header-controls d-block d-lg-none">
+                                {/* <ul className="header-controls-inner">
                                 <div className="floating-container">
                                 <div className="floating-button share-icon"> <img src={process.env.PUBLIC_URL + "/assets/img/header/network-connection.png"} alt="topicon" /></div>
                                 <div className="element-container">
@@ -99,14 +99,14 @@ class Header extends HeaderComponent {
                                 </div>
                                 </div>
                                   
-                                </ul>
+                                </ul> */}
                                
                                 <div className="aside-toggler aside-trigger" onClick={this.toggleNav}>
                                     <span />
                                     <span />
                                     <span />
                                 </div>
-                            </div> */}
+                            </div>
                         </nav>
                     </div>
                 </header>
