@@ -275,7 +275,7 @@ class Content extends Component {
                     </div>
                 </div>
                 <Relatedproduct />
-                <Feedback/>
+                {/* <Feedback/> */}
                 <Messenger/>
 
             </Fragment>

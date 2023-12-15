@@ -81,7 +81,7 @@ return (
         </div>
     </div>
  <Messenger/>
- <Feedback/>
+ {/* <Feedback/> */}
   </Fragment>
 );
 }

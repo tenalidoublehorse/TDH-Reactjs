@@ -132,7 +132,7 @@ class Content extends Component {
                     </div>
 
                     <MultipleMaps />
-                    <Feedback/>
+                    {/* <Feedback/> */}
                     <Messenger/>
 
                     {/* {location.map((item, i) => (

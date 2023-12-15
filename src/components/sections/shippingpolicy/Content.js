@@ -32,7 +32,7 @@ returned by the rider and refund will not be given to You.</li>
         </div>
     </div>
     <Messenger/>
-    <Feedback/>
+    {/* <Feedback/> */}
     </Fragment>
   );
 }
