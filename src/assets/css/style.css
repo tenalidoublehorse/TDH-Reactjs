@@ -5459,7 +5459,7 @@ td.quantity{
   
   .banner,
   .banner.banner-1 .banner-inner{
-    min-height: 240px;
+    min-height: 200px;
   }
 }
 .activites{
@@ -9948,12 +9948,12 @@ top: -5px;
     padding:0px 0px 0px 0px!important;
 }
 .about-video iframe{
-  width:400px;
+  width:100%;
   height: 205px;
   border-radius: 10px;
   margin-top: 180px;
-  margin-left: -50px !important;
-  padding:25px;
+  /* margin-left: -50px !important; */
+  /* padding:25px; */
 
 }
 .campaing-video iframe{
