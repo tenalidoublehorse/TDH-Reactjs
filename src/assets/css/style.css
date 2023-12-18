@@ -1021,7 +1021,7 @@ table img{
 .main-header {
   position: relative;
   width: 100%;
-  background-color: transparent;
+  background-color:#fff!important;
   z-index: 990;
   -webkit-transition: background-color 0.3s;
   -o-transition: background-color 0.3s;
@@ -1029,7 +1029,7 @@ table img{
 }
 
 .main-header.header-absolute {
-  position: absolute;
+  /* position: absolute; */
 }
 
 .navbar {
@@ -2174,7 +2174,7 @@ table img{
 .banner{
   position: relative;
   /* padding: 90px 0; */
-  padding-top: 70px!important;
+  padding-top: 10px!important;
   background-size: cover;
   background-position: center;
   min-height: 500px;
@@ -6022,7 +6022,7 @@ td.quantity{
   position:fixed!important;
 }
 .main-header.header-absolute {
-  position: absolute;
+  /* position: absolute; */
 }
 .header-sticky {
   position: fixed;
@@ -9642,7 +9642,7 @@ top: -5px;
     padding: 20px!important;
   } */
   .sub-header-breadcrumbs {
-    padding: 0px!important;
+    padding: 20px 0px 0px 0px!important
   }
   /* .card-gap{
     margin-bottom: 15px!important;
@@ -9945,7 +9945,7 @@ top: -5px;
 @media (max-width: 576px){
 
 .banner {
-    padding:50px 0px 0px 0px!important;
+    padding:0px 0px 0px 0px!important;
 }
 .about-video iframe{
   width:400px;

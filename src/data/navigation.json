@@ -51,65 +51,66 @@
            
         ]
     },
+    
     {
         "id": 3,
-        "linkText": "Blog",
-        "child": false,
-        "submenu": [
-            {
-                "id": 31,
-                "link": "/about",
-                "linkText": "About Us"
-            },
-            {
-                "id": 32,
-                "link": "/login",
-                "linkText": "Login"
-            },
-            {
-                "id": 33,
-                "link": "/register",
-                "linkText": "Sign Up"
-            },
-            {
-                "id": 34,
-                "link": "/checkout",
-                "linkText": "Checkout"
-            },
-            {
-                "id": 35,
-                "link": "/cart",
-                "linkText": "Cart"
-            },
-            {
-                "id": 36,
-                "link": "/legal",
-                "linkText": "Legal"
-            },
-            {
-                "id": 37,
-                "link": "/error",
-                "linkText": "Error 404"   
-            }
-        ]
-    },
-    {
-        "id": 4,
         "linkText": "Products",
         "child": true,
         "submenu": [
             {
-                "id": 41,
+                "id": 31,
                 "link": "/tenali-double-horse-products",
                 "linkText": "TDH Products"
             },
             {
-                "id": 42,
+                "id": 32,
                 "link": "https://tdhfoodproducts.com/",
-                "linkText": "TDHF Products"
+                "linkText": "TDHF Instant Food Products"
             }
         ]
         
+    },
+    {
+        "id": 4,
+        "linkText": "Blog",
+        "child": false,
+        "submenu": [
+            {
+                "id": 41,
+                "link": "/about",
+                "linkText": "About Us"
+            },
+            {
+                "id": 42,
+                "link": "/login",
+                "linkText": "Login"
+            },
+            {
+                "id": 43,
+                "link": "/register",
+                "linkText": "Sign Up"
+            },
+            {
+                "id": 44,
+                "link": "/checkout",
+                "linkText": "Checkout"
+            },
+            {
+                "id": 45,
+                "link": "/cart",
+                "linkText": "Cart"
+            },
+            {
+                "id": 46,
+                "link": "/legal",
+                "linkText": "Legal"
+            },
+            {
+                "id": 47,
+                "link": "/error",
+                "linkText": "Error 404"   
+            }
+        ]
     },
     {
         "id": 5,

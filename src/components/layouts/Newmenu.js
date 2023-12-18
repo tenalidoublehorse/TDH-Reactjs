@@ -41,7 +41,7 @@ class Newmenu extends Component {
                             <div className="container-small"  >
                                 <div className="row">
                                     <div className="col-lg-12 product-hover-sec"  > 
-                                    <h5 className='text-center'>Explore Our Products Range </h5>
+                                  
                                         <div className="mega-menu-item d-flex justify-content-center align-items-center"  >
                                             <div className='col-lg-6 d-flex flex-column justify-content-center align-items-center'>
                                            
