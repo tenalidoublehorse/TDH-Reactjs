@@ -9995,10 +9995,10 @@ section {
 
 .recent-campaigns {
   background-color: #fff7ef;
-  height: 750px;
+  /* height: 750px; */
 }
 .main-content-section{
-  padding-top: 70px;
+  padding-top: 60px;
 }
 
 .section-icon {

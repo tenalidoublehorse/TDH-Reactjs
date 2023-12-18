@@ -17,9 +17,9 @@ class Camapaing extends Component {
         return (
         
           <div className='recent-campaigns'>
-            <div className='container-fluid mb-5 mt-5'>
+            <div className='container-fluid mb-5'>
               <div className='main-content-section'>
-                <div className='mt-5'>
+                <div className=''>
                   {/* <div className="section-title-wrap section-header mb-md-5 mt-lg-5 mt-xl-5  mt-xxl-5 text-center ">
                     <h5 className="custom-primary text-center white-bg mx-auto">Campaign Chronicles</h5>
                     <h2 className="title">Explore Our Recent Campaigns</h2>
@@ -45,7 +45,7 @@ class Camapaing extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-6 mb-lg-30  order-1 order-lg-2 campaing-video" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                  <div className="col-lg-6 mb-lg-30 order-1 order-lg-2 campaing-video pb-5" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                     <iframe
                       title="YouTube Video"
                       src="https://www.youtube.com/embed/S1zLiEfbZ1Y?si=SE061xGF2MwD-Mc5"

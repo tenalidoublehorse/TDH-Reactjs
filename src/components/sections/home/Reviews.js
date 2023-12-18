@@ -46,9 +46,9 @@ class Reviews extends React.Component {
                         <i className="fa fa-quote-left"></i>
                       </div>
                       <p className="description">
-                      It my personal experience. I came from vizag there we used tenali double horse minapagullu. After i came to tenali regularly i am sending DTH products to my family members n friends at vizag. It is good products
+                      Quality of urad dal is really good...I love the laddu made of urad dal..it really tasted very well...love it...And more over the CSR activity to help women is a wonderful thought by TDH hats off to team..
                       </p>
-                      <h3 className="title">-Aditya Ratnam</h3>
+                      <h3 className="title">-Jabeen Kouser</h3>
                     </div>
                     
                     {/* <span className="post">Web Developer</span> */}
@@ -60,9 +60,9 @@ class Reviews extends React.Component {
                         <i className="fa fa-quote-left"></i>
                       </div>
                       <p className="description">
-                      Good range of dalls and instant foods ...Most trusted brand in India
+                      Quality was great and we got the goods at a reasonable price. We're glad that the taste was good. Everything's hygienic as well. Will definitely repurchase later.
                       </p>
-                      <h3 className="title">-bhaskar donepudi</h3>
+                      <h3 className="title">-Ravi Kumar</h3>
                     </div>
                     {/* <h3 className="title">bhaskar donepudi</h3> */}
                     {/* <span className="post">Web Developer</span> */}
@@ -73,9 +73,9 @@ class Reviews extends React.Component {
                         <i className="fa fa-quote-left"></i>
                       </div>
                       <p className="description">
-                      Enjoy our Sundays with tdh recipes with family not only breakfast but sweets too... meeting together with delicious food is a long lasting memory. Tq tdh
+                      Very Good Products From TDH Group.Idli Rava.Sunundalu .Risika Pickles.avakaya Tamoto.gongoora.. Are Homely Made . Very Taste..
                       </p>
-                      <h3 className="title">-Radhika Mamidi</h3>
+                      <h3 className="title">-Kammari Mahender</h3>
                     </div>
                     
                     {/* <span className="post">Web Developer</span> */}
@@ -86,9 +86,9 @@ class Reviews extends React.Component {
                         <i className="fa fa-quote-left"></i>
                       </div>
                       <p className="description">
-                      Good Morning sir.I want some branding and advertising in different area.then consumer offer with promoters appointment in top outlets.
+                      It's good products off all rishika sunnudalu and idley ravva,  minappau and pickles also touching to mother receipy like.
                       </p>
-                      <h3 className="title">-Subrat Nayak</h3>
+                      <h3 className="title">-Rajgopal Akuthota</h3>
                     </div>
                  
                     {/* <span className="post">Web Developer</span> */}

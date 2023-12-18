@@ -182,7 +182,7 @@ class Content extends Component {
                 </div>
                 {/* Menu Categories End */}
                 <div className="section pt-0">
-                    <div className="container">
+                    <div className="container-fluid">
                         {/* Additional Information Start */}
                         <div className="product-additional-info">
                             <Tab.Container defaultActiveKey="tab1" onSelect={this.handleTabClick}>

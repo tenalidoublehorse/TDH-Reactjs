@@ -17,25 +17,26 @@ class Latestproducts extends Component {
         return (
         
             <div>
-                <div className="section section-padding bg-parallax  bg-cover bg-center " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/ammamma-dosa.jpg)" ,height:"100vh"}} >
+                <div className="section section-padding bg-parallax  bg-cover bg-center " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/tdh-packets-banner.png)" ,height:"100vh"}} >
                     {/* <div className='row d-flex justify-content-center campaing'>
                         <div className="col-lg-6 mb-lg-30 order-2 order-lg-1 " style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                             {/* <video controls poster="/assets/img/misc/ammas-thd-collabaration with.png">
                                 <source src={process.env.PUBLIC_URL + "/assets/video/ammama.mp4"} type="video/mp4" />
                             </video> */}
                             {/* <a href="https://www.instagram.com/reel/Cyh2CcyN2Kd/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==" target="_blank"><img src={process.env.PUBLIC_URL + "/assets/img/misc/ammammas-idly-batter.png"} alt="img" className=' mb-2' /></a>
-                        </div>
-                        <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center order-1 order-lg-2'>
+                        </div>*/}
+                        {/* <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center order-1 order-lg-2'>
                             <div className='mb-lg-5 camp-content'>
                                 <div>
-                                    <h5 className="custom-primary mt-3">Crafting Tradition</h5>
-                                    <h2 className="title">Ammamma's Dosa Batter</h2>
+                                    <h5 className="custom-primary mt-3">Ammamma's Signature</h5>
+                                    <h2 className="title">Dosa-Idly Batter</h2>
+                                    <span></span>
                                     <p>
                                         At Tenali Double Horse, we take pride in our collaboration with Ammamma's, bringing you the exquisite taste of tradition. Our journey began when Ammamma's Dosa Batter was crafted using Tenali Double Horse Urad Dal, a product that speaks of purity, quality, and a rich heritage.
                                     </p>
                                 </div>
                             </div>
-                        </div> */}
+                        </div>  */}
                     {/* </div> */}
                 </div>
             </div>

@@ -23,6 +23,7 @@ import Benefits from '../home-v2/Benefits';
 import Latestproducts from './Latestupdate';
 import Mainproductsslider from './Mainproductsslider';
 import Bultproductsslider from './Bultproductsslider';
+import Ammammas from './Ammammas';
 const pagelocation = 'home'
 
 
@@ -43,10 +44,12 @@ class Content extends Component {
                
                 {/* <Camapaing/> */}
                
-                <Benefits/>
+              
                 <Menuitems />
                 <Stats />
                 <Paragraph />
+                <Ammammas/>
+                <Benefits/>
                 <Reviews/>
                 <Socialmedia />
                 <Feedback/>
