@@ -29,20 +29,20 @@ class Ammammas extends Component {
                   </div> */}
                 </div>
                 <div className='row d-flex justify-content-center campaing'>
-                <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-2'>
+                <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-1'>
                     <div className='mb-lg-5 camp-content'>
                       <div>
                         <div className="section-title-wrap section-header mb-md-5 mt-lg-5 mt-xl-5  mt-xxl-5 text-center ">
                             <h5 className="custom-primary text-justify white-bg mx-auto">Ammamma's Signature</h5>
                             <h2 className="title">Dosa-Idly Batter</h2>
                             <p className='text-justify'>
-                              <b>Phir Se Udaan</b> is an initiative by your favourite <b>Tenali Double Horse</b> with a vision of empowering women inside and outside the house. Tenali Double Horse offers only the best quality and nutrition-packed range of Dals and Instant foods like Idli and Dosa mixes.
+                              At Tenali Double Horse, we're excited about collaboration with Ammamma's to bring you the delicious flavors of tradition. Ammamma's Dosa Batter was made with the fantastic Tenali Double Horse Urad Dal, which is about purity, quality, and a proud heritage.
                             </p>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-6 mb-lg-30  order-1 order-lg-1 campaing-video" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                  <div className="col-lg-6 mb-lg-30  order-1 order-lg-2 campaing-video" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                   <img src={process.env.PUBLIC_URL + "/assets/img/campaign/ammas-dosa-batter.jpeg"} alt="High Nutritional" />
           
                   </div>

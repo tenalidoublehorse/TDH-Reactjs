@@ -24,6 +24,7 @@ import Latestproducts from './Latestupdate';
 import Mainproductsslider from './Mainproductsslider';
 import Bultproductsslider from './Bultproductsslider';
 import Ammammas from './Ammammas';
+import Tdhexplore from "./Tdhexplore"
 const pagelocation = 'home'
 
 
@@ -47,7 +48,8 @@ class Content extends Component {
               
                 <Menuitems />
                 <Stats />
-                <Paragraph />
+                <Tdhexplore/>
+                {/* <Paragraph /> */}
                 <Ammammas/>
                 <Benefits/>
                 <Reviews/>

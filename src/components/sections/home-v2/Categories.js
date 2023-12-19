@@ -39,7 +39,7 @@ class Menuitems extends Component {
                     Witness our remarkable expansion as Tenali Double Horse ventures into the UAE. Experience the flavor of tradition and quality as we introduce our products to a new audience.
                     </p>
                 </div>
-                <div className="section section-padding-two  bg-cover bg-center mt-5  pt-0 pb-0 category-section light-pic bg-danger " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/categories/tenali-double-horse-homepage-uae-banner.png)", paddingBottom: '0px!important' }}>
+                <div className="section section-padding-two  bg-cover bg-center mt-5  pt-0 pb-5 category-section light-pic bg-danger " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/categories/tenali-double-horse-homepage-uae-banner.png)", paddingBottom: '0px!important' }}>
                     <div className="container">
                         {/* Arrow */}
                         <i className="slider-prev fas fa-arrow-left slick-arrow" onClick={this.previous} />
