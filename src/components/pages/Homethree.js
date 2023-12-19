@@ -7,7 +7,7 @@ import Breadcrumbs from '../layouts/Breadcrumb';
 
 
 const pagelocation = 'News Events'
-const bannerimg = "/assets/img/banner/contact-header-banner.png"
+const bannerimg = "/assets/img/banner/tenali-double-horse-news-room-banner.png"
 
 class Homethree extends Component {
     render() {
