@@ -57,11 +57,11 @@ class Relatedproduct extends Component {
                                          
                                         </div>
                                         <div className="product-controls">
-                                        {item.price === 0 ? <p></p>:
+                                        {/* {item.price === 0 ? <p></p>:
                                             <p className="product-price">{item.symbol} 
                                             {new Intl.NumberFormat().format((item.price).toFixed(2))}
                                             </p>
-                                        }
+                                        } */}
                                             {/* <Link to={"/menu-item-v1/" + item.id} className="order-item btn-custom btn-sm shadow-none">Order <i className="fas fa-shopping-cart" /> </Link> */}
                                             <button type="button" className="order-item btn-custom btn-sm shadow-none" onClick={(e) => this.modalShow(item.id)}> More info<i className="fas fa-plus" /> </button>
                                         </div>

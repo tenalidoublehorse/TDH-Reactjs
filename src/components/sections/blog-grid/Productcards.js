@@ -76,7 +76,7 @@ class Products extends Component {
                                         <div className="product-desc">
                                             <div>
                                             <h5 className='text-dark'> <Link to={"/menu-item-v1/" + item.id}>{item.name}</Link> </h5>
-                                            <p className="product-price" style={{fontWeight:'800'}}>Rs. {new Intl.NumberFormat().format((item.price).toFixed(2))}</p>
+                                            {/* <p className="product-price" style={{fontWeight:'800'}}>Rs. {new Intl.NumberFormat().format((item.price).toFixed(2))}</p> */}
                                             {/* <p className='mb-0'>{item.shortdesc}</p> */}
                                             </div>
                                             {/* <div>

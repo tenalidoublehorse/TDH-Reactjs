@@ -4312,7 +4312,7 @@ td.quantity{
   flex-direction: column;
   /* justify-content: space-around; */
   align-items: center;
-  min-height: 250px;
+  /* min-height: 250px; */
 }
 
 .product .product-thumb{

@@ -101,10 +101,10 @@ class Content extends Component {
                                     <p>{item.shortdesc}</p>
                                 
                                     {/* Price */}
-                                       <div className="price-wrapper">
+                                       {/* <div className="price-wrapper">
                                         {item.price === 0 ? <p className="product-price"></p> :<p className="product-price">{item.symbol}{new Intl.NumberFormat().format((item.price).toFixed(2))}</p> }
                                          
-                                       </div>
+                                       </div> */}
                                     {/* /Price */}
                                     {/* Variations */}
                                     <div className="customize-variations">
