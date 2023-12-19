@@ -115,9 +115,9 @@ class Content extends Component {
         const renderAll = this.state.filteredProducts.map((item, i) => (
             <div key={i} className="col-lg-4 col-md-6 col-sm-12 masonry-item sides">
                 <div className="product card  border-0 shadow rounded-3">
-                    <div className="favorite">
+                    {/* <div className="favorite">
                         <i className="far fa-heart" />
-                    </div>
+                    </div> */}
                     <Link className="product-thumb" to={"/menu-item-v1/" + item.id}>
                         <img src={process.env.PUBLIC_URL + "/" + item.img} alt={item.name} />
                     </Link>

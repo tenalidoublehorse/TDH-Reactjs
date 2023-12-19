@@ -157,7 +157,7 @@ class Content extends Component {
                     </div>
                 </div>
                 <div className="section pt-0">
-                    <div className="container">
+                    <div className="container-fluid">
                         {/* Additional Information Start */}
                         <div className="product-additional-info">
                             <Tab.Container defaultActiveKey="tab1">
@@ -171,7 +171,7 @@ class Content extends Component {
                                 </Nav>
                                 <Tab.Content>
                                     <Tab.Pane eventKey="tab1">
-                                        <h4>Description</h4>
+                                        {/* <h4>Description</h4> */}
                                         <div dangerouslySetInnerHTML={{ __html: item.longdescription }} />
                                     </Tab.Pane>
                                     <Tab.Pane eventKey="tab2">
@@ -232,7 +232,7 @@ class Content extends Component {
                     </div>
                     
                 </div>
-                <div className="container mb-5">
+                {/* <div className="container mb-5">
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="product-thumb">
@@ -256,7 +256,7 @@ class Content extends Component {
                           
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <Relatedproduct productId={item.countery}/>
                 <Feedback/>

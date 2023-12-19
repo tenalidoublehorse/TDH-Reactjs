@@ -32,7 +32,7 @@ class Relatedproduct extends Component {
         return (
             
             <div className="section section-padding related-products pt-0">
-                <div className="container">
+                <div className="container-fluid">
                     <h3>You might also like</h3>
                     <div className="row menu-v2">
                      

@@ -5494,6 +5494,10 @@ td.quantity{
   display:flex;
   /* background-color:white; */
 }
+.tdh-legacy-principles {
+  min-height: 350px;
+}
+
 .Legacy-Container{
   margin:20px;
   width:50%;
@@ -9653,6 +9657,14 @@ top: -5px;
     display: none!important;
    
   } */
+ .product .favorite i{
+  display: none !important;
+ }
+
+  .subheader-inner .breadcrumb-mobile{
+    color: whitesmoke !important;
+    font-weight: 800 !important;
+  }
   .sub-header-breadcrumbs .subheader-inner {
     visibility: hidden;
  }

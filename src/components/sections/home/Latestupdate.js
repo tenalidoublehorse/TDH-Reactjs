@@ -17,7 +17,7 @@ class Latestproducts extends Component {
         return (
         
             <div>
-                <div className="section section-padding bg-parallax  dark-overlay dark-overlay-2  bg-cover bg-center " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/tdh-packets-banner.png)" ,height:"100vh",backgroundSize:'100%',backgroundRepeat:'no-repeat'}} >
+                <div className="section section-padding bg-parallax    bg-cover bg-center " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/tdh-packets-banner.png)" ,height:"100vh",backgroundSize:'100%',backgroundRepeat:'no-repeat'}} >
                     {/* <div className='row d-flex justify-content-center campaing'>
                         <div className="col-lg-6 mb-lg-30 order-2 order-lg-1 " style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                             {/* <video controls poster="/assets/img/misc/ammas-thd-collabaration with.png">

@@ -8,7 +8,7 @@ class Breadcrumb extends Component {
             <div className="sub-header-breadcrumbs  " style={{ backgroundImage: `url(${process.env.PUBLIC_URL}${this.props.breadcrumb.bannerimg})`, height:"auto" }}>
                 <div className="container">
                     <div className="subheader-inner">
-                        <h1 className='text-light breadcrumb-mobile'>{this.props.breadcrumb.pagename}</h1>
+                        <h1 className='text-light breadcrumb-mobile' style={{fontWeight:"600"}}>{this.props.breadcrumb.pagename}</h1>
                         <nav aria-label="breadcrumb">
                             <ol className="breadcrumb">
                                 <li className="breadcrumb-item "><Link to="/">Home</Link></li>
