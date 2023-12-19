@@ -10,7 +10,7 @@ import Footer from '../layouts/Footer';
 import Content from '../sections/menu-v1/Content';
 
 const pagelocation = 'Tenali Double Horse'
-const bannerimg = "/assets/img/about/Poducts-with-suma-garu.jpg"
+const bannerimg = "/assets/img/banner/tenali-double-horse-products-banner.png"
 
 class Menuone extends Component {
     render() {
