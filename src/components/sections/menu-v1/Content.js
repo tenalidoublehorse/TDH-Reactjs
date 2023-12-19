@@ -170,7 +170,7 @@ class Content extends Component {
                             {productcategory.map((item, i) => (
                                 <Link key={item.id} to="#" className={this.state.activeItem === parseInt(item.id) ? 'ct-menu-category-item active' : 'ct-menu-category-item'} >
                                     <div className="menu-category-thumb-products-page">
-                                        <img src={process.env.PUBLIC_URL + "/" + item.img} alt={item.title} />
+                                        <img src={process.env.PUBLIC_URL + "/" + item.img} alt={item.title} className='borderradius' />
                                     </div>
                                     <div className="menu-category-desc">
                                         <h6 style={{color:'#77241D'}}>{item.title}</h6>
