@@ -33,8 +33,12 @@
       
        
         {
-            "id":7,
+            "id":5,
             "bg":"assets/img/banner/tdh-banner-new.png"
+        },
+        {
+            "id":7,
+            "bg":"assets/img/banner/Poducts-with-suma-garu.jpg"
         },
        
         {
