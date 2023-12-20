@@ -51,7 +51,7 @@ class Maplocations extends Component {
                       <div className="col-lg-12  pt-3 pb-3 mb-3" >
                         <div className='location-card shadow'>
                             <h5 className="custom-primary">Regional Office Address</h5>
-                            <p><i className='fas fa-phone pr-2'  /> +91 9666389389</p>
+                            <p className='text-start'><i className='fas fa-phone pr-2' /> +91 9666389389</p>
                             <div className='d-flex'>
                             <div>
                                 <i class='fas fa-location-arrow pr-2' style={{ textAlign: "justify" }} />
@@ -70,7 +70,7 @@ class Maplocations extends Component {
                       <div className="col-lg-12 pt-3 pb-3 mb-5">
                       <div className='location-card shadow'>
                             <h5 className="custom-primary">Factory  Address</h5>
-                            <p><i className='fas fa-phone pr-2' /> +91 9666389389</p>
+                            <p className='text-start'><i className='fas fa-phone pr-2' /> +91 9666389389</p>
                             <div className='d-flex'>
                             <div>
                                 <i class='fas fa-location-arrow pr-2' style={{  textAlign: "justify" }} />
