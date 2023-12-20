@@ -18,10 +18,10 @@ class Tdhexplore extends Component {
 handleSaveChanges = () => {
   try {
   
-    const pdfUrl = process.env.PUBLIC_URL + "/assets/img/people/tdh-brouchure.pdf";
+    const pdfUrl = process.env.PUBLIC_URL + "/layouts/Broachers/tdh-brouchure.pdf";
 
     // Open the PDF file URL in a new tab
-    window.open(pdffile, '_blank');
+    window.open(pdfUrl, '_blank');
 
     // Close the modal after saving
     this.handleClose();
