@@ -22,7 +22,6 @@ import Benefits from '../home-v2/Benefits';
 
 import Latestproducts from './Latestupdate';
 import Mainproductsslider from './Mainproductsslider';
-import Bultproductsslider from './Bultproductsslider';
 import Ammammas from './Ammammas';
 import Tdhexplore from "./Tdhexplore"
 const pagelocation = 'home'
@@ -41,11 +40,8 @@ class Content extends Component {
                 {/* <Lazyload/> */}
                 <Latestproducts/>
                 {/* <Mainproductsslider/> */}
-                {/* <Bultproductsslider/> */}
-               
                 {/* <Camapaing/> */}
-               
-              
+            
                 <Menuitems />
                 <Stats />
                 <Tdhexplore/>
