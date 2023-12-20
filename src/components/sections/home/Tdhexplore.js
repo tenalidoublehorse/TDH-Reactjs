@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 // import { Link } from 'react-router-dom';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import pdffile from '../../layouts/tdh-brouchure.pdf'
+import pdffile from '../../layouts/Broachers/tdh-brouchure.pdf'
 
 import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
 let urls = "#csr-activities"
@@ -21,7 +21,7 @@ handleSaveChanges = () => {
     const pdfUrl = process.env.PUBLIC_URL + "/assets/img/people/tdh-brouchure.pdf";
 
     // Open the PDF file URL in a new tab
-    window.open(pdfUrl, '_blank');
+    window.open(pdffile, '_blank');
 
     // Close the modal after saving
     this.handleClose();
