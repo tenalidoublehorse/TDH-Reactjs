@@ -10378,3 +10378,9 @@ section {
 .borderradius{
   border-radius: 5px!important;
 }
+.text-start{
+  text-align:start!important;
+}
+.text-lg-start{
+  text-align:start!important;
+}
