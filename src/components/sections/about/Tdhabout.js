@@ -99,7 +99,7 @@ class Aboutcompany extends Component {
                       </div>
                     </div>
                   </SwiperSlide>
-                  <SwiperSlide className='p-3'>
+                  {/* <SwiperSlide className='p-3'>
                     <div className="row d-flex">
                       <div className='col-sm-12 col-lg-6 d-flex align-items-center'>
                         <div className=''>
@@ -111,7 +111,7 @@ class Aboutcompany extends Component {
                           <img src={process.env.PUBLIC_URL + "/assets/img/about/slider-5.png"} alt="img" />
                       </div>
                     </div>
-                  </SwiperSlide>
+                  </SwiperSlide> */}
                 </Swiper>
                   </div>
              
