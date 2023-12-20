@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 // import { Link } from 'react-router-dom';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import pdffile from '../../pages/Brochure/tenali-double-horse-info.pdf'
+import pdffile from '../../../assets/css/pdf/tenali-double-horse-info.pdf'
 
 import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
 let urls = "#csr-activities"
