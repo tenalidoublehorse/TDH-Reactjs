@@ -9887,13 +9887,20 @@ top: -5px;
   background-size:cover;
   /* height: 700px; */
 }
-.suma-image img {
+/* .suma-image img {
   height: 500px;
   width: 600px;
-}
+} */
 .suma-img-explore{
   display: none;
 }
+.parlex-bg-image{
+  background-image: url('/assets/img/banner/tdh-packets-banner.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
 
 @media (min-width: 320px) and (max-width:480px) {
   .nutrition .card {
@@ -9925,6 +9932,9 @@ top: -5px;
     order: 2;
     /* margin-top: -750px; */
 
+  }
+  .parlex-bg-image{
+    height: 35vh;
   }
 
   
