@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Modal } from 'react-bootstrap';
 // import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import pdffile from '../../layouts/tdh-brouchure.pdf'
+
 
 class Paragraph extends Component {
   constructor(props) {
@@ -52,7 +52,7 @@ class Paragraph extends Component {
                 Delve into the essence of Tenali Double Horse with our comprehensive company brochure. Uncover our heritage, products, and commitment to quality in this informative guide.
                 </p>
                 <a
-                  href={pdffile}
+                 
                   download="tdh-brouchure.pdf"
                   className="btn-custom btn-sm shadow-none suma"
                   target="_blank"

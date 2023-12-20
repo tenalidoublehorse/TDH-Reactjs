@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import pdffile from './tdh-brouchure.pdf'
+import pdffile from './tenali-double-horse-info.pdf'
 // import img1 from '../../../src/assets/img/bg/tenali-double-horse-footer-banner-1900x500.webp'
 
 
@@ -70,7 +70,7 @@ class Footer extends Component {
                                     <p className='text-dark'>Know More Information!</p>
                                     <a
                                         href={pdffile}
-                                        download="tdh-brouchure.pdf" 
+                                        download="tenali-double-horse-info.pdf" 
                                         className="btn-custom btn-sm shadow-none"
                                         target="_blank"
                                         type="application/pdf"
