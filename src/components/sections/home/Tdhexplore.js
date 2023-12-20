@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 // import { Link } from 'react-router-dom';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import pdffile from '../../pages/Brochure/tenali-double-horse-info.pdf'
+import pdffile from '../../pages/Brochure/magsmen.pdf'
 
 import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
 let urls = "#csr-activities"
@@ -18,7 +18,7 @@ class Tdhexplore extends Component {
 handleSaveChanges = () => {
   try {
   
-    const pdfUrl = process.env.PUBLIC_URL + "/pages/Brochure/tenali-double-horse-info.pdf";
+    const pdfUrl = process.env.PUBLIC_URL + "/pages/Brochure/magsmen.pdf";
 
     // Open the PDF file URL in a new tab
     window.open(pdfUrl, '_blank');
@@ -58,7 +58,7 @@ handleSaveChanges = () => {
                             <div>
                             <a
                                 href={pdffile}
-                                download="tenali-double-horse-info.pdf"
+                                download="magsmen.pdf"
                                 className="btn-custom btn-sm shadow-none suma"
                                 target="_blank"
                                 type="application/pdf"
