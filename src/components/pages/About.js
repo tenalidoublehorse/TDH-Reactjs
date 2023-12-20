@@ -8,7 +8,7 @@ import Footer from '../layouts/Footer';
 import Content from '../sections/about/Content';
 import Submenu from '../layouts/submenu';
 
-const bannerimg = "/assets/img/banners/About-Us-page-Top-banner-2.png"
+const bannerimg = "/assets/img/banner/About-Us-page-Top-banner-2.png"
 const pagelocation = 'About Us'
 
 class About extends Component {
