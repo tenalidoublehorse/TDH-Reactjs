@@ -9,7 +9,7 @@ import Content from '../sections/about/Content';
 import Submenu from '../layouts/submenu';
 
 const bannerimg = "/assets/img/subpagebanners/about-section-sub-banner.jpg"
-const pagelocation = 'About Us'
+const pagelocation = 'The Journey'
 
 class About extends Component {
     render() {

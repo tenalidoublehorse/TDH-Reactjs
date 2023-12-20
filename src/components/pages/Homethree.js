@@ -6,7 +6,7 @@ import Content from '../sections/home-v3/Content';
 import Breadcrumbs from '../layouts/Breadcrumb';
 
 
-const pagelocation = 'News Events'
+const pagelocation = 'News Room'
 const bannerimg = "/assets/img/banner/tenali-double-horse-news-room-banner.png"
 
 class Homethree extends Component {
