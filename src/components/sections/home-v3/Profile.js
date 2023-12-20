@@ -44,7 +44,7 @@ function PortfolioV2() {
     <div className="ltn__gallery-area mt-5 mb-5">
       <div className="section-title-wrap section-header text-center">
         <h5 className="custom-primary text-center">Get real-time updates on events</h5>
-        <h2 className="title text-center">That Impact Our World.</h2>
+        <h2 className="title text-center">That Impact Our World</h2>
       </div>
       <div className="container">
         <div className="ltn__gallery-active row ltn__gallery-style-2 ltn__gallery-info-hide---">
