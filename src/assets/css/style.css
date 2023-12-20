@@ -9885,9 +9885,12 @@ top: -5px;
   background-image: url('/assets/img/bg/suma-broacher.png');
   background-position:center;
   background-size:cover;
-  height: 700px;
+  /* height: 700px; */
 }
-
+.suma-image img {
+  height: 500px;
+  width: 600px;
+}
 .suma-img-explore{
   display: none;
 }

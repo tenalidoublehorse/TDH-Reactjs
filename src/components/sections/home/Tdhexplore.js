@@ -70,7 +70,7 @@ handleSaveChanges = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-6 mb-lg-30  order-1 order-lg-1" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                  <div className="col-lg-6 mb-lg-30  order-1 order-lg-1 suma-image" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                   <img src={process.env.PUBLIC_URL + "/assets/img/home/suma-every-bite-section-tdh.png"} alt="High Nutritional" />
           
                   </div>
