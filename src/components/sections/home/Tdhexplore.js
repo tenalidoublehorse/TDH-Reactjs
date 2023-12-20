@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 // import { Link } from 'react-router-dom';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import pdffile from '../../layouts/Broachers/tdh-brouchure.pdf'
+import pdffile from '../../pages/Brochure/tenali-double-horse-info.pdf'
 
 import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
 let urls = "#csr-activities"
@@ -57,8 +57,8 @@ handleSaveChanges = () => {
                             </p>
                             <div>
                             <a
-                                href={`${process.env.PUBLIC_URL}/${pdffile}`}
-                                download="tdh-brouchure.pdf"
+                                href={pdffile}
+                                download="tenali-double-horse-info.pdf"
                                 className="btn-custom btn-sm shadow-none suma"
                                 target="_blank"
                                 type="application/pdf"
