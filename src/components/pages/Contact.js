@@ -6,7 +6,7 @@ import Content from '../sections/contact/Content';
 import Breadcrumbs from "../layouts/Breadcrumb"
 
 const pagelocation = 'USA Outlets'
-const bannerimg = "/assets/img/banner/tenali-double-horse-usa-top-banner.png"
+const bannerimg = "/assets/img/banner/tenali-double-horse-Usa-outlets.png"
 
 class Contact extends Component {
     render() {
