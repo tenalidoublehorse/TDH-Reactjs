@@ -89,7 +89,7 @@ class Content extends Component {
                     <div className="col-lg-7  mb-lg-5 d-flex align-items-center">
                       <div className='container contact-container'>
                       <div className="row mb-3">
-                      <h5 className="custom-primary text-start white-bg">Contact Us</h5>
+                      <h5 className="custom-primary text-lg-start  mx-auto m-lg-0 white-bg">Contact Us</h5>
                         <h3 className="">Honors and Accolades That<br />Define Us</h3>
                         <p>Find our corporate and factory addresses along with contact information. We're here to assist you. Feel free to get in touch for inquiries, feedback, or any assistance you need.</p>
                       </div>
@@ -98,7 +98,7 @@ class Content extends Component {
                           <div className='card shadow p-3 mb-3'>
                           <i className='fas fa-phone mt-3'></i>
                             <h5 className="custom-primary">Toll Free Number</h5>
-                            <p><a href="tel: 1800 270 567567">1800 270 567567</a></p>
+                            <p className='text-start'><a href="tel: 1800 270 567567">1800 270 567567</a></p>
                           </div>
 
 
@@ -107,7 +107,7 @@ class Content extends Component {
                           <div className='card shadow p-3 mb-3'>
                           <i className='fas fa-envelope mt-3 phone-email'></i>
                             <h5 className="custom-primary">Email Address</h5>
-                            <p> <a href="mailto: info@tenalidoublehorse.com">info@tenalidoublehorse.com</a></p>
+                            <p className='text-start'> <a href="mailto: info@tenalidoublehorse.com">info@tenalidoublehorse.com</a></p>
                           </div>
 
                         </div>
