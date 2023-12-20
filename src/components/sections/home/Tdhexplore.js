@@ -18,7 +18,7 @@ class Tdhexplore extends Component {
 handleSaveChanges = () => {
   try {
   
-    const pdfUrl = process.env.PUBLIC_URL + "/layouts/Broachers/tdh-brouchure.pdf";
+    const pdfUrl = process.env.PUBLIC_URL + "/pages/Brochure/tenali-double-horse-info.pdf";
 
     // Open the PDF file URL in a new tab
     window.open(pdfUrl, '_blank');
