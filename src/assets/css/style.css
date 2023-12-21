@@ -10397,3 +10397,10 @@ section {
 .text-lg-start{
   text-align:start!important;
 }
+.dark-colour{
+  color:black!important;
+}
+
+ .subheader-inner .breadcrumb .dark-colour::before {
+  color: #000!important;
+}

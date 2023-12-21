@@ -3,7 +3,7 @@ import MetaTags from "react-meta-tags";
 import Header from '../layouts/Header';
 import Footer from '../layouts/Footer';
 import Content from '../sections/CSRactivities/content';
-import Breadcrumbs from '../layouts/Breadcrumb';
+import Breadcrumbs from '../layouts/Breadcrumblack';
 import Submenu from '../layouts/submenu';
 
 const pagelocation = 'CSR-activities'

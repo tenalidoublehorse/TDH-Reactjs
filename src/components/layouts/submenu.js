@@ -18,7 +18,7 @@ class submenu extends Component {
                             <Link to="/about">The Journey</Link>
                         </li>
                         <li className={this.props.pagename.pagename === 'Where we are' ? 'active' : ''}>
-                            <Link to="/Where-we-are">Where we are</Link>
+                            <Link to="/Where-we-are" >Where we are</Link>
                         </li>
                         <li className={this.props.pagename.pagename === 'Awards & Recognitions' ? 'active' : ''}>
                             <Link to="/awards-recognitions">Awards & recognitions</Link>
