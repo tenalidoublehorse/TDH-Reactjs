@@ -6145,16 +6145,14 @@ td.quantity{
 }
 /*  cards  */
 .card-locations{
-  border-radius: 4px;
-  /* border-top-right-radius: 35%; */
-  
-  min-height:260px!important;
+  border-radius: 5px;
+  min-height:310px!important;
+  width: 350px;
   background: #fff;
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
   transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12),
     0.3s box-shadow,
     0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
-  /* padding: 14px 10px 18px 36px; */
   cursor: pointer;
 }
 
@@ -10012,10 +10010,17 @@ section {
 .pattern {
     margin-top: -45px;
 }
-
-
 }
+@media(min-width: 720px) and (max-width:1600px){
 
+  .card-locations{
+    min-height:340px!important;
+    width: 260px;
+   
+  }
+  
+  
+}
 
 
 .recent-campaigns {
@@ -10345,8 +10350,9 @@ section {
   padding: 400px 0 40px;
 }
 
-
   }
+
+
 .bulk-subpoint{
   display: flex;
   width: 100%;
