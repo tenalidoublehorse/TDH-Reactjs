@@ -65,7 +65,7 @@ class Menuitems extends Component {
                                 </div>
                             ))}
                         </Slider>
-                        {/* Arrow */}
+                       
                         <i className="slider-next fas fa-arrow-right slick-arrow" onClick={this.next} />
                     </div>
                 </div>
