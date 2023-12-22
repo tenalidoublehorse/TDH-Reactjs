@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 // import { Link } from 'react-router-dom';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import Slider from 'react-slick';
+import products from "../../../data/highlights.json";
+import productcategory from "../../../data/productcategory.json";
 
 import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
 let urls = "https://www.amazon.in/dp/B0CCJ825SX?ref=myi_title_dp"
@@ -13,35 +16,65 @@ class Latestproducts extends Component {
         duration: 1500, 
     });
 }
+constructor(props) {
+    super(props);
+    this.next = this.next.bind(this);
+    this.previous = this.previous.bind(this);
+}
+next() {
+    this.slider.slickNext();
+}
+previous() {
+    this.slider.slickPrev();
+}
+
+    
     render() {
+        const settings = {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: false,
+            dots: false,
+            autoplay: true,
+            autoplaySpeed: 2000,
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    dots: false,
+                    autoplay: true
+                }
+            }]
+        }
         return (
         
             <div>
-                <div className="section section-padding bg-parallax    bg-cover bg-center parlex-bg-image"  >
-                    {/* <div className='row d-flex justify-content-center campaing'>
-                        <div className="col-lg-6 mb-lg-30 order-2 order-lg-1 " style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                            {/* <video controls poster="/assets/img/misc/ammas-thd-collabaration with.png">
-                                <source src={process.env.PUBLIC_URL + "/assets/video/ammama.mp4"} type="video/mp4" />
-                            </video> */}
-                            {/* <a href="https://www.instagram.com/reel/Cyh2CcyN2Kd/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==" target="_blank"><img src={process.env.PUBLIC_URL + "/assets/img/misc/ammammas-idly-batter.png"} alt="img" className=' mb-2' /></a>
-                        </div>*/}
-                        {/* <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center order-1 order-lg-2'>
-                            <div className='mb-lg-5 camp-content'>
-                                <div>
-                                    <h5 className="custom-primary mt-3">Ammamma's Signature</h5>
-                                    <h2 className="title">Dosa-Idly Batter</h2>
-                                    <span></span>
-                                    <p>
-                                        At Tenali Double Horse, we take pride in our collaboration with Ammamma's, bringing you the exquisite taste of tradition. Our journey began when Ammamma's Dosa Batter was crafted using Tenali Double Horse Urad Dal, a product that speaks of purity, quality, and a rich heritage.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>  */}
-                    {/* </div> */}
+        <div className="section section-padding-two bg-cover bg-center mt-5 pt-0 pb-5 category-section light-pic bg-danger " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/tdh-m2-desgin.png)", paddingBottom: '0px!important', height: '100vh' }}>
+          <div className="container m2-desgin  ">
+            <Slider className="category-slider" {...settings} ref={c => (this.slider = c)}>
+              {products.map((item, i) => (
+                <div key={i} className="ct-category category-2 fixed">
+                  <div >
+                    <img className="m2-image" src={process.env.PUBLIC_URL + "/" + item.img} alt={item.name} />
+                  </div>
+                  <div className="ct-category-desc m2-content">
+                    {item.category.slice(0, 1).map((category) => (
+                      productcategory.filter(item => {
+                        return item.id === category
+                      }).map((cat, i) => (
+                        <h5 className="custom-primary " key={i}>{cat.title}</h5>
+                      ))
+                    ))}
+                    <h3 className=''>{item.name}</h3>
+                    <p className=''>{item.shortdesc}</p>
+                    <a href={item.urls} target='_blank' className="btn-custom">Order Now</a>
+                  </div>
                 </div>
-            </div>
-        );
-    }
+              ))}
+            </Slider>
+          </div>
+        </div>
+      </div>
+    );
+  }
 }
-
 export default Latestproducts;
