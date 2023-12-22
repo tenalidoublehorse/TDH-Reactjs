@@ -25,14 +25,14 @@ class Factorylocation extends Component {
                                         TENALI,Guntur, A.P</p>
                                     <div>
                                         <div  className='d-flex'>
-                                            <div><i class='pl-2 fas fa-phone' style={{ fontSize: '15px', color: '#7e8083' }} /></div>&nbsp;&nbsp;
+                                            <div><i class='pl-2 fas fa-phone' style={{ fontSize: '15px', color: '#ED4E53' }} /></div>&nbsp;&nbsp;
                                             &nbsp;
                                             <div><a href="tel:9666389389" target='_blank'>9666389389</a></div>
                                         </div>
                                         <div  className='d-flex'>
-                                            <div><i class='pl-2 fas fa-envelope' style={{ fontSize: '15px', color: '#7e8083' }} /></div>&nbsp;&nbsp;
+                                            <div><i class='pl-2 fas fa-envelope' style={{ fontSize: '15px', color: '#ED4E53' }} /></div>&nbsp;&nbsp;
                                             &nbsp;
-                                            <div><a href="mailto:madindradallmill9@gmail.com" target='_blank'>madindradallmill9@gmail.com</a></div>
+                                            <div><a href="mailto:madindradallmill9@gmail.com " target='_blank'>madindradallmill9@gmail.com</a></div>
                                         </div>
                                     </div>
                                     {/* <button type="button" className=" btn-sm mail-btn mt-4">
@@ -53,12 +53,12 @@ class Factorylocation extends Component {
                                         Kattevaram(Post)–522295, TENALI, Guntur Dist, A.P</p>
                                         <div>
                                         <div  className='d-flex'>
-                                            <div><i class='pl-2 fas fa-phone' style={{ fontSize: '15px', color: '#7e8083' }} /></div>&nbsp;&nbsp;
+                                            <div><i class='pl-2 fas fa-phone' style={{ fontSize: '15px', color: '#ED4E53' }} /></div>&nbsp;&nbsp;
                                             &nbsp;
                                             <div><a href="tel:+91 85019 69798" target='_blank'>+91 85019 69798</a></div>
                                         </div>
                                         <div  className='d-flex'>
-                                            <div><i class='pl-2 fas fa-envelope' style={{ fontSize: '15px', color: '#7e8083' }} /></div>&nbsp;&nbsp;
+                                            <div><i class='pl-2 fas fa-envelope' style={{ fontSize: '15px', color: '#ED4E53' }} /></div>&nbsp;&nbsp;
                                             &nbsp;
                                             <div><a href="mailto: maharanidallmill@gmail.com" target='_blank'>maharanidallmill@gmail.com</a></div>
                                         </div>
@@ -87,12 +87,12 @@ class Factorylocation extends Component {
                                      */}
                                       <div>
                                         <div  className='d-flex'>
-                                            <div><i class='pl-2 fas fa-phone' style={{ fontSize: '15px', color: '#7e8083' }} /></div>&nbsp;&nbsp;
+                                            <div><i class='pl-2 fas fa-phone' style={{ fontSize: '15px', color: '#ED4E53' }} /></div>&nbsp;&nbsp;
                                             &nbsp;
                                             <div><a href="tel:+91 91333 45456" target='_blank'>+91 91333 45456</a></div>
                                         </div>
                                         <div  className='d-flex'>
-                                            <div><i class='pl-2 fas fa-envelope' style={{ fontSize: '15px', color: '#7e8083' }} /></div>&nbsp;&nbsp;
+                                            <div><i class='pl-2 fas fa-envelope' style={{ fontSize: '15px', color: '#ED4E53' }} /></div>&nbsp;&nbsp;
                                             &nbsp;
                                             <div><a href="mailto: mahadevadallindustries@gmail.com" target='_blank'>mahadevadallindustries@gmail</a></div>
                                         </div>
@@ -115,12 +115,12 @@ class Factorylocation extends Component {
                                     </p> */}
                                      <div>
                                         <div  className='d-flex'>
-                                            <div><i class='pl-2 fas fa-phone' style={{ fontSize: '15px', color: '#7e8083' }} /></div>&nbsp;&nbsp;
+                                            <div><i class='pl-2 fas fa-phone' style={{ fontSize: '15px', color: '#ED4E53' }} /></div>&nbsp;&nbsp;
                                             &nbsp;
                                             <div><a href="tel:8187896075" target='_blank'>8187896075</a></div>
                                         </div>
                                         <div  className='d-flex'>
-                                            <div><i class='pl-2 fas fa-envelope' style={{ fontSize: '15px', color: '#7e8083' }} /></div>&nbsp;&nbsp;
+                                            <div><i class='pl-2 fas fa-envelope' style={{ fontSize: '15px', color: '#ED4E53' }} /></div>&nbsp;&nbsp;
                                             &nbsp;
                                             <div><a href="mailto: tenalidoublehorsefoods@gmail.com" target='_blank'>tenalidoublehorsefoods</a></div>
                                         </div>
