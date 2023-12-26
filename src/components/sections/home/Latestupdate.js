@@ -34,9 +34,14 @@ previous() {
             slidesToShow: 1,
             slidesToScroll: 1,
             arrows: false,
+            
             dots: false,
+           
+   
             autoplay: true,
-            autoplaySpeed: 2000,
+            speed:5000,
+            fade :true,
+            autoplaySpeed: 6000,
             responsive: [{
                 breakpoint: 768,
                 settings: {
@@ -48,22 +53,23 @@ previous() {
         return (
         
             <div>
-        <div className="section section-padding-two bg-cover bg-center mt-5 pt-0 pb-5 category-section light-pic bg-danger " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/tdh-m2-desgin.png)", paddingBottom: '0px!important', height: '100vh' }}>
+        <div className="section section-padding-two bg-cover bg-center  pt-0 pb-5 category-section light-pic bg-danger " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/tdh-m2-desgin.png)", paddingBottom: '0px!important', height: '100vh' }}>
           <div className="container m2-desgin  ">
             <Slider className="category-slider" {...settings} ref={c => (this.slider = c)}>
               {products.map((item, i) => (
                 <div key={i} className="ct-category category-2 fixed">
-                  <div >
-                    <img className="m2-image" src={process.env.PUBLIC_URL + "/" + item.img} alt={item.name} />
+                  <div  className="m2-image" >
+                    <img  src={process.env.PUBLIC_URL + "/" + item.img} alt={item.name} />
                   </div>
-                  <div className="ct-category-desc m2-content">
+                  <div className="ct-category-desc m2-content bg-overlay light-overlay p-4">
                     {item.category.slice(0, 1).map((category) => (
                       productcategory.filter(item => {
                         return item.id === category
                       }).map((cat, i) => (
-                        <h5 className="custom-primary " key={i}>{cat.title}</h5>
+                        <h5 className="custom-primary " style={{display:'none'}} key={i}>{cat.title}</h5>
                       ))
                     ))}
+                    {/* <h5 className="text-light back-custom " style={{fontSize:'13px'}} >100 % Oraganic </h5> */}
                     <h3 className=''>{item.name}</h3>
                     <p className=''>{item.shortdesc}</p>
                     <a href={item.urls} target='_blank' className="btn-custom">Order Now</a>
