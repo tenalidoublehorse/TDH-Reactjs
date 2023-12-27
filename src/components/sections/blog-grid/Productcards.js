@@ -99,8 +99,8 @@ class Products extends Component {
                         </Slider>
                     </div>
                     <div className="ct-arrows centered-arrows">
-                        <i className="slider-prev fas fa-arrow-left slick-arrow mb-3" onClick={this.previous} />
-                        <i className="slider-next fas fa-arrow-right slick-arrow mb-3" onClick={this.next} />
+                        <i className="slider-prev fas fa-chevron-left slick-arrow mb-3" onClick={this.previous} />
+                        <i className="slider-next fas fa-chevron-right slick-arrow mb-3" onClick={this.next} />
                     </div>
                 </div>
                
