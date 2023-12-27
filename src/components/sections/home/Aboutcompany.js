@@ -32,7 +32,7 @@ class TimelineSection extends Component {
           <section id="timeline " style={{ ...backgroundStyles }}>
               <div className="section-title-wrap section-header text-center pt-1">
                         <h2 className="title">Tenali Double Horse</h2>
-                        <p>At Tenali Double Horse, our journey began in 2005 with a vision to bring excellence and trust to every household in India. Guided by our commitment to quality and customer satisfaction, we have since become a trusted name that resonates with millions.</p>
+                        <p className='largefont'>At Tenali Double Horse, our journey began in 2005 with a vision to bring excellence and trust to every household in India. Guided by our commitment to quality and customer satisfaction, we have since become a trusted name that resonates with millions.</p>
               </div>
             <div className="container-fluid video-conatiner mt-3">
               <div className="row ourstory-section text-center"  >

@@ -10499,3 +10499,9 @@ section {
   opacity: 0;
   transition: opacity 5000ms ease 0s, visibility 5000ms ease 0s;
 }
+.largefont{
+  font-size:20px!important;
+}
+.smallfont{
+  font-size: 16px!important;
+}

@@ -32,7 +32,7 @@ class Process extends Component {
                 <div className="section-title-wrap section-header text-center pt-5 ">
                     {/* <h5 className="custom-primary white-bg mx-auto">Where Quality Meets Commitment </h5> */}
                     <h2 className="title">Where Quality Meets Commitment</h2>
-                    <p className="subtitle">
+                    <p className="subtitle smallfont">
                         Experience the goodness of high nutritional value and affordability with Tenali Double Horse. Elevate your breakfast routine with our superior products.
                     </p>
                 </div>
@@ -47,7 +47,7 @@ class Process extends Component {
                                 </div>
                                 <div className="card-body">
                                     <h5 class="card-title">High Nutritional Value</h5>
-                                    <p class="card-text">Rich in protein, fiber, and iron, is a nutritious choice for a balanced diet, promoting overall health and well-being..</p>
+                                    <p class="card-text smallfont">Rich in protein, fiber, and iron, is a nutritious choice for a balanced diet, promoting overall health and well-being..</p>
                                 </div>
                             </div>
                         </div>
@@ -58,7 +58,7 @@ class Process extends Component {
                                 </div>
                                 <div className="card-body">
                                     <h5 class="card-title ">Superior Quality</h5>
-                                    <p class="card-text ">Delivering excellence in every bite, High-quality standards in freshness, purity, and taste.</p>
+                                    <p class="card-text smallfont">Delivering excellence in every bite, High-quality standards in freshness, purity, and taste.</p>
                                 </div>
                             </div>
                         </div>
@@ -69,7 +69,7 @@ class Process extends Component {
                                 </div>
                                 <div className="card-body">
                                     <h5 class="card-title">Trusted Brand</h5>
-                                    <p class="card-text">Building trust with our customers by consistently delivering exceptional quality and reliability.</p>
+                                    <p class="card-text smallfont">Building trust with our customers by consistently delivering exceptional quality and reliability.</p>
                                 </div>
                             </div>
                         </div>
@@ -81,7 +81,7 @@ class Process extends Component {
                                 </div>
                                 <div className="card-body pt-3">
                                     <h5 class="card-title">Affordable</h5>
-                                    <p class="card-text">Premium Urad Dal at Affordable Prices. Elevate your Daily Routine without compromising quality: your satisfaction is our priority.</p>
+                                    <p class="card-text smallfont">Premium Urad Dal at Affordable Prices. Elevate your Daily Routine without compromising quality: your satisfaction is our priority.</p>
                                 </div>
                             </div>
                         </div>

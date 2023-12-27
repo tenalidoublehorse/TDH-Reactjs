@@ -55,7 +55,7 @@ previous() {
             <div>
         <div className="section section-padding-two bg-cover bg-center  pt-0 pb-5 category-section light-pic  " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/tdh-m2-desgin.png)", paddingBottom: '0px!important', height: '100vh' }}>
           <div className="container m2-desgin  ">
-          <i className="slider-prev fas fa-arrow-left slick-arrow" onClick={this.previous} />
+          <i className="slider-prev fas fa-chevron-left slick-arrow" onClick={this.previous} />
             <Slider className="category-slider" {...settings} ref={c => (this.slider = c)}>
               {products.map((item, i) => (
                 <div key={i} className="ct-category category-2 fixed">
@@ -78,7 +78,7 @@ previous() {
                 </div>
               ))}
             </Slider>
-            <i className="slider-next fas fa-arrow-right slick-arrow" onClick={this.next} />
+            <i className="slider-next fas fa-chevron-right slick-arrow" onClick={this.next} />
           </div>
         </div>
       </div>
