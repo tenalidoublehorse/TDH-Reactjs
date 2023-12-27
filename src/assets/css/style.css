@@ -2882,6 +2882,13 @@ table img{
     top:42%; 
   }
 }
+@media (min-width: 1600px) and (max-width:2000px) {
+  .category-section .m2-desgin{
+    position: relative;
+    z-index:1;
+    top:47%; 
+  }
+}
 .category-section{
   /* background-image: url(/assets/img/categories/two-bg.png)!important; */
   min-height: auto;
