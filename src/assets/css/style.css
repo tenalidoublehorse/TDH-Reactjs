@@ -570,7 +570,7 @@ blockquote p{
 .section-title-wrap p {
   max-width: 600px;
   margin-bottom: 20px;
-  font-size: 20px;
+  font-size: 16px;
 }
 .section-title-wrap h5{
   margin-bottom: 10px;
@@ -2873,11 +2873,14 @@ table img{
 .category-section .m2-desgin{
   position: relative;
   z-index:1;
-  top:35%;
- 
-  
-
-  
+  top:35%; 
+}
+@media (min-width: 1320px) and (max-width:1700px) {
+  .category-section .m2-desgin{
+    position: relative;
+    z-index:1;
+    top:42%; 
+  }
 }
 .category-section{
   /* background-image: url(/assets/img/categories/two-bg.png)!important; */
@@ -8531,7 +8534,7 @@ g .rsm-marker{
 }
 
   /* slider  */
-  @media (min-width: 950px) and (max-width: 1500px){
+  @media (min-width: 950px) and (max-width: 1700px){
     .ct-category.category-2 img {
         position: absolute;
         right: 20px;

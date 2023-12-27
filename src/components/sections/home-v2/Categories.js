@@ -33,7 +33,7 @@ class Menuitems extends Component {
         return (
             <div className='mt-5 mt-md-5 pt-lg-5'>
                 <div className="section-title-wrap section-header text-center ">
-                    <h5 className="custom-primary white-bg mx-auto">Embracing New Horizons</h5>
+                    {/* <h5 className="custom-primary white-bg mx-auto">Embracing New Horizons</h5> */}
                     <h2 className="title">Our Journey to the UAE Market</h2>
                     <p className="subtitle ">
                     Witness our remarkable expansion as Tenali Double Horse ventures into the UAE. Experience the flavor of tradition and quality as we introduce our products to a new audience.
