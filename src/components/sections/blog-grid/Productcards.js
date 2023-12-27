@@ -58,7 +58,7 @@ class Products extends Component {
             <div className="colour-pink" style={{backgroundColor:'#fff7ef'}}>
                 <div className="container-fluid">
                     <div className="section-title-wrap section-header text-center pt-5">
-                        <h5 className="custom-primary text-center white-bg mx-auto">Flavors of Excellence</h5>
+                        {/* <h5 className="custom-primary text-center white-bg mx-auto">Flavors of Excellence</h5> */}
                         <h2 className="title">Discover Our Culinary Treasures</h2>
                         <p>Indulge in a diverse range of superior quality products from Tenali Double Horse. Explore the finest ingredients that perfectly elevate your meals, from staples to specialties.</p>
                         
