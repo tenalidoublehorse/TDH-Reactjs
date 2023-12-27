@@ -2875,7 +2875,7 @@ table img{
   z-index:1;
   top:35%; 
 }
-@media (min-width: 1320px) and (max-width:1700px) {
+@media (min-width: 1370px) and (max-width:2000px) {
   .category-section .m2-desgin{
     position: relative;
     z-index:1;
@@ -8534,7 +8534,7 @@ g .rsm-marker{
 }
 
   /* slider  */
-  @media (min-width: 950px) and (max-width: 1700px){
+  @media (min-width: 950px) and (max-width: 2000px){
     .ct-category.category-2 img {
         position: absolute;
         right: 20px;
