@@ -77,7 +77,7 @@ const Banner = () => {
         {items.map((item, i) => (
           <img
             key={i}
-            src={process.env.PUBLIC_URL +'https://codkraft.com'+item.Image}
+            src={'https://codkraft.com'+item.Image}
             alt={item.Title}
             onClick={() => handleImageClick(item.id)}
           />
