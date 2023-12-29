@@ -59,7 +59,7 @@ function Content() {
                 </div>
                 <div className="post-thumbnail">
                     <Link to={`/blog-single/${item.id}`}>
-                        <img src={process.env.PUBLIC_URL +'http://127.0.0.1:8000'+item.masonryimage} alt={item.title} />
+                        <img src={process.env.PUBLIC_URL +'https://codkraft.com/'+item.masonryimage} alt={item.title} />
                     </Link>
                 </div>
                 <div className="post-desc">

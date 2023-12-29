@@ -9894,7 +9894,7 @@ top: -5px;
 
 .nutrition-section{
   width: 100% !important;
-  background-image: url('/assets/img/proccess/process-backeground-image.png');
+  /* background-image: url('/assets/img/proccess/process-backeground-image.png'); */
   background-size: 100% 100%;
   background-position: center center;
 }

@@ -32,7 +32,7 @@ class Process extends Component {
                 <div className="section-title-wrap section-header text-center pt-5 ">
                     {/* <h5 className="custom-primary white-bg mx-auto">Where Quality Meets Commitment </h5> */}
                     <h2 className="title">Where Quality Meets Commitment</h2>
-                    <p className="subtitle smallfont">
+                    <p className="subtitle largefont">
                         Experience the goodness of high nutritional value and affordability with Tenali Double Horse. Elevate your breakfast routine with our superior products.
                     </p>
                 </div>
