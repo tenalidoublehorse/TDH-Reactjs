@@ -2873,9 +2873,16 @@ table img{
 .category-section .m2-desgin{
   position: relative;
   z-index:1;
-  top:35%; 
+  top:32%; 
 }
-@media (min-width: 1370px) and (max-width:2000px) {
+@media (min-width: 1100px) and (max-width:1300px) {
+.category-section .m2-desgin{
+  position: relative;
+  z-index:1;
+  top:38%; 
+}
+}
+@media (min-width: 1370px) and (max-width:1599px) {
   .category-section .m2-desgin{
     position: relative;
     z-index:1;
@@ -2888,6 +2895,18 @@ table img{
     z-index:1;
     top:47%; 
   }
+  .banner-slider-nav .slick-arrow.slider-prev,
+.category-section .slick-arrow.slider-prev{
+  left: -150px;
+  opacity: 0;
+  visibility: hidden;
+}
+.banner-slider-nav .slick-arrow.slider-next,
+.category-section .slick-arrow.slider-next{
+  right: -150px;
+  opacity: 0;
+  visibility: hidden;
+}
 }
 .category-section{
   /* background-image: url(/assets/img/categories/two-bg.png)!important; */
