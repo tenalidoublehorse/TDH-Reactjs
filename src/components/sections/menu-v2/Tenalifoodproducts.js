@@ -8,7 +8,7 @@ import tdhproductcategory from "../../../data/tdhproductcategory.json";
 import { Rating } from "../../../helper/helper";
 import Masonry from 'react-masonry-component';
 import Feedback from '../home/Feedback';
-import Messenger from '../home/Messenger';
+
 
 
 class Tenalifoodproducts extends Component {

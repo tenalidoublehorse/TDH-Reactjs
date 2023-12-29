@@ -8,7 +8,7 @@ import productcategory from "../../../data/productcategory.json";
 import { Rating } from "../../../helper/helper";
 import Masonry from 'react-masonry-component';
 import Feedback from '../home/Feedback';
-import Messenger from '../home/Messenger';
+
 import { Tab, Nav } from "react-bootstrap";
 import { getProduct } from '../../../helper/Producthelper';
 
