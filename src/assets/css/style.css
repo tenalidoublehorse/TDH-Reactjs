@@ -2879,7 +2879,7 @@ table img{
 .category-section .m2-desgin{
   position: relative;
   z-index:1;
-  top:38%; 
+  top:29%; 
 }
 }
 @media (min-width: 1370px) and (max-width:1599px) {
@@ -2897,13 +2897,13 @@ table img{
   }
   .banner-slider-nav .slick-arrow.slider-prev,
 .category-section .slick-arrow.slider-prev{
-  left: -150px;
+  left: -170px!important;
   opacity: 0;
   visibility: hidden;
 }
 .banner-slider-nav .slick-arrow.slider-next,
 .category-section .slick-arrow.slider-next{
-  right: -150px;
+  right: -170px!important;
   opacity: 0;
   visibility: hidden;
 }
