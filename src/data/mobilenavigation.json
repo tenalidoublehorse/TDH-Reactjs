@@ -86,11 +86,7 @@
         "linkText": "Products",
         "child": true,
         "submenu": [
-            {
-                "id": 41,
-                "link": "/tenali-double-horse-products",
-                "linkText": "TDH Products"
-            }
+           
         ]
         
     },

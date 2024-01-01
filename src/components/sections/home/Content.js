@@ -35,7 +35,7 @@ class Content extends Component {
                 <Banner />
                 <Aboutcompany pagename={{pagename: pagelocation}}/>
                 <Process />
-                <Productcards />
+                {/* <Productcards /> */}
                 {/* <Nutrients/> ammas dosa batter */}
                 {/* <Lazyload/> */}
                 {/* <Latestproducts/> */}
