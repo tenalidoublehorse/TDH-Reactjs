@@ -85,9 +85,7 @@
         "id": 4,
         "linkText": "Products",
         "child": true,
-        "submenu": [
-           
-        ]
+        "submenu": [ ]
         
     },
     {
