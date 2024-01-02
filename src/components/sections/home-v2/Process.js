@@ -43,7 +43,7 @@ class Process extends Component {
                         <div className='col-lg-6 col-sm-12 mt-3'>
                             <div className="card border-0 shadow rounded-3 wow animate__animated animate__fadeInLeft" style={{ animationDelay: '100ms' }}>
                                 <div class="cardheader pt-3">
-                                    <img src={process.env.PUBLIC_URL + "/assets/img/proccess/high-nutritional.png"} alt="High Nutritional" />
+                                    <img src={process.env.PUBLIC_URL + "/assets/img/proccess/Nutrional.png"} alt="High Nutritional" />
                                 </div>
                                 <div className="card-body">
                                     <h5 class="card-title">High Nutritional Value</h5>
@@ -54,7 +54,7 @@ class Process extends Component {
                         <div className='col-lg-6 col-sm-12 mt-3'>
                             <div className="card border-0 shadow rounded-3 wow animate__animated animate__fadeInRight" style={{ animationDelay: '100ms' }}>
                                 <div class="cardheader pt-3">
-                                    <img src={process.env.PUBLIC_URL + "/assets/img/proccess/superior-quality.png"} alt="Superior Quality" />
+                                    <img src={process.env.PUBLIC_URL + "/assets/img/proccess/superior.png"} alt="Superior Quality" />
                                 </div>
                                 <div className="card-body">
                                     <h5 class="card-title ">Superior Quality</h5>
@@ -65,7 +65,7 @@ class Process extends Component {
                         <div className='col-lg-6 col-sm-12 mt-4'>
                             <div className="card border-0 shadow rounded-3 wow animate__animated animate__fadeInLeft " style={{ animationDelay: '300ms' }}>
                                 <div class="cardheader pt-3">
-                                    <img src={process.env.PUBLIC_URL + "/assets/img/proccess/trusted-brancd.png"} alt="Trusted Brand" />
+                                    <img src={process.env.PUBLIC_URL + "/assets/img/proccess/brand.png"} alt="Trusted Brand" />
                                 </div>
                                 <div className="card-body">
                                     <h5 class="card-title">Trusted Brand</h5>
@@ -77,7 +77,7 @@ class Process extends Component {
                         <div className='col-lg-6 col-sm-12 mt-4'>
                             <div className="card border-0 shadow rounded-3 wow animate__animated animate__fadeInRight" style={{ animationDelay: '300ms' }}>
                                 <div class="cardheader pt-3">
-                                    <img src={process.env.PUBLIC_URL + "/assets/img/proccess/affordable.png"} alt="Affordable" />
+                                    <img src={process.env.PUBLIC_URL + "/assets/img/proccess/affordable-high.png"} alt="Affordable" />
                                 </div>
                                 <div className="card-body pt-3">
                                     <h5 class="card-title">Affordable</h5>

@@ -57,7 +57,7 @@ previous() {
         
             <div>
                 <div className="section section-padding-two bg-cover bg-center  pt-0 pb-5 category-section light-pic  " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/dubai.png)", paddingBottom: '0px!important', height: '100vh' }}>
-                    <div className="container dubai bg-danger ">
+                    <div className="container dubai  ">
                         <i className="slider-prev fas fa-chevron-left slick-arrow" onClick={this.previous} />
                         <Slider className="product-slider" {...settings} ref={c => (this.slider = c)}>
                             {/* Product Start */}
