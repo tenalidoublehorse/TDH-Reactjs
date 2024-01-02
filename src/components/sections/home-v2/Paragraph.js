@@ -1,77 +1,92 @@
 import React, { Component } from 'react';
-import { Modal } from 'react-bootstrap';
-// import Button from 'react-bootstrap/Button';
-import Form from 'react-bootstrap/Form';
+// import { Link } from 'react-router-dom';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import Slider from 'react-slick';
+import { Link } from 'react-router-dom';
+import products from "../../../data/homeproducts.json";
+import productcategory from "../../../data/productcategory.json";
+
+import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
+let urls = "https://www.amazon.in/dp/B0CCJ825SX?ref=myi_title_dp"
 
 
-class Paragraph extends Component {
-  constructor(props) {
+class Latestproducts extends Component {
+  componentDidMount() {
+    AOS.init({
+        duration: 1500, 
+    });
+}
+constructor(props) {
     super(props);
-    this.state = {
-      showModal: false
-    };
-  }
+    this.next = this.next.bind(this);
+    this.previous = this.previous.bind(this);
+}
+next() {
+    this.slider.slickNext();
+}
+previous() {
+    this.slider.slickPrev();
+}
 
-  handleClose = () => {
-    this.setState({ show: false });
-  }
-
-  handleShow = () => {
-    this.setState({ show: true });
-  }
-  handleSaveChanges = () => {
-    try {
     
-      const pdfUrl = process.env.PUBLIC_URL + "/assets/img/people/tdh-brouchure.pdf";
-  
-      // Open the PDF file URL in a new tab
-      window.open(pdfUrl, '_blank');
-  
-      // Close the modal after saving
-      this.handleClose();
-    } catch (error) {
-      console.error('Error opening PDF:', error);
-      // Handle error if needed
+    render() {
+      const settings = {
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: false,
+        dots: false,
+       
+
+        responsive: [
+            {
+                breakpoint: 991,
+                settings: {
+                    slidesToShow: 2
+                }
+            },
+            {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1
+                }
+            }
+        ]
     }
-  };
-  
-  
+        return (
+        
+            <div>
+                <div className="section section-padding-two bg-cover bg-center  pt-0 pb-5 category-section light-pic  " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/dubai.png)", paddingBottom: '0px!important', height: '100vh' }}>
+                    <div className="container dubai bg-danger ">
+                        <i className="slider-prev fas fa-chevron-left slick-arrow" onClick={this.previous} />
+                        <Slider className="product-slider" {...settings} ref={c => (this.slider = c)}>
+                            {/* Product Start */}
+                            {products.map((item, i) => (
+                                <div key={i} className="product">
+                                    <Link className="product-thumb" to={"/menu-item-v1/" + item.id}>
+                                        <img src={process.env.PUBLIC_URL + "/" + item.img} alt={item.name} />
+                                    </Link>
+                                    <div className="product-body">
+                                        <div className="product-desc">
+                                            <h4> <Link to={"/menu-item-v1/" + item.id}>{item.name}</Link> </h4>
+                                            <p>{item.shortdesc}</p>
 
-  render() {
-    const { show } = this.state;
 
-    return (
-      <div className="section suma-section" >
-        <div className="container">
-          <div className="row align-items-center ">
-          <div className="col-sm-12 col-lg-6  content-section order-sm-2 order-lg-1">
-              <div className="section-title-wrap mr-lg-30 text-center">
-                <h5 className="custom-primary white-bg mx-auto">Explore Our Story</h5>
-                <h2 className="title" style={{fontSize:"38px" }}>Download Our Brochure</h2>
-                <p className="subtitle mb-3" style={{ textAlign: 'justify', fontSize:"20px" }}>
-                Delve into the essence of Tenali Double Horse with our comprehensive company brochure. Uncover our heritage, products, and commitment to quality in this informative guide.
-                </p>
-                <a
-                 
-                  download="tdh-brouchure.pdf"
-                  className="btn-custom btn-sm shadow-none suma"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  Download Brochure
-                </a>
-              
-              </div>
+                                        </div>
+
+                                        <Link to={"/menu-item-v1/" + item.id} className="order-item btn-custom btn-sm shadow-none w-100">Order <i className="fas fa-shopping-cart" /> </Link>
+
+
+                                    </div>
+                                </div>
+                            ))}
+                            {/* Product End */}
+                        </Slider>
+                        <i className="slider-next fas fa-chevron-right slick-arrow" onClick={this.next} />
+                    </div>
+                </div>
             </div>
-            <div className="col-sm-12 col-lg-6 mb-lg-30 suma-img-explore order-sm-1 order-lg-2">
-              <img src={process.env.PUBLIC_URL + "/assets/img/misc/Suma-1600x1279.png"} alt="img" />
-            </div>
-           
-          </div>
-        </div>
-      </div>
     );
   }
 }
-
-export default Paragraph;
+export default Latestproducts;

@@ -32,7 +32,7 @@ class Camapaing extends Component {
                 <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-2'>
                     <div className='mb-lg-5 camp-content'>
                       <div>
-                        <div className="section-title-wrap section-header mb-md-5 mt-lg-5 mt-xl-5  mt-xxl-5 text-center ">
+                        <div className="section-title-wrap section-header mb-md-5  text-center ">
                             {/* <h5 className="custom-primary text-justify white-bg mx-auto">Campaign Chronicles</h5> */}
                             <h2 className="title">Explore Our Recent Campaigns</h2>
                             <p className='text-justify'>
@@ -45,7 +45,7 @@ class Camapaing extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-6 mb-lg-30 order-1 order-lg-1 campaing-video pb-5" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                  <div className="col-lg-6  order-1 order-lg-1 campaing-video pb-5" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                     <iframe
                       title="YouTube Video"
                       src="https://www.youtube.com/embed/S1zLiEfbZ1Y?si=SE061xGF2MwD-Mc5"
