@@ -64,7 +64,7 @@ previous() {
                             {/* Product Start */}
                             {products.map((item, i) => (
                                 <div key={i} className="product">
-                                    <Link className="product-thumb" to={"/menu-item-v1/" + item.id}>
+                                    <Link className="product-thumb">
                                         <img src={process.env.PUBLIC_URL + "/" + item.img} alt={item.name} />
                                     </Link>
                                     <div className="product-body">
@@ -72,7 +72,8 @@ previous() {
                                             <h4> <Link to={"/menu-item-v1/" + item.id}>{item.name}</Link> </h4>
                                             <p className='pro-desc-content'>{item.shortdesc}</p>
                                         </div>
-                                        <Link to={"/menu-item-v1/" + item.id} className="order-item btn-custom btn-sm shadow-none w-100">Shop Now <i className="fas fa-shopping-cart" /> </Link>
+                                        <a href={item.urls} target='_blank' className="btn-custom">Shop Now </a>
+                                        {/* <Link to={item.url} className="order-item btn-custom btn-sm shadow-none w-100">Shop Now <i className="fas fa-shopping-cart" /> </Link> */}
                                     </div>
                                 </div>
                             ))}
