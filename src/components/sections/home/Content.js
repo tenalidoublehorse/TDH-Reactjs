@@ -46,7 +46,7 @@ class Content extends Component {
                 {/* <Menuitems /> */}
                 <Stats />
                 <Tdhexplore/>
-                <Paragraph />
+                {/* <Paragraph /> */}
                 <Ammammas/>
                 {/* <Cockingtips/> */}
                 <Benefits/>
