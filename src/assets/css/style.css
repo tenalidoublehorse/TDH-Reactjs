@@ -4420,7 +4420,7 @@ td.quantity{
 .product .product-thumb{
   display: block;
   text-align: center;
-  margin-bottom: -60px;
+  margin-bottom: -40px;
   -webkit-transition: .3s;
   -o-transition: .3s;
   transition: .3s;
@@ -10522,8 +10522,22 @@ section {
     .sub-header-breadcrumbs {
       padding: 500px 0 40px;
     }
+    
+    .about-video iframe{
+      width:320px !important;
+      height: 180px !important;
+      border-radius: 4px;
+    }
+ .ourstory-section .title{
+  color: #4c4e61;
+ }
 }
-
+.pro-desc-content {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
   
 .borderradius{
   border-radius: 5px!important;
