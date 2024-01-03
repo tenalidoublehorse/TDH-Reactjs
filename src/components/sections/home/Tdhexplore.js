@@ -49,7 +49,7 @@ handleSaveChanges = () => {
                             <p className='text-justify '>
                               Delve into the essence of Tenali Double Horse with our comprehensive company brochure. Uncover our heritage, products, and commitment to quality in this informative guide.
                             </p>
-                            <div>
+                            <div className='mt-3'>
                             <a
                                 href={pdffile}
                                 download="tenali-double-horse-info.pdf"

@@ -36,7 +36,7 @@ class Camapaing extends Component {
                             {/* <h5 className="custom-primary text-justify white-bg mx-auto">Campaign Chronicles</h5> */}
                             <h2 className="title">Explore Our Recent Campaigns</h2>
                             <p className='text-justify'>
-                              <b>Phir Se Udaan</b> is an initiative by your favourite <b>Tenali Double Horse</b> with a vision of empowering women inside and outside the house. Tenali Double Horse offers only the best quality and nutrition-packed range of Dals and Instant foods like Idli and Dosa mixes.
+                               <b className='bold-colour'>Phir Se Udaan</b> is an initiative by your favourite <b className='bold-colour'>Tenali Double Horse</b> with a vision of empowering women inside and outside the house. Tenali Double Horse offers only the best quality and nutrition-packed range of Dals and Instant foods like Idli and Dosa mixes.
                             </p>
                         </div>
                       </div>

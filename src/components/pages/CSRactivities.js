@@ -6,7 +6,7 @@ import Content from '../sections/CSRactivities/content';
 import Breadcrumbs from '../layouts/Breadcrumblack';
 import Submenu from '../layouts/submenu';
 
-const pagelocation = 'CSR-activities'
+const pagelocation = 'CSR Initiatives'
 const bannerimg = "/assets/img/banner/tdh-csr-activities.png"
 
 class Homethree extends Component {

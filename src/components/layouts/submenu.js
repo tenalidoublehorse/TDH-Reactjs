@@ -24,7 +24,7 @@ class submenu extends Component {
                             <Link to="/awards-recognitions">Awards & recognitions</Link>
                         </li>
                         <li className={this.props.pagename.pagename === 'CSR-activities' ? 'active' : ''}>
-                            <Link to="/csr-activities">CSR Activities</Link>
+                            <Link to="/csr-activities">CSR Initiatives</Link>
                         </li>
                     </ul>
                 </div>
