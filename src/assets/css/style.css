@@ -10141,7 +10141,7 @@ section {
 
 
 .recent-campaigns {
-  background-color: #fff7ef;
+  background-color: #ffffff;
   /* height: 750px; */
 }
 .main-content-section{
@@ -10594,7 +10594,19 @@ section {
 .smallfont{
   font-size: 16px!important;
 }
-/* .section-double{
+.section-double{
 margin-top:250px;
-} */
+}
 
+
+.coocking-tips-img{
+
+background-image: url('/assets/img/about/idley.png');
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.coocking-tips{
+  background-color: #ebe0de;
+}
