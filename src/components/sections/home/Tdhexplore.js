@@ -34,7 +34,7 @@ handleSaveChanges = () => {
         return (
         
           <div className='recent-campaigns1 suma-section-broacher'>
-            <div className='container-fluid mb-5'>
+            <div className='container-fluid'>
               <div className='main-content-section'>
                 <div className=''>
                  

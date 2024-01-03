@@ -19,6 +19,7 @@ import Feedback from './Feedback';
 
 import Nutrients from './Nutrients'
 import Benefits from '../home-v2/Benefits';
+import Cockingtips from '../home-v2/Cockingtips';
 
 import Latestproducts from './Latestupdate';
 import Mainproductsslider from './Mainproductsslider';
@@ -35,25 +36,23 @@ class Content extends Component {
                 <Banner />
                 <Aboutcompany pagename={{pagename: pagelocation}}/>
                 <Process />
-                {/* <Productcards /> */}
+                <Productcards />
                 {/* <Nutrients/> ammas dosa batter */}
                 {/* <Lazyload/> */}
                 {/* <Latestproducts/> */}
                 {/* <Mainproductsslider/> */}
                 {/* <Camapaing/> */}
             
-                <Menuitems />
+                {/* <Menuitems /> */}
                 <Stats />
                 <Tdhexplore/>
-                {/* <Paragraph /> */}
+                <Paragraph />
                 <Ammammas/>
+                <Cockingtips/>
                 <Benefits/>
                 <Reviews/>
                 {/* <Socialmedia /> */}
                 <Feedback/>
-               
-               
-              
             </Fragment>
         );
     }

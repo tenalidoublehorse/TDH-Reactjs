@@ -36,7 +36,7 @@ class TimelineSection extends Component {
               </div> */}
             <div className="container-fluid video-conatiner mt-3">
               <div className="row ourstory-section text-center"  >
-                  <div className='col-sm-12 col-lg-6'>
+                  <div className='col-sm-12 col-lg-6 order-2 order-lg-2'>
                     <div className="section-title-wrap section-header text-center pt-1">
                       <h2 className="title">Tenali Double Horse</h2>
                       <p className='largefont'>At Tenali Double Horse, our journey began in 2005 with a vision to bring excellence and trust to every household in India. Guided by our commitment to quality and customer satisfaction, we have since become a trusted name that resonates with millions.</p>
@@ -48,7 +48,7 @@ class TimelineSection extends Component {
                   )}
                     </div>
                   </div>
-                  <div className='col-sm-12 col-lg-6   about-video'>
+                  <div className='col-sm-12 col-lg-6  order-1 order-lg-1 about-video'>
                   {this.props.pagename.pagename === "AboutUs" ? (
                     <iframe  src="https://www.youtube.com/embed/4haxVA5cTuY?si=A5FrVYfc6VYLRg4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className='mb-5 mx-auto border5'  allowfullscreen></iframe> 
                     ) : (

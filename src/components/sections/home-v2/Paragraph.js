@@ -56,8 +56,8 @@ previous() {
         return (
         
             <div>
-                <div className="section section-padding-two bg-cover bg-center  pt-0 pb-5 category-section light-pic  " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/dubai.png)", paddingBottom: '0px!important', height: '100vh' }}>
-                    <div className="container dubai  ">
+                <div className="section section-padding-two bg-cover bg-center  pt-0 pb-5 category-section light-pic  " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/dubai.png)", paddingBottom: '0px!important', height: '90vh' }}>
+                    <div className="container-fluid dubai ">
                         <i className="slider-prev fas fa-chevron-left slick-arrow" onClick={this.previous} />
                         <Slider className="product-slider" {...settings} ref={c => (this.slider = c)}>
                             {/* Product Start */}
@@ -69,14 +69,9 @@ previous() {
                                     <div className="product-body">
                                         <div className="product-desc">
                                             <h4> <Link to={"/menu-item-v1/" + item.id}>{item.name}</Link> </h4>
-                                            <p>{item.shortdesc}</p>
-
-
+                                            <p className='pro-desc-content'>{item.shortdesc}</p>
                                         </div>
-
-                                        <Link to={"/menu-item-v1/" + item.id} className="order-item btn-custom btn-sm shadow-none w-100">Order <i className="fas fa-shopping-cart" /> </Link>
-
-
+                                        <Link to={"/menu-item-v1/" + item.id} className="order-item btn-custom btn-sm shadow-none w-100">Shop Now <i className="fas fa-shopping-cart" /> </Link>
                                     </div>
                                 </div>
                             ))}

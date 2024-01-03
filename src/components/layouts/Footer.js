@@ -122,7 +122,7 @@ class Footer extends Component {
                 </div>
                 {/* Footer Bottom */}
                 <div className="footer-bottom">
-                    <div className="container">
+                    <div className="container-fluid">
                        
                         <div className="footer-copyright">
                             <p> Copyright © 2023 <Link to="/">Tenali Double Horse </Link> All Rights Reserved. </p>
