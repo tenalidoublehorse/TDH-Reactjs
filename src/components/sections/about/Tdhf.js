@@ -4,7 +4,7 @@ import React, { Component,Link } from 'react';
 class Tdhgroup extends Component {
     render() {
         return (
-            <div className="section " >
+            <div className="section" >
                 <div className="container">
                 <div className="section-title-wrap section-header text-center ">
                     {/* <h5 className="custom-primary">Savor Delights with TDH Foods</h5> */}

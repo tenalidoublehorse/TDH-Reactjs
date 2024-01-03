@@ -129,7 +129,7 @@ class Content extends Component {
                                     {Rating(item.rating)}
                                 </div>
                             </div>
-                            <p>{item.shortdesc}</p>
+                            <p className='pro-desc-content'>{item.shortdesc}</p>
                             {/* {item.price === 0 ? <p></p>:
                             <p className="product-price">{item.symbol} 
                             {new Intl.NumberFormat().format((item.price).toFixed(2))}

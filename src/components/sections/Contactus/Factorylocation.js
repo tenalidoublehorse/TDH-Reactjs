@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Factorylocation extends Component {
     render() {
         return (
-            <div className="section" style={{ backgroundColor: '#f2f2f2' }}>
+            <div className="section" style={{ backgroundColor: '#fff7ef' }}>
                 <div className="container-fluid">
                     <div className="section-title-wrap text-center">
                         {/* <h5 className="custom-primary  white-bg mx-auto">Explore Our Factory Locations</h5> */}

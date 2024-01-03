@@ -39,7 +39,7 @@ class Maplocations extends Component {
          
             <div className="section" style={{ paddingBottom: '0px' }}>
 
-              <div className="fluid-container bg-light">
+              <div className="fluid-container" style={{ backgroundColor: 'white' }}>
                 <div className="container-fluid">
                   <div className="section-title-wrap text-center mb-5">
                     <h2 className="title pt-5">Our Office & Factory Location</h2>
