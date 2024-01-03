@@ -4,7 +4,8 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Slider from 'react-slick';
 import { Link } from 'react-router-dom';
-import products from "../../../data/homeproducts.json";
+// import products from "../../../data/homeproducts.json";
+import products from "../../../data/dubai.json";
 import productcategory from "../../../data/productcategory.json";
 
 import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
