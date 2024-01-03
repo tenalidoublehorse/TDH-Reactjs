@@ -7,7 +7,7 @@ class Tdhgroup extends Component {
             <div className="section " >
                 <div className="container">
                 <div className="section-title-wrap section-header text-center ">
-                    <h5 className="custom-primary">Savor Delights with TDH Foods</h5>
+                    {/* <h5 className="custom-primary">Savor Delights with TDH Foods</h5> */}
                     <h2 className="title">Indulge in Tradition and Convenience</h2>
                     <p className="subtitle">
                     Explore TDH Foods, our renowned subsidiary brand known for iconic Sunnundalu and instant mixes like dosa, idly, and vada. Elevate your culinary journey with authentic flavors and easy preparation.

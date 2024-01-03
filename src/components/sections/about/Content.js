@@ -18,7 +18,7 @@ class Content extends Component {
             <Fragment>
                <Tdhabout/>
                <Rules/>
-               <Aboutcompany pagename={{pagename: pagelocation,ifrmaurl:ifrmaurl}}/>
+               {/* <Aboutcompany pagename={{pagename: pagelocation,ifrmaurl:ifrmaurl}}/> */}
                <Tdhf/>
                {/* <Tdhgroup/> */}
                {/* <Overview/> */}

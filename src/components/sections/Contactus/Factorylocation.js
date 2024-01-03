@@ -6,7 +6,7 @@ class Factorylocation extends Component {
             <div className="section" style={{ backgroundColor: '#f2f2f2' }}>
                 <div className="container-fluid">
                     <div className="section-title-wrap text-center">
-                        <h5 className="custom-primary  white-bg mx-auto">Explore Our Factory Locations</h5>
+                        {/* <h5 className="custom-primary  white-bg mx-auto">Explore Our Factory Locations</h5> */}
                         <h2 className="title">Where Innovation Takes Shape</h2>
                         <p className="subtitle">
                             For inquiries about our factory locations and more

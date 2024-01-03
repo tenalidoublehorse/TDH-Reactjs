@@ -54,12 +54,12 @@ class TimelineSection extends Component {
                     ) : (
                       <iframe  src="https://www.youtube.com/embed/6iYttZFN9KA?si=Ti2sQX5oERZ6WeR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className='mb-5 mx-auto border5'  allowfullscreen></iframe>
                   )}
-                    {/* <iframe  src={this.props.pagename.ifrmaurl} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className='mb-5 mx-auto border5'  allowfullscreen></iframe> */}
+                   
                  </div>
                  
                 
                  
-                  {/* <Link to="/about" className=" btn-custom btn-sm shadow-none suma mb-5 "> READ OUR STORY </Link> */}
+                
                 
               </div>
             </div>

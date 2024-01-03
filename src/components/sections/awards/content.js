@@ -35,7 +35,7 @@ function Awards() {
   return (
     <div className="ltn__gallery-area mt-5 mb-5">
       <div className="section-title-wrap section-header text-center">
-        <h5 className="custom-primary text-center">Proud Moments</h5>
+        {/* <h5 className="custom-primary text-center">Proud Moments</h5> */}
         <h2 className="title text-center">Honors and Accolades That Define Us</h2>
       </div>
       <div className="container">
