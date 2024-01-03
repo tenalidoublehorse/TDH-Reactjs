@@ -16,7 +16,7 @@ class Ammammas extends Component {
     render() {
         return (
         
-          <div className='recent-campaigns1 section-double ammas'>
+          <div className='recent-campaigns1 section-double '>
             <div className='container-fluid mb-5'>
               <div className='main-content-section'>
                 <div className=''>
