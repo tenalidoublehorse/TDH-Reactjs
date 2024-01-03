@@ -10509,7 +10509,7 @@ section {
       height: 1000px;
     }
     .recent-campaigns {
-      height: 900px;
+      height: 750px;
     }
     .pro-slider-content{
       width: 100%;
@@ -10533,7 +10533,13 @@ section {
  .ourstory-section .title{
   color: #4c4e61;
  }
+ .ammas .main-content-section {
+  padding-top: 0px;
+  margin-top: -150px;
 }
+}
+
+
 .pro-desc-content {
   overflow: hidden;
   display: -webkit-box;
@@ -10609,4 +10615,7 @@ background-repeat: no-repeat;
 
 .coocking-tips{
   background-color: #ebe0de;
+}
+.ammamms-campaing{
+    margin-top: -80px;
 }

@@ -16,7 +16,7 @@ class Ammammas extends Component {
     render() {
         return (
         
-          <div className='recent-campaigns1 section-double'>
+          <div className='recent-campaigns1 section-double ammas'>
             <div className='container-fluid mb-5'>
               <div className='main-content-section'>
                 <div className=''>
@@ -28,7 +28,7 @@ class Ammammas extends Component {
                     </p>
                   </div> */}
                 </div>
-                <div className='row d-flex justify-content-center campaing'>
+                <div className='row d-flex justify-content-center ammamms-campaing'>
                 <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-2'>
                     <div className='mb-lg-5 camp-content'>
                       <div>
