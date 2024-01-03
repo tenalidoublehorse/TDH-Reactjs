@@ -10133,9 +10133,9 @@ section {
     border-radius: 4px;
   }
   
-  .largefont{
+  /* .largefont{
     font-size:20px!important;
-  }
+  } */
   
 }
 
@@ -10374,7 +10374,9 @@ section {
   font-weight: 700;
 }
 .origins-main-section{
-  background-image: url('/assets/img/about/about-background.png');
+  /* background-image: url('/assets/img/about/about-background.png'); */
+  /* background-color: #ff0000; */
+  background: linear-gradient(#fff7ef, #fff7ef);
   padding-bottom: 10px;
 }
 
@@ -10450,9 +10452,9 @@ section {
     .container-fluid{
       padding: 0 10% 0 10%;
     }
-    .largefont{
+    /* .largefont{
       font-size:20px!important;
-    }
+    } */
     .suma-section {
       height: 700px;
   }
@@ -10491,9 +10493,9 @@ section {
       height: 350px;
       margin-right: auto;
     }
-    .largefont{
+    /* .largefont{
       font-size:16px!important;
-    }
+    } */
     .slick-slide{
       outline:none;
       margin:0 0px!important;

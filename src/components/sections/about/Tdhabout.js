@@ -32,7 +32,7 @@ class Aboutcompany extends Component {
             <div className="container-fluid">
               <div className="origins-section">
                 <div className='pt-5 pb-5'>
-                    <h5 className="custom-primary text-center white-bg mx-auto ">Unveilling Our Origins</h5>
+                    {/* <h5 className="custom-primary text-center white-bg mx-auto ">Unveilling Our Origins</h5> */}
                     <h2 className="title text-center">A Timeline of Growth, Innovation, and Impact</h2>
                   </div>
                 
