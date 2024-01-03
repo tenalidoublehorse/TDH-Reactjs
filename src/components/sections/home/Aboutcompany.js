@@ -42,7 +42,7 @@ class TimelineSection extends Component {
                       <p className='largefont' style={{textAlign:'justify'}}>At <b className='bold-colour'> Tenali Double Horse</b>, our journey began in 2005 with a vision to bring excellence and trust to every household in  <b className='bold-colour'> India</b>. Guided by our commitment to quality and customer satisfaction, we have since become a trusted name that resonates with millions.</p>
                       {this.props.pagename.pagename === "AboutUs" ? (
                     "") : (
-                    <Link to="/about" className="btn-custom btn-sm shadow-none suma mb-5">
+                    <Link to="/aboutus" className="btn-custom btn-sm shadow-none suma mb-5">
                       READ OUR STORY
                     </Link>
                   )}

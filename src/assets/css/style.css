@@ -9772,9 +9772,9 @@ top: -5px;
     color: whitesmoke !important;
     font-weight: 800 !important;
   }
-  /* .sub-header-breadcrumbs .subheader-inner {
+  .sub-header-breadcrumbs .breadcrumb-mobile {
     visibility: hidden;
- } */
+ }
   .display-desktop{
     display:none!important;
   }
