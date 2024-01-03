@@ -38,8 +38,8 @@ class TimelineSection extends Component {
               <div className="row ourstory-section text-center"  >
                   <div className='col-sm-12 col-lg-6 order-2 order-lg-2'>
                     <div className="section-title-wrap section-header text-center pt-1">
-                      <h2 className="title">Tenali Double Horse</h2>
-                      <p className='largefont'>At <b className='bold-colour'> Tenali Double Horse</b>, our journey began in 2005 with a vision to bring excellence and trust to every household in  <b className='bold-colour'> India</b>. Guided by our commitment to quality and customer satisfaction, we have since become a trusted name that resonates with millions.</p>
+                      <h2 className="title">About TDH</h2>
+                      <p className='largefont' style={{textAlign:'justify'}}>At <b className='bold-colour'> Tenali Double Horse</b>, our journey began in 2005 with a vision to bring excellence and trust to every household in  <b className='bold-colour'> India</b>. Guided by our commitment to quality and customer satisfaction, we have since become a trusted name that resonates with millions.</p>
                       {this.props.pagename.pagename === "AboutUs" ? (
                     "") : (
                     <Link to="/about" className="btn-custom btn-sm shadow-none suma mb-5">
