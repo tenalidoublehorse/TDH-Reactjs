@@ -8,7 +8,7 @@ class Factorylocation extends Component {
                     <div className="section-title-wrap text-center">
                         {/* <h5 className="custom-primary  white-bg mx-auto">Explore Our Factory Locations</h5> */}
                         <h2 className="title">Where Innovation Takes Shape</h2>
-                        <p className="subtitle">
+                        <p className="subtitle mb-3">
                             For inquiries about our factory locations and more
                         </p>
                     </div>

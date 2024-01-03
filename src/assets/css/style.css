@@ -6249,7 +6249,7 @@ td.quantity{
 .card-locations{
   border-radius: 5px;
   min-height:310px!important;
-  width: 350px;
+  width: 100%;
   background: #fff;
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
   transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12),

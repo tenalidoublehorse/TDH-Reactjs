@@ -93,7 +93,7 @@ class Content extends Component {
                         <h3 className="">Honors and Accolades That<br />Define Us</h3>
                         <p>Find our corporate and factory addresses along with contact information. We're here to assist you. Feel free to get in touch for inquiries, feedback, or any assistance you need.</p>
                       </div>
-                      <div className="row contact-info d-flex " style={{marginLeft:"-30px"}}>
+                      <div className="row contact-info d-flex " >
                         <div className="col-lg-6">
                           <div className='card shadow p-3 mb-3'>
                           <i className='fas fa-phone mt-3'></i>
