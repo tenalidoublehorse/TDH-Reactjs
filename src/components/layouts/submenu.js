@@ -15,7 +15,7 @@ class submenu extends Component {
                 <div className="row sub-pages-menu">
                     <ul className="d-flex justify-content-between pt-2" style={{ width: "100%" }}>
                         <li className={this.props.pagename.pagename === 'About Us' ? 'active' : ''}>
-                            <Link to="/about">The Journey</Link>
+                            <Link to="/aboutus">The Journey</Link>
                         </li>
                         <li className={this.props.pagename.pagename === 'Where we are' ? 'active' : ''}>
                             <Link to="/Where-we-are" >Where we are</Link>
@@ -24,7 +24,7 @@ class submenu extends Component {
                             <Link to="/awards-recognitions">Awards & recognitions</Link>
                         </li>
                         <li className={this.props.pagename.pagename === 'CSR-activities' ? 'active' : ''}>
-                            <Link to="/csr-activities">CSR Initiatives</Link>
+                            <Link to="/csr-initiatives">CSR Initiatives</Link>
                         </li>
                     </ul>
                 </div>

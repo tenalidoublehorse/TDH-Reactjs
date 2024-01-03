@@ -20,7 +20,7 @@
         "submenu": [{
                 "id": 21,
                 "linkText": "The Journey",
-                "link": "/about",
+                "link": "/aboutus",
                 "type":"p"
                
             },
@@ -34,6 +34,12 @@
                 "id": 44,
                 "link": "/awards-recognitions",
                 "linkText": "Awards & Recognitions",
+                "type":"p"
+            },
+            {
+                "id": 24,
+                "link": "/csr-initiatives",
+                "linkText": "CSR initiatives",
                 "type":"p"
             }
             
@@ -102,7 +108,7 @@
     {
         "id": 6,
         "linkText": "Contact",
-        "link": "/Contactus"
+        "link": "/Contact"
     }
     
     

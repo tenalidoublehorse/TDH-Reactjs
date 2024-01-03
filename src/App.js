@@ -63,7 +63,7 @@ function App() {
           <Route path="/blog" component={Blogmain} />
           <Route path="/Who-we-are" component={WhoWeare} />
           <Route path="/blog-single/:id" exact component={props => (<Blogsingle {...props} key={window.location.pathname} />)} />
-          <Route path="/about" component={About} />
+          <Route path="/aboutus" component={About} />
           {/* <Route path="/login" component={Login} />
           <Route path="/register" component={Register} />
           <Route path="/checkout" component={Checkout} />
@@ -81,9 +81,9 @@ function App() {
           <Route path="/shipping-policy" component={shippingpolicy} />
           <Route path="/refund-policy" component={refundpolicy} />
           <Route path="/payment-ploicy" component={paymentploicy} />
-          <Route path="/Contactus" component={Contactus} />
+          <Route path="/Contact" component={Contactus} />
           <Route path="/awards-recognitions" component={Awards} />
-          <Route path="/csr-activities" component={CSRactivities} />
+          <Route path="/csr-initiatives" component={CSRactivities} />
           <Route path="/Csrgallery" component={Gallery} />
           
         </ScrollToTop>
