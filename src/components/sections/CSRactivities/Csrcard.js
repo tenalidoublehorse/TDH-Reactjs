@@ -7,7 +7,7 @@ class BlogPost extends Component {
           services: [
             {
               title: 'Phir Se Udaan',
-              imageSrc: 'assets/img/banner/csr.png',
+              imageSrc: 'assets/img/banner/Uddasn.png',
               description: ' Phir Se Udaan is an initiative by your favourite Tenali Double Horse . With a vision to empower women inside and outside the house,',
              
               link: '/#Csrgallery',
