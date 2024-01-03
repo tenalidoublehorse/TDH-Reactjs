@@ -2,7 +2,7 @@ import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
 // import Header from '../layouts/Headerinner';
 import Header from '../layouts/Header';
-import Breadcrumbs from '../layouts/Breadcrumblack';
+import Breadcrumbs from '../layouts/Breadcrumb';
 import Footer from '../layouts/Footer';
 import Content from '../sections/blog-grid/Content';
 import Submenu from '../layouts/submenu';
