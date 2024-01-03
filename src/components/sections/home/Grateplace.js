@@ -27,7 +27,7 @@ class Grateplace extends Component {
           <section id="timeline " style={{ ...backgroundStyles }}>
             
             <h2 className="title text-center mt-2">Why we Work With us ?</h2>
-            <p className="text-center" style={{ width: '75%', margin: "auto" }}> At Teanli Double Horse  Our Journey Begins in 2005 with avision to bring excellence  and trust to every Household in india Guided by our commitment to quality and customer Satisfication , we have since Become a trusted name that resonates with millions </p>
+            <p className="text-center mb-5" style={{ width: '75%', margin: "auto" }}> At Teanli Double Horse  Our Journey Begins in 2005 with avision to bring excellence  and trust to every Household in india Guided by our commitment to quality and customer Satisfication , we have since Become a trusted name that resonates with millions </p>
             {/* <h2 className="title text-center">A Timeline of Growth, Innovation, and Impact</h2> */}
             <div className="container-fluid video-conatiner mt-3">
               <div className="row ourstory-section text-center"  >

@@ -22,7 +22,7 @@ class BlogPost extends Component {
             <div className="container">
               <div className="d-flex flex-column gap-3 justify-content-center text-center">
                 {/* <h6 className="custom-primary text-center font-2">Empowering Our Community</h6> */}
-                <h3 className="text-black font-1 lh-1 fw-semibold">Empowering Our Community</h3>
+                <h3 className="text-black font-1 lh-1 mb-5 fw-semibold">Empowering Our Community</h3>
                 {/* <p className="text-gray mx-auto" style={{ maxWidth: '768px' }}>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel dolor felis. In ligula
                   purus, imperdiet ac est nec, tempus varius nisl. Integer et venenatis odio. Fusce enim lectus,

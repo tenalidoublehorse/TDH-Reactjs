@@ -155,7 +155,7 @@ class Content extends Component {
                 <div className="ct-menu-categories menu-filter">
                     <div className="container">
                     {/* <h5 className="custom-primary text-center white-bg  mb-5  mx-auto" style={{textAlign:"center"}}>Global Presence</h5> */}
-                        <Slider className="menu-category-slider" {...settings}>
+                        <Slider className="menu-category-slider pt-2" {...settings}>
                             {/* <Link to="#" data-filter="*" className={this.state.activeItem === -1 ? 'ct-menu-category-item active' : 'ct-menu-category-item'} onClick={this.handleClick.bind(this, -1)}>
                                 <div className="menu-category-thumb">
                                     <img src={process.env.PUBLIC_URL + "/assets/img/categories/countries.png"} alt="All" />

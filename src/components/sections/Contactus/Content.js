@@ -83,7 +83,7 @@ class Content extends Component {
             
             <div className="section1" style={{ paddingBottom: '0px' }}>
 
-              <div className="fluid-container locations-wrapper ">
+              <div className="fluid-container locations-wrapper " style={{backgroundColor:'#ebe0de'}}>
                 <div className="container">
                   <div className="row  p-2">
                     <div className="col-lg-7  mb-lg-5 d-flex align-items-center">
