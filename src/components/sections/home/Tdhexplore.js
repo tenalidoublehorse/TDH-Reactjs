@@ -47,7 +47,7 @@ handleSaveChanges = () => {
                             {/* <h5 className="custom-primary text-justify white-bg mx-auto">Explore Our Story</h5> */}
                             <h2 className="title">Download Our Brochure</h2>
                             <p className='text-justify '>
-                              Delve into the essence of Tenali Double Horse with our comprehensive company brochure. Uncover our heritage, products, and commitment to quality in this informative guide.
+                              Delve into the essence of Tenali Double Horse with our comprehensive company brochure. Uncover our heritage, products, and commitment to quality in this informative guide.Delve into the essence of Tenali Double Horse with our comprehensive company brochure. Uncover our heritage, products, and commitment to quality in this informative guide.
                             </p>
                             <div>
                             <a
