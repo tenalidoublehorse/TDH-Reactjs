@@ -10524,7 +10524,7 @@ section {
     }
     
     .about-video iframe{
-      width:320px !important;
+      width:100%!important;
       height: 180px !important;
       border-radius: 4px;
     }
