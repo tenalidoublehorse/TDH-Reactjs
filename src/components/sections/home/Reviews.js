@@ -31,7 +31,7 @@ class Reviews extends React.Component {
         <div className="demo" >
           <div className="container-fluid">
           <div className="section-title-wrap section-header text-center pt-5">
-                        <h5 className="custom-primary">Voices of Delight</h5>
+                        {/* <h5 className="custom-primary">Voices of Delight</h5> */}
                         <h2 className="title">Customer Testimonials</h2>
                         <p className="subtitle largefont">
                         Discover the experiences that define Tenali Double Horse through the words of our valued customers. Read their authentic feedback and join the chorus of satisfied voices.
