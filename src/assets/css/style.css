@@ -2912,7 +2912,7 @@ table img{
 .category-section .dubai{
   position: relative;
   z-index:1;
-  top:8%; 
+  top:-5%; 
 }
 @media (min-width: 1100px) and (max-width:1300px) {
 .category-section .dubai{
@@ -2925,7 +2925,7 @@ table img{
   .category-section .dubai{
     position: relative;
     z-index:1;
-    top:4%; 
+    top:8%; 
   }
 }
 @media (min-width: 1600px) and (max-width:2000px) {
