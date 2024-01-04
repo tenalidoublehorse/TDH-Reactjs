@@ -29,7 +29,7 @@ class Maplocations extends Component {
           };
           handleGetDirectionsClick2 = () => {
             // Update the map source with the new location
-            const newLocationSrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1647370.33879279!2d80.73868797853078!3d16.460446363272183!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a062f6663586f%3A0x47ee4650ea8b815d!2sTenali%20Double%20Horse!5e0!3m2!1sen!2sin!4v1702445283473!5m2!1sen!2sin";
+            const newLocationSrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3829.643593793057!2d80.6611076!3d16.2900271!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a0742c8079549%3A0x650fe44585f2ddad!2sMahadeva%20Dall%20Industries%20Pvt.%20Ltd.!5e0!3m2!1ste!2sin!4v1704347505364!5m2!1ste!2sin";
             this.setState({ mapSrc: newLocationSrc });
           };
     
@@ -51,7 +51,7 @@ class Maplocations extends Component {
                       <div className="col-lg-12  pt-3 pb-3 mb-3" >
                         <div className='location-card shadow'>
                             <h5 className="custom-primary">Regional Office Address</h5>
-                            <p className='text-start'><i className='fas fa-phone pr-2' /> +91 9666389389</p>
+                            <p className='text-start'><i className='fas fa-phone pr-2' /> 1800 270 567567</p>
                             <div className='d-flex'>
                             <div>
                                 <i class='fas fa-location-arrow pr-2' style={{ textAlign: "justify" }} />
@@ -70,13 +70,13 @@ class Maplocations extends Component {
                       <div className="col-lg-12 pt-3 pb-3 mb-5">
                       <div className='location-card shadow'>
                             <h5 className="custom-primary">Factory  Address</h5>
-                            <p className='text-start'><i className='fas fa-phone pr-2' /> +91 9666389389</p>
+                            <p className='text-start'><i className='fas fa-phone pr-2' /> +91 91333 45456</p>
                             <div className='d-flex'>
                             <div>
                                 <i class='fas fa-location-arrow pr-2' style={{  textAlign: "justify" }} />
                             </div>
                             <div>
-                                <p> Nandivelugu, Nandivelugu (Post) 522 306 TENALI,   Guntur Dist, A.P</p>
+                                <p>Mahadeva Dall Industries Pvt. Ltd , S.No 212-B1 & 212-B2. Nandivelugu, 522 306 TENALI, Guntur Dist, A.P</p>
                             </div>
                             </div>
                             <button type="button" className="btn-custom btn-sm order-btn"  onClick={this.handleGetDirectionsClick2}>Get directions <i class='fas fa-solid fa-right-long pr-2'/>
@@ -94,7 +94,7 @@ class Maplocations extends Component {
                       <iframe
                             src={this.state.mapSrc}
                             width="100%"
-                            height="550"
+                            height="570"
                             style={{ border: 0 }}
                             allowFullScreen=""
                             loading="lazy"
