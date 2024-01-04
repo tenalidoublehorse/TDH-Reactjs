@@ -525,7 +525,7 @@
     }
    ,{
     "id": 5,
-    "img": "assets/img/prods-sm/tdh-black-grams.png",
+    "img": "assets/img/home/tdh-black-grams.png",
     "img2": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Urad-Dall-1457X1457-4.png",
     "img3": "assets/img/prods-sm/Tenali-Double-Horse-Black-Gram-Rounds-300x300.png",
     "img4": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Urad-Dall-1457X1457-4.png",
@@ -915,7 +915,7 @@
   ,
   {
     "id": 8,
-    "img": "assets/img/prods-sm/tdh-chana-dall.png",
+    "img": "assets/img/home/tdh-chana-dall.png",
     "img2": "assets/img/prods-sm/tenali-double-horse-chana-dall.png",
     "img3": "assets/img/prods-sm/tenali-double-horse-chana-dall.png",
     "img4": "assets/img/prods-sm/tenali-double-horse-chana-dall.png",
@@ -1045,7 +1045,7 @@
   ,
 {
     "id": 4,
-    "img": "assets/img/prods-sm/tdh-husked-urad-dall.png",
+    "img": "assets/img/home/tdh-husked-urad-dall.png",
     "img2": "assets/img/prods-sm/tdh-husked-urad-dall.png",
     "img3": "assets/img/prods-sm/tdh-husked-urad-dall.png",
     "img4": "assets/img/prods-sm/tdh-husked-urad-dall.png",
