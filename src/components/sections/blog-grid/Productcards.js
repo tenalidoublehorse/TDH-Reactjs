@@ -5,6 +5,7 @@ import { Modal } from 'react-bootstrap';
 import Quickview from '../../layouts/Quickview';
 import products from "../../../data/homeproducts.json";
 import { Rating } from "../../../helper/helper";
+import { height } from 'dom7';
 
 class Products extends Component {
     constructor(props) {
@@ -74,21 +75,11 @@ class Products extends Component {
                                     </Link>
                                     <div className="product-body   border-0 shadow rounded-3 bg-white">
                                         <div className="product-desc">
-                                            <div>
-                                            <h5 className='text-dark'> <Link to={"/menu-item-v1/" + item.id}>{item.name}</Link> </h5>
-                                            {/* <p className="product-price" style={{fontWeight:'800'}}>Rs. {new Intl.NumberFormat().format((item.price).toFixed(2))}</p> */}
-                                            {/* <p className='mb-0'>{item.shortdesc}</p> */}
+                                            <div style={{height:"80px"}}>
+                                                <h5 className='text-dark pt-3'> <Link to={"/menu-item-v1/" + item.id}>{item.name}</Link> </h5>
                                             </div>
-                                            {/* <div>
-                                            <p className="product-price" style={{fontWeight:'800'}}>Rs. {new Intl.NumberFormat().format((item.price).toFixed(2))}</p>
-                                            <div className="ct-rating-wrapper">
-                                                    <div className="ct-rating">
-                                                        {Rating(item.rating)}
-                                                    </div>
-                                            </div>
-                                            </div> */}
                                         </div>
-                                        
+                                
                                         <a onClick={(e) => this.modalShow(item.id)} className="btn-custom light btn-sm shadow-none w-100 mb-2">More Info </a>
                                         <a href={item.urls} className="order-item btn-custom btn-sm shadow-none w-100" target='_blank'>Order Now <i className="fas fa-shopping-cart" /> </a>
                                                        
