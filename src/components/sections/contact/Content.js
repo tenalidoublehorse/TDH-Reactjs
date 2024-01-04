@@ -4,7 +4,7 @@ import React, { Component } from "react";
 // import { ComposableMap, Geographies, Geography, Marker, Annotation } from "react-simple-maps";
 import Eastcoast from "./Eastcoast";
 import WestCoast from "./Westcoast";
-import Messenger from "../home/Messenger";
+// import Messenger from "../home/Messenger";
 import { Fragment } from "react";
 import Feedback from "../home/Feedback";
 
@@ -12,12 +12,12 @@ import Feedback from "../home/Feedback";
 
 
 
-const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
+// const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
 
-const offsets = {
-  VT: [50, -8],
-  // ... other offsets ...
-};
+// const offsets = {
+//   VT: [50, -8],
+
+// };
 
 class MapChart extends Component {
   constructor(props) {

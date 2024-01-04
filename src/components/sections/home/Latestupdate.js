@@ -6,8 +6,8 @@ import Slider from 'react-slick';
 import products from "../../../data/highlights.json";
 import productcategory from "../../../data/productcategory.json";
 
-import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
-let urls = "https://www.amazon.in/dp/B0CCJ825SX?ref=myi_title_dp"
+// import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
+// let urls = "https://www.amazon.in/dp/B0CCJ825SX?ref=myi_title_dp"
 
 
 class Latestproducts extends Component {
@@ -73,7 +73,7 @@ previous() {
                     {/* <h5 className="text-light back-custom " style={{fontSize:'13px'}} >100 % Oraganic </h5> */}
                     <h3 className=''>{item.name}</h3>
                     <p className=''>{item.shortdesc}</p>
-                    <a href={item.urls} target='_blank' className="btn-custom">Order Now</a>
+                    <a href={item.urls} target='_blank' rel="noopener noreferrer" className="btn-custom">Order Now</a>
                   </div>
                 </div>
               ))}
