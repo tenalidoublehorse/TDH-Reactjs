@@ -4,7 +4,7 @@ import HeaderComponent from '../../helper/Navigationhelper';
 // import Cartlist from '../layouts/Cartlist';
 import Search from '../layouts/Search';
 import Mobilemenu from '../layouts/NewmobileMenu';
-import Newmenu from './Newmenu';
+// import Newmenu from './Newmenu';
 import classNames from 'classnames';
 import Menu from './Menu.js'
 // import cartitem from '../../data/cartlist.json';

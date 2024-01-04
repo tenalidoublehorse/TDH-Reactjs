@@ -73,6 +73,7 @@ class Footer extends Component {
                                         download="tenali-double-horse-info.pdf" 
                                         className="btn-custom btn-sm shadow-none"
                                         target="_blank"
+                                        rel="noopener noreferrer" 
                                         type="application/pdf"
                                         >
                                         Download Brochure

@@ -43,7 +43,7 @@ class Ammammas extends Component {
                     </div>
                   </div>
                   <div className="col-lg-6 mb-lg-30  order-1 order-lg-1 campaing-video" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                  <img src={process.env.PUBLIC_URL + "/assets/img/campaign/ammas-dosa-batter.png"} alt="High Nutritional" />
+                  <img src={process.env.PUBLIC_URL + "/assets/img/campaign/amm.png"} alt="High Nutritional" />
             
                   </div>
                 </div>

@@ -4,8 +4,8 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import pdffile from '../../../assets/css/pdf/tenali-double-horse-info.pdf'
 
-import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
-let urls = "#csr-activities"
+// import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
+// let urls = "#csr-activities"
 
 
 class Tdhexplore extends Component {
@@ -55,6 +55,7 @@ handleSaveChanges = () => {
                                 download="tenali-double-horse-info.pdf"
                                 className="btn-custom btn-sm shadow-none suma"
                                 target="_blank"
+                                rel="noopener noreferrer"
                                 type="application/pdf"
                               >
                                 Download Brochure

@@ -55,7 +55,7 @@ Version: 1.0.0
 @import url("https://fonts.googleapis.com/css?family=Oswald:400,700&display=swap");
 @font-face {
   font-family: helvetica;
-  src: url("/assets/fonts/Helvetica.ttf");
+  src: url("/assets/fonts/flaticon/Helvetica.tff");
   font-weight: 400;
 } 
 /*-------------------------------------------------------------------*/
@@ -2912,7 +2912,7 @@ table img{
 .category-section .dubai{
   position: relative;
   z-index:1;
-  top:8%; 
+  top:-5%; 
 }
 @media (min-width: 1100px) and (max-width:1300px) {
 .category-section .dubai{
@@ -2925,7 +2925,7 @@ table img{
   .category-section .dubai{
     position: relative;
     z-index:1;
-    top:4%; 
+    top:8%; 
   }
 }
 @media (min-width: 1600px) and (max-width:2000px) {
