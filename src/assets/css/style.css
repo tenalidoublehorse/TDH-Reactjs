@@ -2918,14 +2918,14 @@ table img{
 .category-section .dubai{
   position: relative;
   z-index:1;
-  top:10%; 
+  top:5%; 
 }
 }
 @media (min-width: 1370px) and (max-width:1599px) {
   .category-section .dubai{
     position: relative;
     z-index:1;
-    top:15%; 
+    top:12%; 
   }
 }
 @media (min-width: 1600px) and (max-width:2000px) {
