@@ -2912,27 +2912,27 @@ table img{
 .category-section .dubai{
   position: relative;
   z-index:1;
-  top:40%; 
+  top:10%; 
 }
 @media (min-width: 1100px) and (max-width:1300px) {
 .category-section .dubai{
   position: relative;
   z-index:1;
-  top:35%; 
+  top:12%; 
 }
 }
 @media (min-width: 1370px) and (max-width:1599px) {
   .category-section .dubai{
     position: relative;
     z-index:1;
-    top:42%; 
+    top:12%; 
   }
 }
 @media (min-width: 1600px) and (max-width:2000px) {
   .category-section .dubai{
     position: relative;
     z-index:1;
-    top:47%; 
+    top:22%; 
   }
   .banner-slider-nav .slick-arrow.slider-prev,
 .category-section .slick-arrow.slider-prev{
@@ -10494,7 +10494,7 @@ section {
       margin-right: auto;
     }
     .section-double{
-      margin-top:90px!important;
+      margin-top:140px!important;
       }
     .paddingthirty{
       padding-top:0px!important;

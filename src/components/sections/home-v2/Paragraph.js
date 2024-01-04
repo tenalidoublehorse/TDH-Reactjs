@@ -58,7 +58,12 @@ previous() {
         
             <div>
                 <div className="section section-padding-two bg-cover bg-center  pt-0 pb-5 category-section light-pic  " style={{ backgroundImage: "url(" + process.env.PUBLIC_URL + "/assets/img/banner/dubai.png)", paddingBottom: '0px!important', height: '90vh' }}>
-                
+                <div className="section-title-wrap section-header text-center pt-5">
+                      
+                        <h2 className="title text-light">Our Journey to the UAE Market</h2>
+                        <p className='largefont text-light'>Witness our remarkable expansion as Tenali Double Horse ventures into the UAE Experience the flavor of Tradition and Quality as we introduce our products to a new audience</p>
+                        
+                    </div>
                     <div className="container-fluid dubai ">
                         <i className="slider-prev fas fa-chevron-left slick-arrow" onClick={this.previous} />
                         <Slider className="product-slider" {...settings} ref={c => (this.slider = c)}>
