@@ -1021,7 +1021,7 @@ table img{
 .main-header {
   position: relative;
   width: 100%;
-  background-color:#fff!important;
+  background-color:#fff7ef!important;
   z-index: 990;
   -webkit-transition: background-color 0.3s;
   -o-transition: background-color 0.3s;
@@ -2174,7 +2174,7 @@ table img{
 .banner{
   position: relative;
   /* padding: 90px 0; */
-  padding-top: 10px!important;
+  /* padding-top: 10px!important; */
   background-size: cover;
   background-position: center;
   min-height: 500px;
@@ -6124,7 +6124,7 @@ td.quantity{
   animation: fade-in 5s ease forwards;
 }
 .main-header.header-sticky{
-  background-color: white!important;
+  background-color: #fff7ef!important;
   position:fixed!important;
 }
 .main-header.header-absolute {
@@ -6136,7 +6136,7 @@ td.quantity{
   left: 0;
   width: 100%;
   z-index: 999;
-  background-color: white;
+  background-color: #fff7ef;
   transition: background-color 1.0s cubic-bezier(0.42, 0, 0.58, 1); /* Smooth transition effect */
 }
 
