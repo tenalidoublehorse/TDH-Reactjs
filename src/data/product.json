@@ -381,10 +381,10 @@
     
     {
         "id": 4,
-        "img": "assets/img/prods-sm/Tenali-Double-Horse-Husked-Urad-Dall-300x300.png",
-        "img2": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Husked-Urad-Dall-1457X1457-2.png",
-        "img3": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Husked-Urad-Dall-1457X1457-3.png",
-        "img4": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Husked-Urad-Dall-1457X1457-4.png",
+        "img": "assets/img/prods-sm/Tenali-Double-Horse-Husked-Polish-Urad-dall-300x300.png",
+        "img2": "assets/img/prods-sm/Tenali-Double-Horse-Husked-Polish-Urad-dall-300x300.png",
+        "img3": "assets/img/prods-sm/Tenali-Double-Horse-Husked-Polish-Urad-dall-300x300.png",
+        "img4": "assets/img/prods-sm/Tenali-Double-Horse-Husked-Polish-Urad-dall-300x300.png",
 
         "productsafetyimg1": "assets/img/safety-images/no-colora.png",
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
@@ -509,9 +509,9 @@
     {
         "id": 5,
         "img": "assets/img/prods-sm/Tenali-Double-Horse-Black-Gram-Rounds-300x300.png",
-        "img2": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Urad-Dall-1457X1457-4.png",
+        "img2": "assets/img/prods-sm/Tenali-Double-Horse-Black-Gram-Rounds-300x300.png",
         "img3": "assets/img/prods-sm/Tenali-Double-Horse-Black-Gram-Rounds-300x300.png",
-        "img4": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Urad-Dall-1457X1457-4.png",
+        "img4": "assets/img/prods-sm/Tenali-Double-Horse-Black-Gram-Rounds-300x300.png",
         "productsafetyimg1": "assets/img/safety-images/no-colora.png",
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
