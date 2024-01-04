@@ -7,7 +7,7 @@ import { Rating } from "../../../helper/helper";
 import { Tab, Nav} from "react-bootstrap";
 import Relatedproduct from '../../layouts/Tdhrelatedproduct';
 // import Slider from "react-slick";
-import Feedback from '../home/Feedback';
+// import Feedback from '../home/Feedback';
 import Messenger from '../home/Messenger';
 // swiperjs
 import { Swiper, SwiperSlide } from 'swiper/react';

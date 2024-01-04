@@ -96,7 +96,7 @@ class Footer extends Component {
                                 <h5 className="widget-title">Quick Links</h5>
                                 <ul>
                                     {/* <li> <Link to="/">Gallery</Link> </li> */}
-                                    <li> <Link to="/about">Our Legacy</Link> </li>
+                                    <li> <Link to="/aboutus">Our Legacy</Link> </li>
                                     <li> <a href="https://phirseudaan.com/"  target="_blank">CSR Initiatives</a></li>
                                     <li> <Link to="/tenali-double-horse-products">Tdh Products</Link> </li>
                                     <li> <a href="https://tdhfoodproducts.com/shop/"  target="_blank">Tdh Food Products</a> </li>
