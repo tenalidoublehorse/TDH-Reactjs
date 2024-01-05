@@ -13,11 +13,11 @@ function Content(props) {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                debugger;
+             
                 const response = await axios.get(`api/blogsingle/${blogId}`); 
                 setItem(response.data);
             } catch (error) {
-                debugger;
+          
                 console.error('Error fetching blog post data:', error);
             }
         };

@@ -12,12 +12,12 @@ const Banner = () => {
     useEffect(() => {
         const fetchData = async () => {
             try {
-            debugger;
+    
                 const response = await axios.get('/api/getbanner/');
                 setItems(response.data);
                 setLoading(false);
             } catch (error) {
-                debugger;
+           
                 console.error('Error fetching getbanner post data:', error);
                 setLoading(false);
           

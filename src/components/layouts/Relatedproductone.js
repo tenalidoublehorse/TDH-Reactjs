@@ -8,7 +8,7 @@ import { Rating } from "../../helper/helper";
 class Relatedproduct extends Component {
 
     constructor(props) {
-        debugger;
+    
         super(props);
         this.state = {
             modalshow: false,

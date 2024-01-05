@@ -8919,7 +8919,7 @@ g .rsm-marker{
   /* margin-top: -150px; */
 }
 .section-title-wrap.section-header{
-  margin-bottom: 10px!important;
+  margin-bottom: 0px!important;
 }
 .section-title-wrap.text-center p {
   margin: 0  20px;
@@ -10497,7 +10497,7 @@ section {
       margin-right: auto;
     }
     .section-double{
-      margin-top:50px!important;
+      margin-top:70px!important;
       }
     .paddingthirty{
       padding-top:0px!important;

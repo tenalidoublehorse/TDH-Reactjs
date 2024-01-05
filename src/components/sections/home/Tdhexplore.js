@@ -53,7 +53,7 @@ handleSaveChanges = () => {
                             <a
                                 href={pdffile}
                                 download="tenali-double-horse-info.pdf"
-                                className="btn-custom btn-sm shadow-none suma"
+                                className="btn-custom btn-sm shadow-none suma mb-3 mb-lg-0"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 type="application/pdf"
