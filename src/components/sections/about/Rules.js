@@ -7,14 +7,14 @@ class Rules extends Component{
             <div className='pb-4 pt-4 values-section'>
                 <div className='container-fluid mt-md-5 mt-sm-5 mb-5'>
                     <div className="row  rules-container ">
-                        <div className="col-lg-6 col-md-12 mb-3 princples ">
+                        <div className="col-lg-6 col-md-12 mb-3 princples wow animate__animated animate__fadeInRight" style={{ animationDelay: '100ms' }}>
                             <div className="tdh-legacy-principles p-3  border-0 shadow rounded-3">
                                 <h5 className='custom-primary text-start pt-3'>Our History</h5>
                                 <p className="para" style={{ textAlign: 'justify' }}>From the very start, the entire Tenali Double Horse team has always been focused on fanatically serving our consumers. We believe the only way to be successful is to truly understand the market requirements and provide the products our consumers need and cherish.</p>
                                 <p className="para" style={{ textAlign: 'justify' }}>Now we have grown to a huge team of service personnel working out of our headquarters in Tenali. By staying humble and focused on bringing the heart to quality, we are encouraging more online business owners to make their impact every day.</p>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-md-12 princples " >
+                        <div className="col-lg-6 col-md-12 princples wow animate__animated animate__fadeInLeft"  style={{ animationDelay: '100ms' }}>
                             <div className="tdh-legacy-principles p-3  border-0 shadow rounded-3">
                                 <h5 className='custom-primary text-start pt-3'>Our Core Values </h5>
                                 {/* Our Principles */}
