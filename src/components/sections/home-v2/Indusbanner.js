@@ -1,34 +1,9 @@
-import React, { useEffect ,useState } from 'react';
+import React, { useEffect } from 'react';
 import Slider from 'react-slick';
 import { hometwo as bannerpost } from '../../../data/banner.json';
-import axios from '../../../api/axios';
-import Loader from '../../layouts/Loader';
 
-const Indusbanner = () => {
-    const [items, setItems] = useState([]);
-    const [loading, setLoading] = useState(true);
+const Banner = () => {
 
-
-    useEffect(() => {
-        const fetchData = async () => {
-            try {
-    
-                const response = await axios.get('/api/getbanner/');
-                setItems(response.data);
-                setLoading(false);
-            } catch (error) {
-           
-                console.error('Error fetching getbanner post data:', error);
-                setLoading(false);
-          
-            }
-        };
-
-        fetchData();
-    }, {});
-
-
- 
   const handleMarqueeHover = () => {
     const marquee = document.getElementById('marquee');
     marquee.stop();
@@ -74,11 +49,11 @@ const Indusbanner = () => {
   return (
     <div className="banner banner-22">
       <Slider className="banner-slider-2" {...settings}>
-        {items.map((item, i) => (
+        {bannerpost.map((item, i) => (
           <img
             key={i}
-            src={'https://codkraft.com'+item.Image}
-            alt={item.Title}
+            src={process.env.PUBLIC_URL + '/' + item.bg}
+            alt={item.title}
             onClick={() => handleImageClick(item.id)}
           />
         ))}
@@ -102,4 +77,4 @@ const Indusbanner = () => {
   );
 };
 
-export default Indusbanner;
+export default Banner;

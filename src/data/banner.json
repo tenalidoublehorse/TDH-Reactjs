@@ -28,35 +28,10 @@
         }
     ],
     "hometwo":[
-       
-       
-      
-       
         {
             "id":5,
-            "bg":"assets/img/banner/tdh-banner-new.png"
-        },
-        {
-            "id":7,
-            "bg":"assets/img/banner/Poducts-with-suma-garu.jpg"
-        },
-       
-        {
-            "id":8,
-            "bg":"assets/img/banner/m2-banner.png"
-        },
-        {
-            "id":9,
-            "bg":"assets/img/banner/tdh-all-products.png"
-        },
-        {
-            "id":10,
-            "bg":"assets/img/banner/tdh-foods-banner.png"
+            "bg":"assets/img/banner/Indus-foods-new-banner.png"
         }
-        
-        
-      
-        
     ],
     "homethree": [
         {
