@@ -17,7 +17,7 @@ class Ammammas extends Component {
         return (
         
           <div className='recent-campaigns1 section-double '>
-            <div className='container-fluid mb-5'>
+            <div className='container-fluid mb-3 mb-lg-5'>
               <div className='main-content-section'>
                 <div className=''>
                   {/* <div className="section-title-wrap section-header mb-md-5 mt-lg-5 mt-xl-5  mt-xxl-5 text-center ">
@@ -36,7 +36,7 @@ class Ammammas extends Component {
                             {/* <h5 className="custom-primary text-justify white-bg mx-auto">Ammamma's Signature</h5> */}
                             <h2 className="title">Dosa-Idly Batter </h2>
                             <p className='text-justify'>
-                              At <b className='bold-colour'> Tenali Double Horse</b>, we're excited about collaboration with Ammamma's to bring you the delicious flavors of tradition. Ammamma's Dosa Batter was made with the fantastic <b className='bold-colour'> Tenali Double Horse Urad Dal</b>, which is about purity, quality, and a proud heritage.
+                              At <b className='bold-colour'> Tenali Double Horse</b>, we're excited about collaboration with Ammamma's to bring you the delicious flavors of tradition. Ammamma's Dosa Batter was made with the fantastic <b className='bold-colour'> Tenali Double Horse Urad Gota</b>, which is about purity, quality, and a proud heritage.
                             </p>
                         </div>
                       </div>

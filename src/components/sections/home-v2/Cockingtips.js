@@ -15,10 +15,10 @@ class Cockingtips extends Component {
         
           <div className='coocking-tips'>
             <div className='container-fluid'>
-              <div className='main-content-section'>
+              <div className='main-content-section pt-5'>
                 <div className=''>
                 </div>
-                <div className='row d-flex justify-content-center campaing pb-5'>
+                <div className='row d-flex justify-content-center campaing pb-3'>
                 <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-1'>
                     <div className='mb-lg-5 camp-content'>
                       <div>

@@ -4,7 +4,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 import img3 from '../../../assets/img/team/tenali-double-horse-phir-se-udan-campaingh.webp'
-let urls = "#csr-activities"
+let urls = "#csr-initiatives"
 
 
 class Camapaing extends Component {
@@ -46,14 +46,17 @@ class Camapaing extends Component {
                     </div>
                   </div>
                   <div className="col-lg-6  order-1 order-lg-1 campaing-video pb-5" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                    <iframe
+                  <video width="100%" height="100%" controls poster={process.env.PUBLIC_URL + "/assets/video/phire-se-uddan.png"}>
+                          <source src={process.env.PUBLIC_URL + "/assets/video/phir-se-udan-event-womenempowerment-women.mp4"} type="video/mp4" />
+                    </video>
+                    {/* <iframe
                       title="YouTube Video"
                       src="https://www.youtube.com/embed/S1zLiEfbZ1Y?si=SE061xGF2MwD-Mc5"
                       frameborder="0"
                       allowfullscreen
                       loading="lazy"
                       style={{borderRadius:'10px'}}
-                    ></iframe>
+                    ></iframe> */}
                   </div>
                 </div>
               </div>

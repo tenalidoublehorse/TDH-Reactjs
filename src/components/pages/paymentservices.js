@@ -6,7 +6,7 @@ import Content from '../sections/paymentservices/Content';
 import Breadcrumbs from '../layouts/Breadcrumb';
 
 const pagelocation = 'Payment Services'
-const bannerimg = "/assets/img/banner/contact-header-banner.jpeg"
+const bannerimg = "/assets/img/banner/tdh-paymentervices.png"
 
 class paymentservices extends Component {
     render() {

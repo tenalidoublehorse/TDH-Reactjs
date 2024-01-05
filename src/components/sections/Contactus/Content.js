@@ -86,11 +86,11 @@ class Content extends Component {
               <div className="fluid-container locations-wrapper " style={{backgroundColor:'#fff7ef'}}>
                 <div className="container">
                   <div className="row  p-2">
-                    <div className="col-lg-7  mb-lg-5 d-flex align-items-center">
-                      <div className='container contact-container'>
-                      <div className="row mb-3">
+                    <div className="col-lg-7   d-flex align-items-center">
+                      <div className='container contact-container ' style={{paddingLeft:'0px',paddingRight:'0px'}}>
+                      <div className="section-title-wrap  mb-2 mt-3 mt-lg-0 ">
                       {/* <h5 className="custom-primary text-lg-start  mx-auto m-lg-0 white-bg">Contact Us</h5> */}
-                        <h3 className="">Honors and Accolades That<br />Define Us</h3>
+                        <h3 className="">Honors and Accolades That Define Us</h3>
                         <p>Find our corporate and factory addresses along with contact information. We're here to assist you. Feel free to get in touch for inquiries, feedback, or any assistance you need.</p>
                       </div>
                       <div className="row contact-info d-flex " >
@@ -120,7 +120,7 @@ class Content extends Component {
                       </div> */}
                       <div>
                       
-                        <form className='mb-5 shadow px-3 bg-light pb-4 pt-4' style={{borderRadius:'8px'}} ref={this.form} onSubmit={this.sendEmail}>
+                        <form className=' shadow px-3 bg-light pb-4 pt-4' style={{borderRadius:'8px'}} ref={this.form} onSubmit={this.sendEmail}>
                         <div className='form-mess'>
                           <p className='py-3 text-danger'>We Value Your Input</p>
                         </div>

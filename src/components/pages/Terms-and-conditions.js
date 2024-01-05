@@ -6,7 +6,7 @@ import Content from '../sections/TermsOfUse/Content';
 import Breadcrumbs from '../layouts/Breadcrumb';
 
 const pagelocation = 'Terms-and-conditions'
-const bannerimg = "/assets/img/banner/contact-header-banner.jpeg"
+const bannerimg = "/assets/img/banner/tdh-termsconditions.png"
 
 class Termsconditions extends Component {
     render() {

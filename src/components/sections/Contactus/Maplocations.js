@@ -41,15 +41,15 @@ class Maplocations extends Component {
 
               <div className="fluid-container" style={{ backgroundColor: 'white' }}>
                 <div className="container-fluid">
-                  <div className="section-title-wrap text-center mb-5">
-                    <h2 className="title pt-5">Our Office & Factory Location</h2>
+                  <div className="section-title-wrap text-center mb-2 ">
+                    <h2 className="title pt-4">Our Office & Factory Location</h2>
                   
                   </div>
                   <div className="row  p-2">
-                    <div className="col-lg-6  mb-lg-5 ">
-                      {/* <div className='container'> */}
-                      <div className="col-lg-12  pt-3 pb-3 mb-3" >
-                        <div className='location-card shadow'>
+                    <div className="col-lg-6 mb-3 mb-lg-0 ">
+                     
+                      {/* <div className="col-lg-12  " > */}
+                        <div className='location-card shadow pb-3 '>
                             <h5 className="custom-primary">Regional Office Address</h5>
                             <p className='text-start'><i className='fas fa-phone pr-2' /> 1800 270 567567</p>
                             <div className='d-flex'>
@@ -62,13 +62,13 @@ class Maplocations extends Component {
                             </div>
                             </div>
                             <button type="button" className="btn-custom btn-sm order-btn"  onClick={this.handleGetDirectionsClick}>Get directions
-                            {/* <a href="https://goo.gl/maps/XiEweexpzdsBQoC96" target='_blank'>Get directions</a> */}
+                          
                             </button>
                         </div>
-                      </div>
+                      {/* </div> */}
 
-                      <div className="col-lg-12 pt-3 pb-3 mb-5">
-                      <div className='location-card shadow'>
+                      {/* <div className="col-lg-12 "> */}
+                      <div className='location-card shadow  mt-5 '>
                             <h5 className="custom-primary">Factory  Address</h5>
                             <p className='text-start'><i className='fas fa-phone pr-2' /> +91 91333 45456</p>
                             <div className='d-flex'>
@@ -79,22 +79,22 @@ class Maplocations extends Component {
                                 <p>Mahadeva Dall Industries Pvt. Ltd , S.No 212-B1 & 212-B2. Nandivelugu, 522 306 TENALI, Guntur Dist, A.P</p>
                             </div>
                             </div>
-                            <button type="button" className="btn-custom btn-sm order-btn"  onClick={this.handleGetDirectionsClick2}>Get directions <i class='fas fa-solid fa-right-long pr-2'/>
-                            {/* <a href="https://goo.gl/maps/kFJS3WnhyJWUNGbu5" target='_blank'>Get directions</a> */}
+                            <button type="button" className="btn-custom btn-sm order-btn"  onClick={this.handleGetDirectionsClick2}>Get directions <i class='fas fa-solid fa-right-long '/>
+                           
                             </button>
                         </div>
-                      </div>
+                      {/* </div> */}
 
            
 
 
                     </div>
-                    <div className="col-lg-6 ">
+                    <div className="col-lg-6 mb-5 ">
                       <div className='map-frame mt-3'>
                       <iframe
                             src={this.state.mapSrc}
                             width="100%"
-                            height="570"
+                            height="525"
                             style={{ border: 0 }}
                             allowFullScreen=""
                             loading="lazy"

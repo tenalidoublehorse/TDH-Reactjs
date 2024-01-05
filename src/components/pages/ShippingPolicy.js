@@ -6,7 +6,7 @@ import Content from '../sections/shippingpolicy/Content';
 import Breadcrumbs from '../layouts/Breadcrumb';
 
 const pagelocation = 'Shipping Policy'
-const bannerimg = "/assets/img/banner/contact-header-banner.jpeg"
+const bannerimg = "/assets/img/banner/tdh-shippingpolicy.png"
 
 class ShippingPolicy extends Component {
     render() {

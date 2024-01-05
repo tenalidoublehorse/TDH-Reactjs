@@ -6,7 +6,7 @@ import Content from '../sections/refunploicy/Content';
 import Breadcrumbs from '../layouts/Breadcrumb';
 
 const pagelocation = 'Refund Policy'
-const bannerimg = "/assets/img/banner/contact-header-banner.jpeg"
+const bannerimg = "/assets/img/banner/tdh-refundpolicy.png"
 
 class RefundPolicy extends Component {
     render() {
