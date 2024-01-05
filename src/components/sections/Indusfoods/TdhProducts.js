@@ -94,7 +94,7 @@ class TdhProducts extends Component {
                         <i className="slider-next fas fa-chevron-right slick-arrow mb-3" onClick={this.next} />
                     </div>
                     <div className='text-center pb-4'>
-                        <a class="btn-custom btn-sm shadow-none suma  mt-2 mt-lg-0 mb-2" href="#aboutus">view All <i className="fas fa-arrow-right" /></a>
+                        <a class="btn-custom btn-sm shadow-none suma  mt-2 mt-lg-0 mb-2" href="/tenali-double-horse-products">view All <i className="fas fa-arrow-right" /></a>
                     </div>
                 </div>
                
