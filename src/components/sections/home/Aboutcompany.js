@@ -49,11 +49,16 @@ class TimelineSection extends Component {
                     </div>
                   </div>
                   <div className='col-sm-12 col-lg-6  order-1 order-lg-1 about-video'>
-                  {this.props.pagename.pagename === "AboutUs" ? (
+                  {/* {this.props.pagename.pagename === "AboutUs" ? (
                     <iframe  src="https://www.youtube.com/embed/4haxVA5cTuY?si=A5FrVYfc6VYLRg4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className='mb-5 mx-auto border5'  allowfullscreen></iframe> 
                     ) : (
-                      <iframe  src="https://www.youtube.com/embed/6iYttZFN9KA?si=Ti2sQX5oERZ6WeR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className='mb-5 mx-auto border5'  allowfullscreen></iframe>
-                  )}
+                      <video width="100%" height="100%" controls poster={process.env.PUBLIC_URL + "/assets/video/tdh-chairman.png"}>
+                          <source src={process.env.PUBLIC_URL + "/assets/video/tdh-chairmen-video.mp4"} type="video/mp4" />
+                      </video>
+                  )} */}
+                  <video width="100%" height="100%" controls poster={process.env.PUBLIC_URL + "/assets/video/tdh-chairman.png"}>
+                          <source src={process.env.PUBLIC_URL + "/assets/video/tdh-chairmen-video.mp4"} type="video/mp4" />
+                      </video>
                    
                  </div>
                  
