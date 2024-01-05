@@ -8919,7 +8919,7 @@ g .rsm-marker{
   /* margin-top: -150px; */
 }
 .section-title-wrap.section-header{
-  margin-bottom: 0px!important;
+  margin-bottom: 15px!important;
 }
 .section-title-wrap.text-center p {
   margin: 0  20px;
@@ -10386,7 +10386,7 @@ section {
 .origins-section .swiper-container{
   padding: 10px;
   padding-right: 11px;
-  margin-bottom: 100px;
+  /* margin-bottom: 100px; */
   /* border: 1px solid black; */
   border-radius: 10px;
   background-color: white;
@@ -10497,7 +10497,7 @@ section {
       margin-right: auto;
     }
     .section-double{
-      margin-top:70px!important;
+      margin-top:90px!important;
       }
     .paddingthirty{
       padding-top:0px!important;
