@@ -88,7 +88,7 @@
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
         "name": "High Protein Maharani Urad Gota 1kg",
-        "shortdesc": "Round Urad Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "shortdesc": "Round Urad gota is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
         "price": 195.00,
         "symbol":"₹",
         "urls":"https://amzn.eu/d/4vd4fR1/",
@@ -138,58 +138,6 @@
                         "title": "Energy(Kcal)",
                         "addprice":372.31,
                         "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
                     }
                 ]
             }
@@ -265,58 +213,6 @@
                         "title": "Energy(Kcal)",
                         "addprice":372.31,
                         "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
                     }
                 ]
             }
@@ -394,58 +290,6 @@
                         "title": "Energy(Kcal)",
                         "addprice":372.31,
                         "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
                     }
                 ]
             }
@@ -520,58 +364,6 @@
                         "title": "Energy(Kcal)",
                         "addprice":372.31,
                         "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
                     }
                 ]
             }
@@ -661,58 +453,6 @@
                         "title": "Energy(Kcal)",
                         "addprice":372.31,
                         "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
                     }
                 ]
             }

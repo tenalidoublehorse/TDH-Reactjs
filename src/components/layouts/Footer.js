@@ -104,7 +104,7 @@ class Footer extends Component {
                                     {/* <li> <Link to=" ">Recipes</Link> </li> */}
                                     <li> <Link to="/awards-recognitions">Awards & Recognitions</Link> </li>
                                      <li> <Link to="/usa-shops">Usa</Link> </li>
-                                    <li> <Link to="/Contactus">Contact</Link> </li>
+                                    <li> <Link to="/Contact">Contact</Link> </li>
                                    
                                 </ul>
                             </div>
@@ -114,7 +114,7 @@ class Footer extends Component {
                                 <ul>
                                     <li><a href="tel:1800 270 567567" target="_blank">Call Us</a></li>
                                     <li> <a href="mailto:info@tenalidoublehorse.com" target="_blank">Email</a> </li>
-                                    <li> <Link to="/Contactus" target="_blank">Locate</Link> </li>
+                                    <li> <Link to="/Contact">Locate</Link> </li>
                                 </ul>
                             </div>
                             
