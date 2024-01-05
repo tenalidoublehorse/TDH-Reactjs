@@ -17,7 +17,7 @@ class Camapaing extends Component {
         return (
         
           <div className='recent-campaigns'>
-            <div className='container-fluid mb-5'>
+            <div className='container-fluid mb-lg-5 mb-2'>
               <div className='main-content-section'>
                 <div className=''>
                   {/* <div className="section-title-wrap section-header mb-md-5 mt-lg-5 mt-xl-5  mt-xxl-5 text-center ">
