@@ -10496,6 +10496,9 @@ section {
       height: 350px;
       margin-right: auto;
     }
+    .testimonial{
+      margin: 0 40px 40px!important;
+    }
     .section-double{
       margin-top:90px!important;
       }
