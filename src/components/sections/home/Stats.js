@@ -24,7 +24,7 @@ const successpost = [
     },
     {
         icon: 'assets/img/banner/box.png',
-        count: 10,
+        count: 9,
         title: "Products",
         delay: "0.9s"
     }

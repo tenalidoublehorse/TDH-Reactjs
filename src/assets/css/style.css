@@ -5442,7 +5442,7 @@ td.quantity{
   
     display:flex;
     flex-direction: column;
-    background-color:white;
+    /* background-color:white; */
   }
   .Legacy-Container{
     margin: 20px !important;
@@ -10610,7 +10610,7 @@ section {
   font-size: 16px!important;
 }
 .section-double{
-margin-top:250px;
+margin-top:220px;
 }
 
 

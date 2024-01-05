@@ -6,7 +6,7 @@ import Content from '../sections/privacypolicy/Content';
 import Breadcrumbs from '../layouts/Breadcrumb';
 
 const pagelocation = 'Privacy policy'
-const bannerimg = "/assets/img/banner/contact-header-banner.jpeg"
+const bannerimg = "/assets/img/banner/tdh-privacypolicy.png"
 
 class Privacypolicy extends Component {
     render() {

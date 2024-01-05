@@ -65,7 +65,7 @@ class Products extends Component {
                         
                     </div>
                     <div className='slider-section-home' >
-                        <Slider className="product-slider home-product-slider p-5  " {...settings} ref={c => (this.slider = c)}>
+                        <Slider className="product-slider home-product-slider   " {...settings} ref={c => (this.slider = c)}>
                         
                             {products.map((item, i) => (
                                 <div key={i} className="product card  border-0 shadow rounded-3">
