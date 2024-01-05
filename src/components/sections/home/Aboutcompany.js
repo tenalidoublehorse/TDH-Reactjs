@@ -30,14 +30,10 @@ class TimelineSection extends Component {
           
         return (
           <section id="timeline " style={{ ...backgroundStyles }}>
-              {/* <div className="section-title-wrap section-header text-center pt-1">
-                        <h2 className="title">Tenali Double Horse</h2>
-                        <p className='largefont'>At Tenali Double Horse, our journey began in 2005 with a vision to bring excellence and trust to every household in India. Guided by our commitment to quality and customer satisfaction, we have since become a trusted name that resonates with millions.</p>
-              </div> */}
-            <div className="container-fluid video-conatiner  mt-lg-3">
+            <div className="container-fluid video-conatiner  mt-lg-3 pb-4">
               <div className="row ourstory-section text-center"  >
                   <div className='col-sm-12 col-lg-6 order-2 order-lg-2'>
-                    <div className="section-title-wrap section-header text-center pt-1">
+                    <div className="section-title-wrap section-header text-center pt-3">
                       <h2 className="title">About TDH</h2>
                       <p className='largefont' style={{textAlign:'justify'}}>At <b className='bold-colour'> Tenali Double Horse</b>, our journey began in 2005 with a vision to bring excellence and trust to every household in  <b className='bold-colour'> India</b>. Guided by our commitment to quality and customer satisfaction, we have since become a trusted name that resonates with millions.</p>
                       {this.props.pagename.pagename === "AboutUs" ? (
@@ -58,14 +54,9 @@ class TimelineSection extends Component {
                   )} */}
                   <video width="100%" height="100%" controls poster={process.env.PUBLIC_URL + "/assets/video/tdh-chairman.png"}>
                           <source src={process.env.PUBLIC_URL + "/assets/video/tdh-chairmen-video.mp4"} type="video/mp4" />
-                      </video>
+                    </video>
                    
                  </div>
-                 
-                
-                 
-                
-                
               </div>
             </div>
           </section>
