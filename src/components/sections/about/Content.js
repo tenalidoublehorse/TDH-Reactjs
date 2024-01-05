@@ -2,14 +2,15 @@ import React, { Component, Fragment } from 'react';
 import Tdhabout from './Tdhabout'
 import Stats from '../home/Stats';
 import Rules from './Rules';
-import Greatplacetowork from '../blog-full/Greatplacetowork'
+
 import Tdhgroup from './Tdhgroup';
 import Feedback from '../home/Feedback';
 import Messenger from '../home/Messenger';
 import Overview from "../about/Overview";
 import Tdhf from './Tdhf';
 import Aboutcompany from '../home/Aboutcompany';
-import Grateplace from '../home/Grateplace';
+// import Grateplace from '../home/Grateplace';
+import Greatplacetowork from '../blog-full/Greatplacetowork';
 const pagelocation = 'AboutUs'
 const ifrmaurl = "https://www.youtube.com/embed/4haxVA5cTuY?si=A5FrVYfc6VYLRg4S"
 class Content extends Component {
@@ -26,7 +27,7 @@ class Content extends Component {
                {/* <TimelineComponent/> */}
                {/* <Greatplacetowork/> */}
                 <Stats/>
-                <Grateplace/>
+                <Greatplacetowork/>
                 <Feedback/>
                 {/* <Messenger/> */}
             </Fragment>
