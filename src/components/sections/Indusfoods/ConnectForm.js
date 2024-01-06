@@ -6,8 +6,8 @@ function Content(){
      //  start main function
   const [formData, setformData] = useState({
     id :'',
-    Fname :'',
-    Lname  :'',
+    Firstname :'',
+    Lastname  :'',
     Email :'',
     Phonenumber :'',
     PurposeofContact :'',
@@ -29,10 +29,10 @@ function Content(){
         try{
             debugger;
           let res = await axios.post('api/addindusdata/',formData  );
-        //   alert(" created successfully!")
+          alert("Successfully Submited Your Query Thank You!")
         }
         catch(error){
-            // alert("Oops! Unable to creater information. Please check the provided details and try again later.")
+            // alert("Oops! Unable to send information. Please check the provided details and try again later.")
         }
       }
 
@@ -58,7 +58,7 @@ function Content(){
                                                 placeholder="First Name"
                                                 required
                                                 className="form-control"
-                                                name="Fname"
+                                                name="Firstname"
                                                 pattern="[A-Za-z]+"
                                                 onChange={handleChange}
                                             />
@@ -70,7 +70,7 @@ function Content(){
                                                 placeholder="Last Name"
                                                 required
                                                 className="form-control"
-                                                name="Lname"
+                                                name="Lastname"
                                                 pattern="[A-Za-z]+"
                                                 onChange={handleChange}
                                             />

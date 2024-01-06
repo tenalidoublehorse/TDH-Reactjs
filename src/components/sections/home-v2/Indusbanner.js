@@ -58,10 +58,14 @@ const Banner = () => {
           />
         ))}
       </Slider>
-      <div
+      <div>
+        <img src={process.env.PUBLIC_URL + "/assets/img/banner/TenaliDoubleHorse-IndusFood_boomark-3x52.png"} alt="img" className='' />
+        </div>
+      {/* <div
         className="header-marque"
         style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
       >
+        
         <marquee
           id="marquee"
           width="97%"
@@ -72,7 +76,7 @@ const Banner = () => {
           We have recently introduced our products in UAE. For inquiries regarding exports, please
           reach out to us at 1800 270 567 567 or email us at exports@tenalidoublehorse.com.
         </marquee>
-      </div>
+      </div> */}
     </div>
   );
 };
