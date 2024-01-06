@@ -4,23 +4,23 @@ import { hometwo as bannerpost } from '../../../data/banner.json';
 
 const Banner = () => {
 
-  const handleMarqueeHover = () => {
-    const marquee = document.getElementById('marquee');
-    marquee.stop();
-  };
+  // const handleMarqueeHover = () => {
+  //   const marquee = document.getElementById('marquee');
+  //   marquee.stop();
+  // };
 
-  const handleMarqueeLeave = () => {
-    const marquee = document.getElementById('marquee');
-    marquee.start();
-  };
+  // const handleMarqueeLeave = () => {
+  //   const marquee = document.getElementById('marquee');
+  //   marquee.start();
+  // };
 
-  useEffect(() => {
-    const marquee = document.getElementById('marquee');
+  // useEffect(() => {
+  //   const marquee = document.getElementById('marquee');
 
-    return () => {
-      marquee.start(); // Ensure marquee starts when the component is unmounted
-    };
-  }, []);
+  //   return () => {
+  //     marquee.start(); // Ensure marquee starts when the component is unmounted
+  //   };
+  // }, []);
 
   const settings = {
     slidesToShow: 1,
