@@ -1,26 +1,45 @@
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
-import $ from 'jquery';
+// import { Link,useNavigate } from 'react-router-dom';
 import axios from '../../../api/axios';
 
-function Content(props) {
-    const [item, setItem] = useState({});
-    const { blogId } = props;
+function Content(){
+     //  start main function
+  const [formData, setformData] = useState({
+    id :'',
+    Fname :'',
+    Lname  :'',
+    Email :'',
+    Phonenumber :'',
+    PurposeofContact :'',
+    Message:'',
+    AddedTimeStamp :'2023-04-05T13:05:52Z',
+    updatedTimeStamp :'2023-04-05T13:05:52Z',
+  });
 
-    // useEffect(() => {
-    //     const fetchData = async () => {
-    //         try {
-             
-    //             const response = await axios.get(`api/blogsingle/${blogId}`); 
-    //             setItem(response.data);
-    //         } catch (error) {
-          
-    //             console.error('Error fetching blog post data:', error);
-    //         }
-    //     };
+  const handleChange = (event) => {
+    setformData({
+      ...formData,
+      [event.target.name]: event.target.value
+    })
+};
 
-    //     fetchData();
-    // },[blogId]);
+    const handlAddData = async (event) => {
+        // event.preventDefault();
+    
+        try{
+            debugger;
+          let res = await axios.post('api/indusdata/add/',formData  );
+        //   alert(" created successfully!")
+        }
+        catch(error){
+            // alert("Oops! Unable to creater information. Please check the provided details and try again later.")
+        }
+      }
+
+      useEffect (()=>{
+        handlAddData();
+      },{})
+
     return (
         <div className="post-single">
             <div className="section">
@@ -30,7 +49,7 @@ function Content(props) {
                             <div>
                                 <form className='  px-3 pb-4 pt-4' style={{ borderRadius: '8px' }}>
                                     <div className=''>
-                                        <p className='text-center text-danger form-hedline'>Connect With Us</p>
+                                        <p className='text-center text-danger form-hedline'>Get In Touch</p>
                                     </div>
                                     <div className="row">
                                         <div className="form-group col-lg-6">
@@ -39,10 +58,9 @@ function Content(props) {
                                                 placeholder="First Name"
                                                 required
                                                 className="form-control"
-                                                name="fname"
+                                                name="Fname"
                                                 pattern="[A-Za-z]+"
-                                                // value={formData.fname}
-                                                // onChange={this.handleInputChange}
+                                                onChange={handleChange}
                                             />
 
                                         </div>
@@ -52,10 +70,9 @@ function Content(props) {
                                                 placeholder="Last Name"
                                                 required
                                                 className="form-control"
-                                                name="lname"
+                                                name="Lname"
                                                 pattern="[A-Za-z]+"
-                                                // value={formData.lname}
-                                                // onChange={this.handleInputChange}
+                                                onChange={handleChange}
                                             />
                                         </div>
                                         <div className="form-group col-lg-12">
@@ -65,10 +82,9 @@ function Content(props) {
                                                 placeholder="Email Address"
                                                 required
                                                 className="form-control"
-                                                name="email"
-                                                // value={formData.email}
-                                                pattern=".\.com."
-                                                // onChange={this.handleInputChange}
+                                                name="Email"
+                                                // pattern=".\.com."
+                                                onChange={handleChange}
 
                                             />
                                         </div>
@@ -79,8 +95,7 @@ function Content(props) {
                                                 required
                                                 className="form-control"
                                                 name="Phonenumber"
-                                                // value={formData.Phonenumber}
-                                                // onChange={this.handleInputChange}
+                                                onChange={handleChange}
                                                 pattern="[0-9]*"
                                                 maxLength="10"
 
@@ -90,10 +105,9 @@ function Content(props) {
                                         <div className="form-group col-lg-6">
                                             <select
                                                 className="form-control"
-                                                name="Purpose of Contact"
+                                                name="PurposeofContact"
                                                 required
-                                                // value={formData.purpose}
-                                                // onChange={this.handleInputChange}
+                                                onChange={handleChange}
                                             >
                                                 <option value="">Purpose of Contact</option>
                                                 <option value="export">export</option>
@@ -103,23 +117,22 @@ function Content(props) {
                                                 <option value="Other">Job Enquiry</option>
                                             </select>
                                         </div>
-                                        
+
                                         <div className="form-group col-lg-12">
                                             <textarea
-                                                name="message"
+                                                name="Message"
                                                 className="form-control"
                                                 required
                                                 placeholder="Type your message"
                                                 rows={3}
-                                                // value={formData.message}
-                                                // onChange={this.handleInputChange}
+                                                onChange={handleChange}
                                                 pattern="[A-Za-z.,]+"
                                                 maxLength="50"
                                             />
                                         </div>
                                     </div>
                                     <div className='d-flex justify-content-center'>
-                                        <button type="submit" value="Send" className="btn-custom primary mt-3 mx-auto" name="button">Send Message</button>
+                                        <button type="submit" value="Send" className="btn-custom primary mt-3 mx-auto" name="button" onClick={handlAddData} >Send Message</button>
                                     </div>
                                     
                                 </form>

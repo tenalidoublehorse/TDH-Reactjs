@@ -10645,3 +10645,11 @@ background-repeat: no-repeat;
   font-weight: 700;
   padding-bottom: 15px;
 }
+
+/* .tdh-shop img{
+  height: 400px;
+  width: 400px;
+} */
+.about-video video{
+  border-radius: 4px;
+}
