@@ -1,274 +1,39 @@
 [
     
-    
-   
-    
     {
         "id": 1,
-        "img": "assets/img/prods-sm/tenalidoublehorse-dubai-Chana-dall.png",
+        "img": "assets/img/prods-sm/tenalidoublehorse-dubai-Urad-gota.png",
         "productsafetyimg1": "assets/img/safety-images/no-colora.png",
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Chana Dall 500g",
-        "shortdesc": "Our Chana Dal, sourced with care and crafted with excellence, brings you the essence of health and taste in every bite",
-        "price":4.95,
-        "urls":"https://qr.emenu.ae/goodearth/#/product/110618 ",
+        "name": "Urad Gota 1kg",
+        "shortdesc": "Round Urad Gota is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
+        "price":13.50,
+        "urls":"https://qr.emenu.ae/goodearth/#/product/110615 ",
         "rating": 4,
         "category": [
             3,6
-        ],
-        "bulletpoints": [
-            {
-                "Speciality":"suitable for vegetarians",
-                "Diet Type":"Vegetarian",
-                "Weight ":"1 Kilograms"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. it is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .it is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time ",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"Henry Crow",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
-            },
-            {
-                "img":"assets/img/people/2.jpg",
-                "name":"Ilyn Rodrick",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
-            },
-            {
-                "img":"assets/img/people/3.jpg",
-                "name":"Fiyona Lumber",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
-            }
         ]
     },
     {
         "id": 2,
-        "img": "assets/img/prods-sm/tenalidoublehorse-dubai-Moong-dall.png",
+        "img": "assets/img/prods-sm/tenalidoublehorse-dubai-Urad-dall.png",
         "productsafetyimg1": "assets/img/safety-images/no-colora.png",
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Moong Dall 500g",
-        "shortdesc": "Moong Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
-        "price":6.95,
-        "urls":"https://qr.emenu.ae/goodearth/#/product/110620",
+        "name": "Urad Dall 1kg",
+        "shortdesc": "Urad Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
+        "price":6.50,
+        "urls":"https://qr.emenu.ae/goodearth/#/product/110621",
         "rating": 4,
         "category": [
             3,6
-        ],
-        "bulletpoints": [
-            {
-                "Speciality":"suitable for vegetarians",
-                "Diet Type":"Vegetarian",
-                "Weight ":"1 Kilograms"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. it is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .it is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time ",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"Henry Crow",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
-            },
-            {
-                "img":"assets/img/people/2.jpg",
-                "name":"Ilyn Rodrick",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
-            },
-            {
-                "img":"assets/img/people/3.jpg",
-                "name":"Fiyona Lumber",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
-            }
         ]
     },
+    
+
     {
         "id": 3,
         "img": "assets/img/prods-sm/tenalidoublehorse-dubai-toor-dall.png",
@@ -283,391 +48,47 @@
         "rating": 4,
         "category": [
             3,6
-        ],
-        "bulletpoints": [
-            {
-                "Speciality":"suitable for vegetarians",
-                "Diet Type":"Vegetarian",
-                "Weight ":"1 Kilograms"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. it is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .it is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time ",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"Henry Crow",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
-            },
-            {
-                "img":"assets/img/people/2.jpg",
-                "name":"Ilyn Rodrick",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
-            },
-            {
-                "img":"assets/img/people/3.jpg",
-                "name":"Fiyona Lumber",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
-            }
         ]
+        
     },
+    
     {
         "id": 4,
-        "img": "assets/img/prods-sm/tenalidoublehorse-dubai-Urad-dall.png",
+        "img": "assets/img/prods-sm/tenalidoublehorse-dubai-Moong-dall.png",
         "productsafetyimg1": "assets/img/safety-images/no-colora.png",
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Urad Dall 1kg",
-        "shortdesc": "Urad Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
-        "price":6.50,
-        "urls":"https://qr.emenu.ae/goodearth/#/product/110621",
+        "name": "Moong Dall 500g",
+        "shortdesc": "Moong Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
+        "price":6.95,
+        "urls":"https://qr.emenu.ae/goodearth/#/product/110620",
         "rating": 4,
         "category": [
             3,6
-        ],
-        "bulletpoints": [
-            {
-                "Speciality":"suitable for vegetarians",
-                "Diet Type":"Vegetarian",
-                "Weight ":"1 Kilograms"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. it is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .it is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time ",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"Henry Crow",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
-            },
-            {
-                "img":"assets/img/people/2.jpg",
-                "name":"Ilyn Rodrick",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
-            },
-            {
-                "img":"assets/img/people/3.jpg",
-                "name":"Fiyona Lumber",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
-            }
         ]
-    },
+        
+       
+    }, 
+    
     {
         "id": 5,
-        "img": "assets/img/prods-sm/tenalidoublehorse-dubai-Urad-gota.png",
+        "img": "assets/img/prods-sm/tenalidoublehorse-dubai-Chana-dall.png",
         "productsafetyimg1": "assets/img/safety-images/no-colora.png",
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Urad Gota 1kg",
-        "shortdesc": "Round Urad Gota is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
-        "price":13.50,
-        "urls":"https://qr.emenu.ae/goodearth/#/product/110615 ",
+        "name": "Chana Dall 500g",
+        "shortdesc": "Our Chana Dal, sourced with care and crafted with excellence, brings you the essence of health and taste in every bite",
+        "price":4.95,
+        "urls":"https://qr.emenu.ae/goodearth/#/product/110618 ",
         "rating": 4,
         "category": [
             3,6
-        ],
-        "bulletpoints": [
-            {
-                "Speciality":"suitable for vegetarians",
-                "Diet Type":"Vegetarian",
-                "Weight ":"1 Kilograms"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. it is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .it is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time ",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"Henry Crow",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
-            },
-            {
-                "img":"assets/img/people/2.jpg",
-                "name":"Ilyn Rodrick",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
-            },
-            {
-                "img":"assets/img/people/3.jpg",
-                "name":"Fiyona Lumber",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
-            }
         ]
+       
     },
+   
     {
         "id": 6,
         "img": "assets/img/prods-sm/tenali-double-horse-dubai-sunnundalu.png",
@@ -682,123 +103,6 @@
         "rating": 4,
         "category": [
             3,6
-        ],
-        "bulletpoints": [
-            {
-                "Speciality":"suitable for vegetarians",
-                "Diet Type":"Vegetarian",
-                "Weight ":"1 Kilograms"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. it is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .it is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time ",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"Henry Crow",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
-            },
-            {
-                "img":"assets/img/people/2.jpg",
-                "name":"Ilyn Rodrick",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
-            },
-            {
-                "img":"assets/img/people/3.jpg",
-                "name":"Fiyona Lumber",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia"
-            }
         ]
     }
 ]
