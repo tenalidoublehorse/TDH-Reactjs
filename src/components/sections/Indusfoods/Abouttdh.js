@@ -28,8 +28,8 @@ class Abouttdh extends Component {
 
           
         return (
-          <section id="timeline " style={{backgroundColor:"white"}}>
-            <div className="container-fluid   mt-lg-3 pb-5 pt-5">
+          <section id="timeline ceo-sec " style={{backgroundColor:"white"}}>
+            <div className="container-fluid   mt-lg-3 pb-lg-5 pt-lg-5">
               <div className="row ourstory-section text-center"  >
                   <div className='col-sm-12 col-lg-6 order-2 order-lg-2'>
                     <div className="section-title-wrap section-header text-center pt-3">

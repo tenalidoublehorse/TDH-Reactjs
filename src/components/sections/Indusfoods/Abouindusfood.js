@@ -23,9 +23,9 @@ class Abouindusfood extends Component {
                                 <h2 className='title' style={{fontSize:'33px'}}>Dal Se Lekar Dil Tak</h2>
                                 <p className="subtitle" style={{ textAlign: 'justify' }}>
                                 For over three decades, Tenali Double Horse have built close relationships with the farmers of Andhra's fertile Tenali region. We've sourced the best dals, millets, and spices, earning your trust in quality and nutrition.
-From our heart to yours, our gold-standard dals, convenient instant mixes, wholesome millet meals, the cherished Sunnundalu, authentic spices, homemade masalas and pickles have found a special place in over a million homes.
+                                From our heart to yours, our gold-standard dals, convenient instant mixes, wholesome millet meals, the cherished Sunnundalu, authentic spices, homemade masalas and pickles have found a special place in over a million homes.
                                 </p>
-                                <p>Our journey mirrors the flavor we bring into your lives. As we venture beyond Andhra's borders, get ready for more delicious reasons to cherish where we come from a legacy of quality that speaks to your heart.</p>
+                                <p className="subtitle" style={{ textAlign: 'justify' }}>Our journey mirrors the flavor we bring into your lives. As we venture beyond Andhra's borders, get ready for more delicious reasons to cherish where we come from a legacy of quality that speaks to your heart.</p>
                                 {/* <a  href="https://tdhfoodproducts.com/about/" rel="noopener noreferrer" target="_blank" class="btn-custom  shadow-none ">View More</a> */}
 
 

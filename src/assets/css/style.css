@@ -10549,6 +10549,14 @@ section {
   padding-top: 0px;
   margin-top: -150px;
 }
+
+.marq-banner img{
+  margin-top: -10px;
+}
+
+.ceo-sec{
+  margin-bottom: 0px !important;
+}
 }
 
 

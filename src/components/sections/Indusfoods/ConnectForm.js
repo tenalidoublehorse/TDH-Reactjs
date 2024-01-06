@@ -43,16 +43,16 @@ function Content(){
     return (
         <div className="post-single">
             <div className="section">
-                <div className="container">
+                <div className="container-fluid">
                     <div className="row">
-                        <div className="col-lg-12">
+                        <div className="col-lg-6 my-auto">
                             <div>
                                 <form className='  px-3 pb-4 pt-4' style={{ borderRadius: '8px' }}>
                                     <div className=''>
                                         <p className='text-center text-danger form-hedline'>Get In Touch</p>
                                     </div>
                                     <div className="row">
-                                        <div className="form-group col-lg-6">
+                                        <div className="form-group col-lg-12">
                                             <input
                                                 type="text"
                                                 placeholder="First Name"
@@ -64,7 +64,7 @@ function Content(){
                                             />
 
                                         </div>
-                                        <div className="form-group col-lg-6">
+                                        <div className="form-group col-lg-12">
                                             <input
                                                 type="text"
                                                 placeholder="Last Name"
@@ -88,7 +88,7 @@ function Content(){
 
                                             />
                                         </div>
-                                        <div className="form-group col-lg-6">
+                                        <div className="form-group col-lg-12">
                                             <input
                                                 type="text"
                                                 placeholder="Phone no"
@@ -102,7 +102,7 @@ function Content(){
                                             />
 
                                         </div>
-                                        <div className="form-group col-lg-6">
+                                        <div className="form-group col-lg-12">
                                             <select
                                                 className="form-control"
                                                 name="PurposeofContact"
@@ -137,6 +137,9 @@ function Content(){
                                     
                                 </form>
                             </div>
+                        </div>
+                        <div className="col-lg-6">
+                        <img src={process.env.PUBLIC_URL + "/assets/img/banner/dal-se-lekar.png"} alt="img" className='' height={"150px"}/>
                         </div>
                     </div>
                 </div>

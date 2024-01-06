@@ -58,7 +58,7 @@ const Banner = () => {
           />
         ))}
       </Slider>
-      <div>
+      <div className='marq-banner'>
         <img src={process.env.PUBLIC_URL + "/assets/img/banner/TenaliDoubleHorse-IndusFood_boomark-3x52.png"} alt="img" className='' />
         </div>
       {/* <div
