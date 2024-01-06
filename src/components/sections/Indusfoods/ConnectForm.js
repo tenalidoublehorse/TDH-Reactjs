@@ -41,7 +41,7 @@ function Content(){
       },{})
 
     return (
-        <div className="post-single">
+        <div className="post-single" style={{backgroundColor:"#efeddc"}}>
             <div className="section">
                 <div className="container-fluid">
                     <div className="row">
