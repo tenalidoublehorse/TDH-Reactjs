@@ -2,7 +2,7 @@ import React, { Component, Fragment } from 'react';
 import { Link } from 'react-router-dom';
 import Slider from 'react-slick';
 import { Modal } from 'react-bootstrap';
-import Quickview from '../../layouts/Quickview';
+import Quickview from '../../layouts/Tdhquickview';
 import products from "../../../data/tdhproduct.json";
 import { Rating } from "../../../helper/helper";
 import { height } from 'dom7';
@@ -70,7 +70,7 @@ class Tdhfoods extends Component {
                             {products.map((item, i) => (
                                 <div key={i} className="product card  border-0 shadow rounded-3">
                                     
-                                    <Link className="product-thumb pt-3" to={"/menu-item-v1/" + item.id}>
+                                    <Link className="product-thumb pt-3" to={"/menu-item-v2/" + item.id}>
                                         <img src={process.env.PUBLIC_URL + "/" + item.img} alt={item.name} />
                                     </Link>
                                     <div className="product-body   border-0 shadow rounded-3 bg-white">
