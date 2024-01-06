@@ -8,7 +8,7 @@ import { Tab, Nav} from "react-bootstrap";
 import Relatedproduct from '../../layouts/Tdhrelatedproduct';
 // import Slider from "react-slick";
 // import Feedback from '../home/Feedback';
-import Messenger from '../home/Messenger';
+// import Messenger from '../home/Messenger';
 // swiperjs
 import { Swiper, SwiperSlide } from 'swiper/react';
 // Import Swiper styles
@@ -276,7 +276,7 @@ class Content extends Component {
                 </div>
                 <Relatedproduct />
                 {/* <Feedback/> */}
-                <Messenger/>
+                {/* <Messenger/> */}
 
             </Fragment>
         );
