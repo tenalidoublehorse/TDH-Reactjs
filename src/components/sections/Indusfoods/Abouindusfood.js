@@ -20,7 +20,7 @@ class Abouindusfood extends Component {
                         <div className="col-lg-6 alignments d-flex flex-column order-1 order-lg-1">
                         <div className="section-title-wrap mr-lg-30 mt-lg-2">
                                
-                                <h2  style={{fontSize:'22px'}}>About Indus Foods</h2>
+                                <h2  style={{fontSize:'22px'}}>Dal Se lekar Dil tak</h2>
                                 <p className="subtitle" style={{ textAlign: 'justify' }}>
                                 For over three decades, Tenali Double Horse have built close relationships with the farmers of Andhra's fertile Tenali region. We've sourced the best dals, millets, and spices, earning your trust in quality and nutrition.
 From our heart to yours, our gold-standard dals, convenient instant mixes, wholesome millet meals, the cherished Sunnundalu, authentic spices, homemade masalas and pickles have found a special place in over a million homes.
