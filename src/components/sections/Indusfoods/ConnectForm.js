@@ -138,8 +138,8 @@ function Content(){
                                 </form>
                             </div>
                         </div>
-                        <div className="col-lg-6">
-                        <img src={process.env.PUBLIC_URL + "/assets/img/banner/dal-se-lekar.png"} alt="img" className='' height={"150px"}/>
+                        <div className="col-lg-6 my-auto">
+                        <img src={process.env.PUBLIC_URL + "/assets/img/banner/dal-se-lekar.png"} alt="img" className='' style={{height:"40%"}}/>
                         </div>
                     </div>
                 </div>
