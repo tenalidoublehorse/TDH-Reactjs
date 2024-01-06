@@ -28,7 +28,7 @@ function Content(){
     
         try{
             debugger;
-          let res = await axios.post('api/indusdata/add/',formData  );
+          let res = await axios.post('api/addindusdata/',formData  );
         //   alert(" created successfully!")
         }
         catch(error){
