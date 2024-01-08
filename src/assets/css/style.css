@@ -10557,6 +10557,9 @@ section {
 .ceo-sec{
   margin-bottom: 0px !important;
 }
+.event-slider {
+  padding-bottom:5px ;
+}
 }
 
 
@@ -10660,4 +10663,10 @@ background-repeat: no-repeat;
 } */
 .about-video video{
   border-radius: 4px;
+}
+.product-thumb1 img{
+  border-radius: 6px;
+}
+.event-slider {
+  padding-bottom:35px ;
 }

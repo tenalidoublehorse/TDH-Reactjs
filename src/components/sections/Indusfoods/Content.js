@@ -10,6 +10,7 @@ import TdhProducts from "./TdhProducts"
 import ConnectForm from "./ConnectForm"
 import Abouindusfood from "./Abouindusfood"
 import Abouttdh from "./Abouttdh"
+import Indusimageslider from "./Indusimageslider"
 
 const pagelocation = 'indus foods'
 
@@ -22,6 +23,7 @@ class Content extends Component {
                 <Banner />
                 <Abouindusfood/>
                 <ConnectForm/>
+                <Indusimageslider/>
                 <Sumabanner />
                 <Abouttdh />
                 <TdhProducts />
