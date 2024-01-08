@@ -118,7 +118,7 @@ class Content extends Component {
                                     {/* /Product Short Description */}
                                         {/* Price */}
                                         <div className="price-wrapper">
-                                        <p className="product-price">₹{new Intl.NumberFormat().format((item.price).toFixed(2))}</p>
+                                        {/* <p className="product-price">₹{new Intl.NumberFormat().format((item.price).toFixed(2))}</p> */}
                                     </div>
                                     {/* /Price */}
                                     {/* Variations */}

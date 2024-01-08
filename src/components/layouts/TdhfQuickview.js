@@ -64,7 +64,7 @@ class Quickview extends Component {
                           <div className=''>
                           <h4 className="customize-title">{item.name}  </h4>
                           <p>{item.shortdesc}</p>
-                          <h5><span className="custom-primary">₹{new Intl.NumberFormat().format((item.price).toFixed(2))}</span></h5>
+                          {/* <h5><span className="custom-primary">₹{new Intl.NumberFormat().format((item.price).toFixed(2))}</span></h5> */}
                           <button type="button" className="btn-custom btn-sm ">Order Now</button>   
                           {/* <button type="button" className="btn-custom btn-sm ">Order Now</button> */}
                           </div>
@@ -82,23 +82,7 @@ class Quickview extends Component {
                         </div> */}
                         <div className="row">
                           
-                                {item.attributes.slice(0,3).map((item, i) => (
-                                    <div key={i} className="col-lg-4 col-12">
-                                        <div className="customize-variation-wrapper">
-                                            <i className={item.icon} />
-                                            <h5>{item.name}</h5>
-                                            {item.items.map((add, i) => (
-                                                <div key={i} className="customize-variation-item">
-                                                    <div className={"custom-control custom-" + item.type}>
-                                                        <input type={item.type} id={add.title + i} name={item.name} className="custom-control-input" />
-                                                        <label className="custom-control-label" htmlFor={add.title + i}>{add.title}</label>
-                                                    </div>
-                                                    <span>+{new Intl.NumberFormat().format((add.addprice).toFixed(2))}</span>
-                                                </div>
-                                            ))}
-                                        </div>
-                                    </div>   
-                                ))}
+                              
                                 {item.attributes.slice(0,3).map((item1, i) => (
                                     <div key={i} className="col-lg-8 col-12">
                                          <div>
