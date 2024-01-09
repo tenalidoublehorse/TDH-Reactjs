@@ -159,7 +159,6 @@ class Content extends Component {
                                 className="form-control"
                                 name="email"
                                 value={formData.email}
-                                pattern=".\.com."
                                 onChange={this.handleInputChange}
                                
                               />
