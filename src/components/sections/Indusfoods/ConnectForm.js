@@ -4,6 +4,7 @@ import axios from '../../../api/axios';
 
 function Content(){
      //  start main function
+     const currentTimestamp = new Date().toISOString();
   const [formData, setformData] = useState({
     id :'',
     Firstname :'',
@@ -12,8 +13,8 @@ function Content(){
     Phonenumber :'',
     PurposeofContact :'',
     Message:'',
-    AddedTimeStamp :'2023-04-05T13:05:52Z',
-    updatedTimeStamp :'2023-04-05T13:05:52Z',
+    AddedTimeStamp :currentTimestamp,
+    updatedTimeStamp :currentTimestamp,
   });
 
   const handleChange = (event) => {
@@ -127,7 +128,7 @@ function Content(){
                                                 rows={3}
                                                 onChange={handleChange}
                                                 pattern="[A-Za-z.,]+"
-                                                maxLength="50"
+                                                maxLength="500"
                                             />
                                         </div>
                                     </div>
