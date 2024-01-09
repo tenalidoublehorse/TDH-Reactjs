@@ -40,43 +40,72 @@
         
     },
     {
-        "id": 1,
+        "id": 7,
         "title":"image1",
         "img": "assets/img/banner/indusimages/indus-foods-2024-6.png"
         
     },
     {
-        "id": 2,
+        "id": 8,
         "title":"image2",
         "img": "assets/img/banner/indusimages/indus-foods-2024-7.png"
         
     }
     ,
     {
-        "id": 3,
+        "id": 9,
         "title":"image2",
         "img": "assets/img/banner/indusimages/indus-foods-2024-8.png"
         
     }
     ,
     {
-        "id": 4,
+        "id": 10,
         "title":"image2",
         "img": "assets/img/banner/indusimages/indus-foods-2024-9.png"
         
     }
     ,
     {
-        "id": 5,
+        "id": 11,
         "title":"image2",
         "img": "assets/img/banner/indusimages/indus-foods-2024-10.png"
         
     }
     ,
     {
-        "id": 6,
+        "id": 12,
         "title":"image2",
         "img": "assets/img/banner/indusimages/indus-foods-2024-11.png"
         
+    } ,
+    {
+        "id": 13,
+        "title":"image2",
+        "img": "assets/img/banner/indusimages/indus-foods-2024-12.png"
+        
     }
+    ,
+    {
+        "id": 14,
+        "title":"image2",
+        "img": "assets/img/banner/indusimages/indus-foods-2024-13.png"
+        
+    }
+    ,
+    {
+        "id": 15,
+        "title":"image2",
+        "img": "assets/img/banner/indusimages/indus-foods-2024-14.png"
+        
+    }
+    ,
+    {
+        "id": 16,
+        "title":"image2",
+        "img": "assets/img/banner/indusimages/indus-foods-2024-15.png"
+        
+    }
+    
+    
 ]
