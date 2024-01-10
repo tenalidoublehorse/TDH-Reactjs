@@ -1,82 +1,66 @@
-[  
-    {
-        "id": 14,
-        "imageUrl": "assets/img/newsevents/indusfod-eenadu-2024.jpeg",
-        "caption": "phirese udaan"
-    }
-    ,
+[
     {
         "id": 13,
+        "imageUrl": "assets/img/newsevents/indusfod-eenadu-2024.jpeg",
+        "caption": "indus food 2024"
+    },
+    {
+        "id": 12,
         "imageUrl": "assets/img/newsevents/indusfod-2024.jpeg",
-        "caption": "phirese udaan"
-    }
-    ,
-     {
-    "id": 12,
-    "imageUrl": "assets/img/newsevents/tdh-msme-enaadu-news-artical.png",
-    "caption": "phirese udaan"
-}
-,
+        "caption": "indus food 2024"
+    },
     {
-    "id": 9,
-    "imageUrl": "assets/img/newsevents/tdh-msmec-2-national-award.png",
-    "caption": "Image 2" 
-}
-,
+        "id": 11,
+        "imageUrl": "assets/img/newsevents/tdh-msme-enaadu-news-artical.png",
+        "caption": "msme award"
+    },
     {
-    "id": 13,
-    "imageUrl": "assets/img/newsevents/tdh-msme-award-sakshi-news-artical.png",
-    "caption": "phirese udaan"
-}
-,
+        "id": 10,
+        "imageUrl": "assets/img/newsevents/tdh-msmec-2-national-award.png",
+        "caption": "msme award"
+    },
     {
-        "id": 20,
+        "id": 9,
+        "imageUrl": "assets/img/newsevents/tdh-msme-award-sakshi-news-artical.png",
+        "caption": "msme award"
+    },
+    {
+        "id": 8,
         "imageUrl": "assets/img/newsevents/diwali-wishes.png",
         "caption": "diwali Wishes"
     },
     {
-        "id": 19,
+        "id": 7,
         "imageUrl": "assets/img/newsevents/divali-enadu-paper-adv.png",
         "caption": "divali enadu paper adv"
     },
     {
-        "id": 18,
+        "id": 6,
         "imageUrl": "assets/img/newsevents/nutrition-powder-packets-distributed-5.png",
         "caption": "ek bharat shreshta barat"
     },
-   
-    
     {
-        "id": 15,
+        "id": 5,
         "imageUrl": "assets/img/newsevents/Leprosy.png",
         "caption": "phirese udaan"
-    }
-    ,
+    },
     {
-        "id": 14,
+        "id": 4,
         "imageUrl": "assets/img/newsevents/merite-scoller-two.png",
         "caption": "phirese udaan"
-    }
-    ,
-    
-
-  
+    },
     {
-        "id": 11,
+        "id": 3,
         "imageUrl": "assets/img/newsevents/tenali-double-horse-all-products-img.png",
         "caption": "Image 2"
-    }
-    ,  
-    {
-        "id": 10,
-        "imageUrl": "assets/img/newsevents/the-changemaker-of-india.png",
-        "caption": "Image 2"
-    }
-    ,
-   
-   
+    },
     {
         "id": 2,
+        "imageUrl": "assets/img/newsevents/the-changemaker-of-india.png",
+        "caption": "Image 2"
+    },
+    {
+        "id": 1,
         "imageUrl": "assets/img/newsevents/industrial-visit-to-tenali-double-horse-09-jan-2023.png"
     }
 ]
