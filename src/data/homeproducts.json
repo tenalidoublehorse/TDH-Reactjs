@@ -316,20 +316,20 @@
         ]
     },
     {
-        "id": 4,
-        "img": "assets/img/home/tdh-husked-urad-dall.png",
-        "img2": "assets/img/prods-sm/tdh-husked-urad-dall.png",
-        "img3": "assets/img/prods-sm/tdh-husked-urad-dall.png",
-        "img4": "assets/img/prods-sm/tdh-husked-urad-dall.png",
+        "id": 9,
+        "img": "./assets/img/home/tenali-double-horse-idly-rava.png",
+        "img2": "assets/img/prods-sm/idly/tenali-double-horse-idly-rava-1.png",
+        "img3": "assets/img/home/new-idly-ravva.png",
+        "img4": "assets/img/prods-sm/idly/tenali-double-horse-idly-rava-2.png",
         "productsafetyimg1": "assets/img/safety-images/no-colora.png",
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Husked Black Gram  1kg",
-        "shortdesc": "Tenali double horse-husked black gram Dall is rich in nutrients, and Urad dall is naturally rich in protein and high in dietary fiber.",
-        "price": 175.00,
+        "name": "Premium Idly Ravva 1Kg",
+        "shortdesc": "Fine-textured semolina is used to make traditional South Indian idlis, offering a fluffy and nutritious breakfast option.",
+        "price": 60.00,
         "symbol": "₹",
-        "urls": "https://amzn.eu/d/0O3t9IJ",
+        "urls": "https://amzn.eu/d/5o6j5U2/",
         "rating": 4,
         "category": [
             1,
@@ -343,8 +343,14 @@
         "countery": "ind",
         "bulletpoints": [
             {
+                "Speciality": "suitable for vegetarians",
+                "Diet Type": "Vegetarian",
                 "Weight ": "1 Kilograms",
-                "Region of Origin": "india"
+                "Premium Quality": "Our Idly Ravva is made from the highest quality ingredients, ensuring superior taste and texture for your idlis.",
+                "Soft and Fluffy Idlis": " Experience the joy of soft, fluffy idlis with our specially crafted idli rava.",
+                "100% Natural": "We believe in providing you with authentic products, free from artificial additives or preservatives.",
+                "Easy To Cook": "Prepare delicious idlis effortlessly with our Idly Ravva. Just follow the simple instructions and enjoy a homemade feast",
+                "Nutritionally Rich": "Our idli rava is packed with essential nutrients, making it a healthy choice for you and your family."
             }
         ],
         "sizes": [
@@ -363,9 +369,8 @@
         ],
         "sku": "N/A",
         "tags": [
-            1,
-            4,
             5,
+            4,
             7
         ],
         "attributes": [
@@ -426,7 +431,7 @@
                 ]
             }
         ],
-        "longdescription": "This hygienically packed Husked Black Gram Dall whole pack of 2 helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein. You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Husked Black Gram Dall.",
+        "longdescription": "Discover the secret to making perfect idlis every time with Tenali Double Horse Idly Ravva. Our premium-quality idli rava is specially crafted to deliver soft, fluffy, and delicious idlis that will tantalize your taste buds. Made from the finest ingredients, this 100% natural and authentic idly ravva guarantees a delightful culinary experience.",
         "reviews": [
             {
                 "img": "assets/img/people/1.jpg",
@@ -436,140 +441,7 @@
             }
         ]
     },
-    {
-        "id": 5,
-        "img": "assets/img/home/tdh-black-grams.png",
-        "img2": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Urad-Dall-1457X1457-4.png",
-        "img3": "assets/img/prods-sm/Tenali-Double-Horse-Black-Gram-Rounds-300x300.png",
-        "img4": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Urad-Dall-1457X1457-4.png",
-        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
-        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
-        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
-        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Black Gram 1kg",
-        "shortdesc": "Tenali Double Horse Black Gram Dall is rich in nutrients, and Urad Dall is naturally rich in protein and high in dietary fiber.",
-        "price": 185.00,
-        "symbol": "₹",
-        "urls": "https://amzn.eu/d/51gEpmI",
-        "rating": 4,
-        "category": [
-            1,
-            5,
-            7,
-            8,
-            9,
-            10,
-            11
-        ],
-        "countery": "ind",
-        "bulletpoints": [
-            {
-                "Weight ": "1 Kilograms"
-            }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku": "N/A",
-        "tags": [
-            1,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-                "type": "radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice": 372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    },
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    },
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    },
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    },
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    },
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    },
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription": "Experience the unmatched quality and exquisite flavor of Tenali Double Horse Black Gram. Revered for its absolute purity and sumptuous taste, our black gram is a kitchen staple that transcends culinary boundaries. Regardless of your expertise in the kitchen, whether you're a seasoned chef or an eager home cook, our Black Gram will elevate your culinary creations to an entirely new level of excellence.",
-        "reviews": [
-            {
-                "img": "assets/img/people/1.jpg",
-                "name": "Henry Crow",
-                "date": "January 13 2021",
-                "rating": 4,
-                "comment": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
-            },
-            {
-                "img": "assets/img/people/2.jpg",
-                "name": "Ilyn Rodrick",
-                "date": "January 13 2021",
-                "rating": 4,
-                "comment": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
-            },
-            {
-                "img": "assets/img/people/3.jpg",
-                "name": "Fiyona Lumber",
-                "date": "January 13 2021",
-                "rating": 4,
-                "comment": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney    "
-            }
-        ]
-    },
+   
     {
         "id": 6,
         "img": "./assets/img/home/tenali-double-horse-toor-dall.png",
@@ -935,20 +807,20 @@
         ]
     },
     {
-        "id": 9,
-        "img": "./assets/img/home/tenali-double-horse-idly-rava.png",
-        "img2": "assets/img/prods-sm/idly/tenali-double-horse-idly-rava-1.png",
-        "img3": "assets/img/home/new-idly-ravva.png",
-        "img4": "assets/img/prods-sm/idly/tenali-double-horse-idly-rava-2.png",
+        "id": 4,
+        "img": "assets/img/home/tdh-husked-urad-dall.png",
+        "img2": "assets/img/prods-sm/tdh-husked-urad-dall.png",
+        "img3": "assets/img/prods-sm/tdh-husked-urad-dall.png",
+        "img4": "assets/img/prods-sm/tdh-husked-urad-dall.png",
         "productsafetyimg1": "assets/img/safety-images/no-colora.png",
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Idly Ravva 1Kg",
-        "shortdesc": "Fine-textured semolina is used to make traditional South Indian idlis, offering a fluffy and nutritious breakfast option.",
-        "price": 60.00,
+        "name": "Premium Husked Black Gram  1kg",
+        "shortdesc": "Tenali double horse-husked black gram Dall is rich in nutrients, and Urad dall is naturally rich in protein and high in dietary fiber.",
+        "price": 175.00,
         "symbol": "₹",
-        "urls": "https://amzn.eu/d/5o6j5U2/",
+        "urls": "https://amzn.eu/d/0O3t9IJ",
         "rating": 4,
         "category": [
             1,
@@ -962,14 +834,8 @@
         "countery": "ind",
         "bulletpoints": [
             {
-                "Speciality": "suitable for vegetarians",
-                "Diet Type": "Vegetarian",
                 "Weight ": "1 Kilograms",
-                "Premium Quality": "Our Idly Ravva is made from the highest quality ingredients, ensuring superior taste and texture for your idlis.",
-                "Soft and Fluffy Idlis": " Experience the joy of soft, fluffy idlis with our specially crafted idli rava.",
-                "100% Natural": "We believe in providing you with authentic products, free from artificial additives or preservatives.",
-                "Easy To Cook": "Prepare delicious idlis effortlessly with our Idly Ravva. Just follow the simple instructions and enjoy a homemade feast",
-                "Nutritionally Rich": "Our idli rava is packed with essential nutrients, making it a healthy choice for you and your family."
+                "Region of Origin": "india"
             }
         ],
         "sizes": [
@@ -988,7 +854,127 @@
         ],
         "sku": "N/A",
         "tags": [
+            1,
+            4,
             5,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+                "type": "radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice": 372.31,
+                        "state": true
+                    },
+                    {
+                        "title": "Protein(g)",
+                        "addprice": 24.01,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    },
+                    {
+                        "title": "Total Fat(g)",
+                        "addprice": 2.67,
+                        "state": false
+                    },
+                    {
+                        "title": "Saturated Fat(g)",
+                        "addprice": 65.00,
+                        "state": false
+                    },
+                    {
+                        "title": "Carbohydrate(g)",
+                        "addprice": 0.23,
+                        "state": false
+                    },
+                    {
+                        "title": "Dietary fiber(g)",
+                        "addprice": 17.80,
+                        "state": false
+                    },
+                    {
+                        "title": "Sodium (mg)",
+                        "addprice": 401.20,
+                        "state": false
+                    },
+                    {
+                        "title": "calcium(mg)",
+                        "addprice": 1364.80,
+                        "state": false
+                    },
+                    {
+                        "title": "iron(mg)",
+                        "addprice": 61.27,
+                        "state": false
+                    }
+                ]
+            }
+        ],
+        "longdescription": "This hygienically packed Husked Black Gram Dall whole pack of 2 helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein. You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Husked Black Gram Dall.",
+        "reviews": [
+            {
+                "img": "assets/img/people/1.jpg",
+                "name": "",
+                "date": "",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "assets/img/home/tdh-black-grams.png",
+        "img2": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Urad-Dall-1457X1457-4.png",
+        "img3": "assets/img/prods-sm/Tenali-Double-Horse-Black-Gram-Rounds-300x300.png",
+        "img4": "assets/img/prods-sm/husked-urad-dall/Tenali-Double-Horse-Urad-Dall-1457X1457-4.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Premium Black Gram 1kg",
+        "shortdesc": "Tenali Double Horse Black Gram Dall is rich in nutrients, and Urad Dall is naturally rich in protein and high in dietary fiber.",
+        "price": 185.00,
+        "symbol": "₹",
+        "urls": "https://amzn.eu/d/51gEpmI",
+        "rating": 4,
+        "category": [
+            1,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "countery": "ind",
+        "bulletpoints": [
+            {
+                "Weight ": "1 Kilograms"
+            }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku": "N/A",
+        "tags": [
+            1,
             4,
             7
         ],
@@ -1050,13 +1036,28 @@
                 ]
             }
         ],
-        "longdescription": "Discover the secret to making perfect idlis every time with Tenali Double Horse Idly Ravva. Our premium-quality idli rava is specially crafted to deliver soft, fluffy, and delicious idlis that will tantalize your taste buds. Made from the finest ingredients, this 100% natural and authentic idly ravva guarantees a delightful culinary experience.",
+        "longdescription": "Experience the unmatched quality and exquisite flavor of Tenali Double Horse Black Gram. Revered for its absolute purity and sumptuous taste, our black gram is a kitchen staple that transcends culinary boundaries. Regardless of your expertise in the kitchen, whether you're a seasoned chef or an eager home cook, our Black Gram will elevate your culinary creations to an entirely new level of excellence.",
         "reviews": [
             {
                 "img": "assets/img/people/1.jpg",
-                "name": "",
-                "date": "",
-                "comment": ""
+                "name": "Henry Crow",
+                "date": "January 13 2021",
+                "rating": 4,
+                "comment": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            },
+            {
+                "img": "assets/img/people/2.jpg",
+                "name": "Ilyn Rodrick",
+                "date": "January 13 2021",
+                "rating": 4,
+                "comment": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+            },
+            {
+                "img": "assets/img/people/3.jpg",
+                "name": "Fiyona Lumber",
+                "date": "January 13 2021",
+                "rating": 4,
+                "comment": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney    "
             }
         ]
     }

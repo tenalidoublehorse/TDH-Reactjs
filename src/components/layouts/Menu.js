@@ -31,7 +31,7 @@ class Menu extends Component {
                                                     <Fragment>
                                                         <li className="menu-item">
                                                             {/* <button>tdhf</button> */}
-                                                            <a href="https://tdhfoodproducts.com/" target="_blank" rel="noopener noreferrer">TDHF Products</a>
+                                                            <a href="https://tdhfoodproducts.com/" target="_blank" rel="noopener noreferrer">TDH Rishika</a>
                                                         </li>
                                                     </Fragment>
                                                 ) : null}

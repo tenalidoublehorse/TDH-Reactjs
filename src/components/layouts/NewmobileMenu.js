@@ -48,7 +48,7 @@ class Mobilemenu extends HeaderComponent {
                                             <Fragment>
                                                
                                                 <li className="menu-item">
-                                                    <a href="https://tdhfoodproducts.com/" target="_blank" rel="noopener noreferrer">TDHF Products</a>
+                                                    <a href="https://tdhfoodproducts.com/" target="_blank" rel="noopener noreferrer">TDH Rishika</a>
                                                 </li>
                                             </Fragment>
                                         )}

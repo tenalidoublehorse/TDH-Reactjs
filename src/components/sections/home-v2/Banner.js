@@ -77,7 +77,7 @@ const Indusbanner = () => {
         {items.map((item, i) => (
           <img
             key={i}
-            src={'https://codkraft.com'+item.Image}
+            src={'https://codkraft.com' + item.Image}
             alt={item.Title}
             onClick={() => handleImageClick(item.id)}
           />

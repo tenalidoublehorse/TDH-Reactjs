@@ -191,7 +191,7 @@ class Content extends Component {
                                         <Nav.Link eventKey="tab1">Consumer Packs</Nav.Link>
                                     </Nav.Item>
                                     <Nav.Item>
-                                        <Nav.Link eventKey="tab2">Bulk Packs </Nav.Link>
+                                        <Nav.Link eventKey="tab2">Commercial Packs </Nav.Link>
                                     </Nav.Item>
                                 </Nav>
                                 <Tab.Content>
