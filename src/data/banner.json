@@ -30,6 +30,10 @@
     "hometwo":[
         {
             "id":5,
+            "bg":"assets/img/banner/tdh-lalbahadur-sastribanner.png"
+        },
+        {
+            "id":6,
             "bg":"assets/img/banner/Indus-foods-new-banner.png"
         }
     ],
