@@ -13,7 +13,7 @@
 
         
         "name": "Premium Urad Gota 1Kg",
-        "shortdesc": "Round Urad Gota is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "shortdesc": "Premium Urad Gota is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
         "price": 220.00,
         "symbol":"₹",
         "urls":"https://amzn.eu/d/ipLSbEe/",
@@ -66,7 +66,7 @@
                 ]
             }
         ],
-        "longdescription":"Urad Gota is used for preparing idly, dosa, vada, and other Indian recipes. It is a protein-rich food, and its quality is determined by the softness of the batter and the taste of the recipe. Tenali Double Horse Urad Gota is the best choice as it is procured from the best farmers and fields across India. It is processed in hygienic conditions and packed in sustainable packing punches to ensure that the freshness lasts for a long time. ",
+        "longdescription":"Premium Urad Gota is used for preparing idly, dosa, vada, and other Indian recipes. It is a protein-rich food, and its quality is determined by the softness of the batter and the taste of the recipe. Tenali Double Horse Urad Gota is the best choice as it is procured from the best farmers and fields across India. It is processed in hygienic conditions and packed in sustainable packing punches to ensure that the freshness lasts for a long time. ",
         "reviews":[
             {
                 "img":"assets/img/people/1.jpg",
@@ -252,8 +252,6 @@
         "countery":"ind",
         "bulletpoints": [
             {
-                "Speciality":"suitable for vegetarians",
-                "Diet Type":"Vegetarian",
                 "Weight ":"1 Kilograms",
                 "Premium Quality":"Our Idly Ravva is made from the highest quality ingredients, ensuring superior taste and texture for your idlis.",
                 "Soft and Fluffy Idlis":" Experience the joy of soft, fluffy idlis with our specially crafted idli rava.",
@@ -292,58 +290,6 @@
                         "title": "Energy(Kcal)",
                         "addprice":372.31,
                         "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
                     }
                 ]
             }
@@ -448,7 +394,7 @@
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
         "name": "Premium Moong Dall 1/2 kg",
-        "shortdesc": "Moong Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "shortdesc": "Premium Moong Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
         "price":90.00,
         "symbol":"₹",
         "urls":"https://www.amazon.in/dp/B0BJ784MMY?ref=myi_title_dp ",
@@ -706,7 +652,7 @@
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
         "name": "Premium Husked Black Gram Dall 1kg",
-        "shortdesc": "Tenali double horse-husked black gram Dall is rich in nutrients, and Urad dall is naturally rich in protein and high in dietary fiber.",
+        "shortdesc": "Tenali double horse Premium husked black gram Dall is rich in nutrients, and Urad dall is naturally rich in protein and high in dietary fiber.",
         "price": 175.00,
         "symbol":"₹",
         "urls":"https://amzn.eu/d/0O3t9IJ",
@@ -719,7 +665,6 @@
         "bulletpoints": [
             {
                 "Speciality":"Chemical Free, High Fiber",
-                "Diet Type":"Vegetarian",
                 "Weight ":"1 Kilograms",
                 "Region of Origin":"india"
                 }
@@ -759,7 +704,7 @@
                 ]
             }
         ],
-        "longdescription":"This hygienically packed Husked Black Gram Dall whole pack of 2 helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein. You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Husked Black Gram Dall.",
+        "longdescription":"This hygienically packed Premium Husked Black Gram Dall whole pack of 2 helps you be active by boosting energy levels. It is good for digestion and also prevents constipation as it is enriched with dietary fiber and protein. You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Husked Black Gram Dall.",
         "reviews":[
             {
                 "img":"assets/img/people/1.jpg",
@@ -782,7 +727,7 @@
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
         "name": "Premium Black Gram 1kg",
-        "shortdesc": "Tenali Double Horse Black Gram Dall is rich in nutrients, and Urad Dall is naturally rich in protein and high in dietary fiber.",
+        "shortdesc": "Tenali Double Horse Premium Black Gram Dall is rich in nutrients, and Urad Dall is naturally rich in protein and high in dietary fiber.",
         "price": 185.00,
         "symbol":"₹",
         "urls":"https://amzn.eu/d/51gEpmI",
@@ -795,7 +740,6 @@
         "bulletpoints": [
             {
                 "Speciality":"No chemicals, pesticides, preservatives",
-                "Diet Type":"Vegetarian",
                 "Weight ":"1 Kilograms"
                 }
         ],
@@ -859,33 +803,28 @@
         ]
     },
 
-    
-   
     {
-        "id": 10,
-        "img": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
-        "img2": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
-        "img3": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
-        "img4": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
+        "id": 29,
+        "img": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
         "productsafetyimg1": "assets/img/safety-images/no-colora.png",
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Idly Ravva 30kgs  & 50kgs",
-        "shortdesc": "Fine-textured semolina is used to make traditional South Indian idlis, offering a fluffy and nutritious breakfast option.",
-        "price": 0.00,
+        "name": "Premium Urad Rounds 30kgs & 50kgs",
+        "shortdesc": "We source the finest Premium Urad Rounds  from trusted farms, ensuring each Urad Round is made from the best ingredients available.",
+        "price":0.00,
         "urls":"",
         "rating": 4,
         "category": [
-            
             2
         ],
         "countery":"ind",
         "bulletpoints": [
             {
-                "Speciality":"suitable for vegetarians",
-                "Diet Type":"Vegetarian",
-                "Weight ":"1 Kilograms"
+                "Weight ":"30kgs & 50kgs"
                 }
         ],
         "sizes": [
@@ -904,130 +843,7 @@
         ],
         "sku":"N/A",
         "tags": [
-            1,
-            2,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Discover the secret to making perfect idlis every time with Tenali Double Horse Idly Ravva. Our premium-quality idli rava is specially crafted to deliver soft, fluffy, and delicious idlis that will tantalize your taste buds. Made from the finest ingredients, this 100% natural and authentic idly ravva guarantees a delightful culinary experience.",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"",
-                "date":"",
-               
-                "comment":""
-            }
-        ]
-    },
-    {
-        "id": 11,
-        "img": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
-        "img2": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
-        "img3": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
-        "img4": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
-        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
-        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
-        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
-        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Orid Rounds ",
-        "shortdesc": "Experience the Richness of Orid Rounds by Tenali Double Horse",
-        "price": 0.00,
-        "urls":"",
-        "rating": 4,
-        "category": [
- 
-        ],
-        "countery":"ind",
-        "bulletpoints": [
-            {
-                "Speciality":"suitable for vegetarians",
-                "Diet Type":"Vegetarian",
-                "Weight ":"1 Kilograms"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            1,
+            5,
             4,
             7
         ],
@@ -1041,69 +857,17 @@
                         "title": "Energy(Kcal)",
                         "addprice":372.31,
                         "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
                     }
                 ]
             }
         ],
-        "longdescription":"Savor the crispy goodness of Tenali Double Horse Orid Rounds and embark on a flavorful journey that transcends time and tradition. With each bite, you'll experience the dedication and craftsmanship that go into creating these mouthwatering treats. Bring home a pack of Orid Rounds today and discover why Tenali Double Horse is a trusted name for authentic, quality snacks. Treat yourself to the taste of tradition and make every snack time a memorable experience. Order now and indulge in the finest! ",
+        "longdescription":"Introducing Tenali Double Horse Urad Rounds, the quintessential choice for those who crave the authentic taste of traditional Indian cuisine. Crafted with precision and care, our Urad Rounds are the epitome of purity and flavor, capturing the essence of age-old culinary traditions in every bite.",
         "reviews":[
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"",
                 "date":"",
-              
+               
                 "comment":""
             }
         ]
@@ -1118,8 +882,8 @@
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Urad Dall 30kgs & 50kgs",
-        "shortdesc": "Urad Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
+        "name": "Premium MahaRaja Urad Dall 30kgs & 50kgs",
+        "shortdesc": "Premium MahaRaja Urad Dall is the choicest, procured from the best farms and fields in the country and packed under hygienic conditions.",
         "price": 0.00,
         "urls":"",
         "rating": 4,
@@ -1283,6 +1047,295 @@
                         "title": "Energy(Kcal)",
                         "addprice":372.31,
                         "state": true
+                    }
+                ]
+            }
+        ],
+        "longdescription":"This hygienically packed pack of 30 kg whole urad Gota white helps you to be active by boosting energy levels It is good for digestion and also prevents constipation as it is enriched with Dietary Fiber and Protein You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Urad Dall (Whole). It features an unpolished texture, which helps retain its wholesome benefits. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "img": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Premium Urad Chakki Dal (M2) 30kgs & 50kgs",
+        "shortdesc": "Are you in search of premium-quality, wholesome lentils to elevate your culinary creations? Look no further than Urad Chakki Dal M2, proudly presented by the renowned brand, Tenali Double Horse.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+   
+           2
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "1":"Processed with Desi Black Gram",
+                "2": "Procurement from the best harvesting fields",
+                "3": "Naturally processed, No added preservatives",
+                "4": "Pure Chakki",
+                "5": "Processed in first fully atomized plant in south India",
+                "6": "Packed without hand touch",
+                "7": "The best in quality, taste & yielding",
+                "8": "Process cared by committed & 18 years experience employees",
+                "9": "Plant certified with ISO 9001, ISO 22000"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Are you in search of premium-quality, wholesome lentils to elevate your culinary creations? Look no further than Urad Chakki Dal M2, proudly presented by the renowned brand, Tenali Double Horse. Our 30kg pack of Urad Chakki Dal M2 is the epitome of purity and taste, making it the perfect addition to your kitchen pantry. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "img": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
+        "img2": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
+        "img3": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
+        "img4": "assets/img/prods-sm/tenali-double -horse-idly-rava-thirty-kgs.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Premium Idly Ravva 30kgs",
+        "shortdesc": "Fine-textured semolina is used to make traditional South Indian idlis, offering a fluffy and nutritious breakfast option.",
+        "price": 0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            
+            2
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"30kgs "
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            2,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Discover the secret to making perfect idlis every time with Tenali Double Horse Idly Ravva. Our premium-quality idli rava is specially crafted to deliver soft, fluffy, and delicious idlis that will tantalize your taste buds. Made from the finest ingredients, this 100% natural and authentic idly ravva guarantees a delightful culinary experience.",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
+    }
+    ,
+    {
+        "id": 27,
+        "img": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Premium Toor Dall 30Kgs",
+        "shortdesc": "Premium Toor Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+           2
+        ],
+        "bulletpoints": [
+            {
+                "Weight ":"30Kgs"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. It is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .It is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"Henry Crow",
+                "date":"January 13 2021",
+                "rating":4,
+                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 11,
+        "img": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
+        "img2": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
+        "img3": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
+        "img4": "assets/img/prods-sm/tenali-double -horse-Orid-rounds.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Orid Rounds ",
+        "shortdesc": "Experience the Richness of Orid Rounds by Tenali Double Horse",
+        "price": 0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+ 
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Speciality":"suitable for vegetarians",
+                "Diet Type":"Vegetarian",
+                "Weight ":"1 Kilograms"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            1,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
                     },
                     {
                         "title": "Protein(g)",
@@ -1339,17 +1392,18 @@
                 ]
             }
         ],
-        "longdescription":"This hygienically packed pack of 30 kg whole urad Gota white helps you to be active by boosting energy levels It is good for digestion and also prevents constipation as it is enriched with Dietary Fiber and Protein You can create a variety of everyday meals replete with delicious flavor and nutritious protein by using the Tenali Double Horse Urad Dall (Whole). It features an unpolished texture, which helps retain its wholesome benefits. ",
+        "longdescription":"Savor the crispy goodness of Tenali Double Horse Orid Rounds and embark on a flavorful journey that transcends time and tradition. With each bite, you'll experience the dedication and craftsmanship that go into creating these mouthwatering treats. Bring home a pack of Orid Rounds today and discover why Tenali Double Horse is a trusted name for authentic, quality snacks. Treat yourself to the taste of tradition and make every snack time a memorable experience. Order now and indulge in the finest! ",
         "reviews":[
             {
                 "img":"assets/img/people/1.jpg",
                 "name":"",
                 "date":"",
-               
+              
                 "comment":""
             }
         ]
     },
+    
    
     
     {
@@ -1498,8 +1552,6 @@
         "countery":"qtr",
         "bulletpoints": [
             {
-                "Speciality":"suitable for vegetarians",
-                "Diet Type":"Vegetarian",
                 "Weight ":"1 Kilograms"
                 }
         ],
@@ -1533,58 +1585,6 @@
                         "title": "Energy(Kcal)",
                         "addprice":372.31,
                         "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
                     }
                 ]
             }
@@ -2850,6 +2850,146 @@
                 "comment":""
             }
         ]
+    }
+    ,
+    {
+        "id": 26,
+        "img": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Premium Chana Dall 30kgs ",
+        "shortdesc": "Elevate your culinary experience with the finest Chana Dal brought to you by Tenali Double Horse. Sourced from the heartlands of India",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+            2
+        ],
+        "countery":"ind",
+        "bulletpoints": [
+            {
+                "Weight ":"30kgs"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Experience the convenience of bulk cooking without compromising on quality. With our 30kg mega pack, you're all set to embark on a culinary journey filled with delicious flavors and wholesome nutrition. Order yours today and discover why Tenali Double Horse Chana Dal is the preferred choice of discerning chefs and home cooks. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+                "rating":4,
+                "comment":""
+            }
+        ]
+    }
+   
+    ,
+    {
+        "id": 28,
+        "img": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
+        "img2": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
+        "img3": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
+        "img4": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
+        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
+        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
+        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
+        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
+        "name": "Premium Moong Dall 30kgs",
+        "shortdesc": "Premium Moong Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions",
+        "price":0.00,
+        "urls":"",
+        "rating": 4,
+        "category": [
+           2
+        ],
+        "bulletpoints": [
+            {
+                "Weight ":"30kgs"
+                }
+        ],
+        "sizes": [
+            {
+                "size": "11",
+                "state": true
+            },
+            {
+                "size": "16",
+                "state": false
+            },
+            {
+                "size": "21",
+                "state": false
+            }
+        ],
+        "sku":"N/A",
+        "tags": [
+            5,
+            4,
+            7
+        ],
+        "attributes": [
+            {
+                "name": "Nutrition Facts",
+               
+                "type":"radio",
+                "items": [
+                    {
+                        "title": "Energy(Kcal)",
+                        "addprice":372.31,
+                        "state": true
+                    }
+                ]
+            }
+        ],
+        "longdescription":"Elevate your cooking with the finest Moong Dal in a generous 30kg quantity. Explore the limitless possibilities of your kitchen with premium quality and exceptional taste. Place your order for the 30kg bulk pack today and embark on a culinary journey that gratifies both your palate and your passion for cooking. ",
+        "reviews":[
+            {
+                "img":"assets/img/people/1.jpg",
+                "name":"",
+                "date":"",
+               
+                "comment":""
+            }
+        ]
     } ,
     {
         "id": 25,
@@ -2861,7 +3001,7 @@
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Husked Black gram 30kgs & 50kgs",
+        "name": "Premium Husked Black gram 30kgs ",
         "shortdesc": "Tenali double-horse-husked black gram dall is rich in nutrients and is naturally rich in protein and high in dietary fiber.",
         "price":0.00,
         "urls":"",
@@ -2872,7 +3012,7 @@
         "countery":"ind",
         "bulletpoints": [
             {
-                "Weight ":"30kgs & 50kgs"
+                "Weight ":"30kgs"
                 }
         ],
         "sizes": [
@@ -2972,636 +3112,7 @@
             }
         ]
     }
-    ,
-    {
-        "id": 26,
-        "img": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
-        "img2": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
-        "img3": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
-        "img4": "assets/img/prods-sm/tenali-double-horse-husked-chana-dall-thirty-kgs-pack.png",
-        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
-        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
-        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
-        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Chana Dall 30kgs & 50kgs",
-        "shortdesc": "Elevate your culinary experience with the finest Chana Dal brought to you by Tenali Double Horse. Sourced from the heartlands of India",
-        "price":0.00,
-        "urls":"",
-        "rating": 4,
-        "category": [
-            2
-        ],
-        "countery":"ind",
-        "bulletpoints": [
-            {
-                "Weight ":"30kgs & 50kgs"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Experience the convenience of bulk cooking without compromising on quality. With our 30kg mega pack, you're all set to embark on a culinary journey filled with delicious flavors and wholesome nutrition. Order yours today and discover why Tenali Double Horse Chana Dal is the preferred choice of discerning chefs and home cooks. ",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"",
-                "date":"",
-                "rating":4,
-                "comment":""
-            }
-        ]
-    }
-    ,
-    {
-        "id": 27,
-        "img": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
-        "img2": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
-        "img3": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
-        "img4": "assets/img/prods-sm/tenali-double-horse-husked-toor-dall-thirty-kgs-pack.png",
-        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
-        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
-        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
-        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Toor Dall 30Kgs & 50kgs",
-        "shortdesc": "Toor Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
-        "price":0.00,
-        "urls":"",
-        "rating": 4,
-        "category": [
-           2
-        ],
-        "bulletpoints": [
-            {
-                "Weight ":"30Kgs & 50kgs"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Urad Gota is used for preparing idly ,dosa,vada,and other indian recepies. It is a protein rich food and its qaulity is determined by the softness of the batter and taste of the recipe .Tenali Double Horse  urad gota is the best choice as it is procured from the best framers& fields across India .It is processes in hygenical conditions and packed in substainable packing pounches to ensure that the freshness tasts for long time. ",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"Henry Crow",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected humour, or randomised words which don't look even slightly"
-            },
-            {
-                "img":"assets/img/people/2.jpg",
-                "name":"Ilyn Rodrick",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
-            },
-            {
-                "img":"assets/img/people/3.jpg",
-                "name":"Fiyona Lumber",
-                "date":"January 13 2021",
-                "rating":4,
-                "comment":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney    "
-            }
-        ]
-    }
-    ,
-    {
-        "id": 28,
-        "img": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
-        "img2": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
-        "img3": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
-        "img4": "assets/img/prods-sm/tenali-double-horse-moong-dall-thirty-kgs-pack.png",
-        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
-        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
-        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
-        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Moong Dall 30kgs & 50kgs",
-        "shortdesc": "Moong Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions",
-        "price":0.00,
-        "urls":"",
-        "rating": 4,
-        "category": [
-           2
-        ],
-        "bulletpoints": [
-            {
-                "Weight ":"30kgs & 50kgs"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Elevate your cooking with the finest Moong Dal in a generous 30kg quantity. Explore the limitless possibilities of your kitchen with premium quality and exceptional taste. Place your order for the 30kg bulk pack today and embark on a culinary journey that gratifies both your palate and your passion for cooking. ",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"",
-                "date":"",
-               
-                "comment":""
-            }
-        ]
-    }
-    ,
-    {
-        "id": 29,
-        "img": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
-        "img2": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
-        "img3": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
-        "img4": "assets/img/prods-sm/tenali-double-horse-urad-rounds.png",
-        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
-        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
-        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
-        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Urad Rounds 30kgs & 50kgs",
-        "shortdesc": "We source the finest Urad Dal from trusted farms, ensuring each Urad Round is made from the best ingredients available.",
-        "price":0.00,
-        "urls":"",
-        "rating": 4,
-        "category": [
-            2
-        ],
-        "countery":"ind",
-        "bulletpoints": [
-            {
-                "Weight ":"30kgs & 50kgs"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Introducing Tenali Double Horse Urad Rounds, the quintessential choice for those who crave the authentic taste of traditional Indian cuisine. Crafted with precision and care, our Urad Rounds are the epitome of purity and flavor, capturing the essence of age-old culinary traditions in every bite.",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"",
-                "date":"",
-               
-                "comment":""
-            }
-        ]
-    },
-    {
-        "id": 31,
-        "img": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
-        "img2": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
-        "img3": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
-        "img4": "assets/img/prods-sm/tenali-double-horse-m2-bag.png",
-        "productsafetyimg1": "assets/img/safety-images/no-colora.png",
-        "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
-        "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
-        "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Urad Chakki Dal (M2) 30kgs & 50kgs",
-        "shortdesc": "Are you in search of premium-quality, wholesome lentils to elevate your culinary creations? Look no further than Urad Chakki Dal M2, proudly presented by the renowned brand, Tenali Double Horse.",
-        "price":0.00,
-        "urls":"",
-        "rating": 4,
-        "category": [
    
-           2
-        ],
-        "countery":"ind",
-        "bulletpoints": [
-            {
-                "1":"Processed with Desi Black Gram",
-                "2": "Procurement from the best harvesting fields",
-                "3": "Naturally processed, No added preservatives",
-                "4": "Pure Chakki",
-                "5": "Processed in first fully atomized plant in south India",
-                "6": "Packed without hand touch",
-                "7": "The best in quality, taste & yielding",
-                "8": "Process cared by committed & 18 years experience employees",
-                "9": "Plant certified with ISO 9001, ISO 22000"
-                }
-        ],
-        "sizes": [
-            {
-                "size": "11",
-                "state": true
-            },
-            {
-                "size": "16",
-                "state": false
-            },
-            {
-                "size": "21",
-                "state": false
-            }
-        ],
-        "sku":"N/A",
-        "tags": [
-            5,
-            4,
-            7
-        ],
-        "attributes": [
-            {
-                "name": "Nutrition Facts",
-               
-                "type":"radio",
-                "items": [
-                    {
-                        "title": "Energy(Kcal)",
-                        "addprice":372.31,
-                        "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
-                    }
-                ]
-            }
-        ],
-        "longdescription":"Are you in search of premium-quality, wholesome lentils to elevate your culinary creations? Look no further than Urad Chakki Dal M2, proudly presented by the renowned brand, Tenali Double Horse. Our 30kg pack of Urad Chakki Dal M2 is the epitome of purity and taste, making it the perfect addition to your kitchen pantry. ",
-        "reviews":[
-            {
-                "img":"assets/img/people/1.jpg",
-                "name":"",
-                "date":"",
-               
-                "comment":""
-            }
-        ]
-    }
     
 ]
     

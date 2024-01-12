@@ -75,7 +75,7 @@ previous() {
                                     </Link>
                                     <div className="product-body">
                                         <div className="product-desc">
-                                            <h4> <Link to={"/menu-item-v1/" + item.id}>{item.name}</Link> </h4>
+                                            <h4> <Link >{item.name}</Link> </h4>
                                             <p className='pro-desc-content'>{item.shortdesc}</p>
                                         </div>
                                         <a href={item.urls} target='_blank' className="btn-custom">Shop Now </a>

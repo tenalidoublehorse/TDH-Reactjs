@@ -1063,7 +1063,7 @@
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Idly Rava 30kgs & 50kgs",
+        "name": "Premium Idly Rava 30kgs",
         "shortdesc": "Fine-textured semolina is used to make traditional South Indian idlis, offering a fluffy and nutritious breakfast option.",
         "price": 0.00,
         "urls":"",
@@ -1075,7 +1075,7 @@
         "countery":"ind",
         "bulletpoints": [
             {
-                "Weight ":"30 kg and 50 kg"
+                "Weight ":"30 kg "
                 }
         ],
         "sizes": [
@@ -2926,8 +2926,8 @@
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium  Husked Black gram 30kgs &50 kgs",
-        "shortdesc": "Tenali double-horse-husked black gram dall is rich in nutrients and is naturally rich in protein and high in dietary fiber.",
+        "name": "Premium  Husked Black gram 30kgs",
+        "shortdesc": "Tenali double Premium horse-husked black gram dall is rich in nutrients and is naturally rich in protein and high in dietary fiber.",
         "price":0.00,
         "urls":"",
         "rating": 4,
@@ -2938,7 +2938,7 @@
         "countery":"ind",
         "bulletpoints": [
             {
-                "Weight ":"30 kgs & 50 kgs"
+                "Weight ":"30 kgs"
                 }
         ],
         "sizes": [
@@ -2971,58 +2971,6 @@
                         "title": "Energy(Kcal)",
                         "addprice":372.31,
                         "state": true
-                    },
-                    {
-                        "title": "Protein(g)",
-                        "addprice": 24.01,
-                        "state": false
-                    },
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Total Fat(g)",
-                        "addprice": 2.67,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Saturated Fat(g)",
-                        "addprice": 65.00,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Carbohydrate(g)",
-                        "addprice": 0.23,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Dietary fiber(g)",
-                        "addprice": 17.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "Sodium (mg)",
-                        "addprice": 401.20,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "calcium(mg)",
-                        "addprice": 1364.80,
-                        "state": false
-                    }
-                    ,
-                    {
-                        "title": "iron(mg)",
-                        "addprice": 61.27,
-                        "state": false
                     }
                 ]
             }
@@ -3049,7 +2997,7 @@
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Chana Dall 30kgs &50kgs",
+        "name": "Premium Chana Dall 30kgs",
         "shortdesc": "Elevate your culinary experience with the finest Chana Dal brought to you by Tenali Double Horse. Sourced from the heartlands of India",
         "price":0.00,
         "urls":"",
@@ -3061,7 +3009,7 @@
         "countery":"ind",
         "bulletpoints": [
             {
-                "Weight ":"30 kgs & 50 kgs"
+                "Weight ":"30 kgs"
                 }
         ],
         "sizes": [
@@ -3172,7 +3120,7 @@
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Toor Dall 30Kgs&50kgs",
+        "name": "Premium Toor Dall 30Kgs",
         "shortdesc": "Toor Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
         "price":0.00,
         "urls":"",
@@ -3184,7 +3132,7 @@
         "bulletpoints": [
             {
                
-                "Weight ":"30 kgs & 50 kgs"
+                "Weight ":"30 kgs"
                 }
         ],
         "sizes": [
@@ -3309,7 +3257,7 @@
         "productsafetyimg2": "assets/img/safety-images/no-presivatives.png",
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
-        "name": "Premium Moong Dall 30kgs&50kgs",
+        "name": "Premium Moong Dall 30kgs",
         "shortdesc": "Moong Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions",
         "price":0.00,
         "urls":"",
@@ -3320,7 +3268,7 @@
         ],
         "bulletpoints": [
             {
-                "Weight ":"30 kgs & 50 kgs"
+                "Weight ":"30 kgs"
                 }
         ],
         "sizes": [
