@@ -29,23 +29,23 @@ const Indusbanner = () => {
 
 
  
-  const handleMarqueeHover = () => {
-    const marquee = document.getElementById('marquee');
-    marquee.stop();
-  };
+  // const handleMarqueeHover = () => {
+  //   const marquee = document.getElementById('marquee');
+  //   marquee.stop();
+  // };
 
-  const handleMarqueeLeave = () => {
-    const marquee = document.getElementById('marquee');
-    marquee.start();
-  };
+  // const handleMarqueeLeave = () => {
+  //   const marquee = document.getElementById('marquee');
+  //   marquee.start();
+  // };
 
-  useEffect(() => {
-    const marquee = document.getElementById('marquee');
+  // useEffect(() => {
+  //   const marquee = document.getElementById('marquee');
 
-    return () => {
-      marquee.start(); // Ensure marquee starts when the component is unmounted
-    };
-  }, []);
+  //   return () => {
+  //     marquee.start(); // Ensure marquee starts when the component is unmounted
+  //   };
+  // }, []);
 
   const settings = {
     slidesToShow: 1,
@@ -83,7 +83,10 @@ const Indusbanner = () => {
           />
         ))}
       </Slider>
-      <div
+      <div className='marq-banner'>
+        <img src={process.env.PUBLIC_URL + "/assets/img/banner/TenaliDoubleHorse-IndusFood_boomark-3x52.png"} alt="img" className='' />
+        </div>
+      {/* <div
         className="header-marque"
         style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
       >
@@ -97,7 +100,7 @@ const Indusbanner = () => {
           We have recently introduced our products in UAE. For inquiries regarding exports, please
           reach out to us at 1800 270 567 567 or email us at exports@tenalidoublehorse.com.
         </marquee>
-      </div>
+      </div> */}
     </div>
   );
 };
