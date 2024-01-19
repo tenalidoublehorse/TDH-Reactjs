@@ -29,6 +29,12 @@ const gallery = [
         img: "assets/img/about/Ratnadeep.png"
     }
     ,
+    {
+        img: "assets/img/campaign/retail-ushodaya.png"
+    },
+    {
+        img: "assets/img/campaign/retail-vijetha.png"
+    }
 ];
 
 
