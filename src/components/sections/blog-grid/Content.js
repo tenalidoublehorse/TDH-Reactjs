@@ -1,9 +1,13 @@
 import React, { Component , Fragment} from 'react';
 
+import { Link } from 'react-router-dom';
+import Slider from 'react-slick';
+import $ from 'jquery';
+import 'magnific-popup';
 import Feedback from '../home/Feedback';
 import { ComposableMap, Geographies, Geography ,Marker} from "react-simple-maps";
-import { Link } from 'react-router-dom';
-import Messenger from '../home/Messenger';
+
+import India from './India';
 
 const geoUrl ="https://cdn.jsdelivr.net/npm/world-atlas@2/land-110m.json"
 
@@ -11,7 +15,7 @@ const markers = [
     {
       markerOffset: -30,
       name: "India",
-      coordinates: [78.9629, 20.5937], // India coordinates [longitude, latitude]
+      coordinates: [78.9629, 20.5937], 
     },
     {
       markerOffset: 15,
@@ -74,13 +78,58 @@ class Content extends Component {
     render() {
         return (
             <Fragment>
-              <div className="container mb-5 pt-5 pb-3">
+              <div className="fluid-container  pt-5 pb-3" style={{backgroundColor:"#F9FAE6"}}>
               <div className="section-title-wrap section-header text-center">
-                 {/* <h5 className="custom-primary text-center">Global Presence</h5> */}
-                                <h2 className="title text-center">Global Presence</h2>
-                                <p>Explore our product availability across the globe. Use the interactive world map to select countries and regions, and find out where you can enjoy the taste of Tenali Double Horse.</p>
+                
+                                <h2 className="title text-center">Nationwide Reach</h2>
+                                {/* <p>Explore our product availability across the globe. Use the interactive world map to select countries and regions, and find out where you can enjoy the taste of Tenali Double Horse.</p> */}
                                 </div>
-    <ComposableMap>
+                                <div className='container mb-5'style={{backgroundColor:"white",borderRadius:'10px'}}>
+                                <div className="row ">
+                       
+                        <div className="col-lg-6 order-2  order-lg-1 alignments d-flex flex-column">
+                        <div className="section-title-wrap mr-lg-30 mt-lg-3 mb-lg-3">
+                               
+                                <h2  style={{fontSize:'22px'}}>Our  Presence Across India</h2>
+                                <p className="subtitle" style={{ textAlign: 'justify' }}>
+                                At <b style={{color:'#77241D'}}>Tenali Double Horse</b>, our journey is driven by a vision to deliver excellence and trust in every corner of <b style={{color:'#77241D'}}>India</b>. We are proud to be available in the following states and Union Territories, contributing to our commitment of providing quality products:
+<div className='col-lg-12 d-flex flex-wrap mt-3'>
+<div className='col-lg-6 col-12'>
+                               <li><b>Andhra Pradesh</b></li>
+<li><b>Telangana</b></li>
+<li><b>Kerala</b></li>
+<li><b>Odisha</b></li>
+<li><b>Tamil Nadu</b></li>
+<li><b>Haryana</b></li>
+<li><b>Punjab</b></li>
+<li><b>Delhi</b></li>
+</div>
+<div className='col-lg-6 col-12'>
+
+<li><b>Puducherry</b></li>
+<li><b>Jharkhand</b></li>
+<li><b>Uttar Pradesh</b></li>
+<li><b>Rajasthan</b></li>
+<li><b>Assam</b></li>
+<li><b>Maharashtra</b> </li>
+<li><b>Karnataka</b></li>
+</div>
+</div>                          
+                                </p>
+                              
+
+
+                            </div>
+                           
+                        </div>
+                        <div className="col-lg-6 mb-lg-30 order-1  order-lg-2 alignments d-flex flex-column " >
+                        <img src={process.env.PUBLIC_URL + "/assets/img/about/india-map.png"} alt="img" className=' mb-2' />
+                       
+                        </div>
+                    </div>
+                    </div>
+                 
+    {/* <ComposableMap>
       <Geographies geography={geoUrl}>
         {({ geographies }) =>
           geographies.map((geo) => (
@@ -139,17 +188,66 @@ class Content extends Component {
               </Marker>
             ))}
       
-    </ComposableMap>
+    </ComposableMap> */}
+    
     <Feedback/>
     {/* <Messenger/> */}
   </div>
+  <div className="fluid-container mb-5 pt-5 pb-3" style={{backgroundColor:"#F9F9F9"}}>             
+  <div className="section-title-wrap section-header text-center">
                 
-              
+                <h2 className="title text-center">Global Presence</h2>
+                {/* <p>Explore our product availability across the globe. Use the interactive world map to select countries and regions, and find out where you can enjoy the taste of Tenali Double Horse.</p> */}
+                </div>
+                <div className='container mb-5'style={{backgroundColor:"white",borderRadius:'10px'}}>
+                <div className="row ">
+        <div className="col-lg-6 mb-lg-30 alignments d-flex flex-column " >
+        <img src={process.env.PUBLIC_URL + "/assets/img/about/worldmap-block.png"} alt="img" className=' mb-2' />
+       
+        </div>
+        <div className="col-lg-6 alignments d-flex flex-column">
+        <div className="section-title-wrap mr-lg-30 mt-lg-2 mb-lg-4">
+               
+                <h2  style={{fontSize:'22px'}}>Our Presence In India</h2>
+                <p className="subtitle" style={{ textAlign: 'justify' }}>
+                Embracing a global footprint,<b style={{color:'#77241D'}}> Tenali Double Horse</b> is dedicated to extending its promise of excellence and trust to discerning consumers across the world. Our range of products  is accessible in 12 countries, underscoring our steadfast commitment to delivering exceptional quality experiences on an <b style={{color:'#77241D'}}>international level</b>.
+                </p>
+                <div className='col-lg-12 d-flex flex-wrap mt-3'>
+<div className='col-lg-6 col-12'>
+                               
+<li><b>United States (US)</b></li>
+<li><b>United Kingdom (UK)</b></li>
+<li><b>Australia</b></li>
+<li><b>Canada</b></li>
+<li><b>Qatar</b></li>
+<li><b>United Arab Emirates (UAE)</b></li>
+
+
+</div>
+<div className='col-lg-6 col-12'>
+
+<li><b>Singapore</b></li>
+<li><b>Malaysia</b></li>
+<li><b>France</b></li>
+<li><b>South Africa</b></li>
+<li><b>Saudi Arabia</b></li>
+<li><b>Ghana</b> </li>
+
+</div>
+</div>            
+
+
+            </div>
+           
+        </div>
+    </div>
+    </div>      
+    </div>       
                 
                 
    
             
-      
+  <India/>
             </Fragment>
         );
     }

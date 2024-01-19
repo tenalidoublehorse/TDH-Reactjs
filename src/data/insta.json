@@ -1,5 +1,20 @@
 [
     {
+    "id": 13,
+    "imageUrl": "assets/img/newsevents/swarakashka-sebarma-two.jpeg",
+    "caption": "sebarma"
+},
+{
+    "id": 12,
+    "imageUrl": "assets/img/newsevents/swarakashka-sebarma.jpeg",
+    "caption": "sebarma"
+},
+{
+    "id": 11,
+    "imageUrl": "assets/img/newsevents/swarakashka-sebarma-three.jpeg",
+    "caption": "sebarma"
+},
+    {
         "id": 13,
         "imageUrl": "assets/img/newsevents/indusfod-eenadu-2024.png",
         "caption": "indus food 2024"
