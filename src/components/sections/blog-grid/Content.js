@@ -196,7 +196,7 @@ class Content extends Component {
   <div className="fluid-container mb-5 pt-5 pb-3" style={{backgroundColor:"#F9F9F9"}}>             
   <div className="section-title-wrap section-header text-center">
                 
-                <h2 className="title text-center">Global Presence</h2>
+                <h2 className="title text-center">International Expansion</h2>
                 {/* <p>Explore our product availability across the globe. Use the interactive world map to select countries and regions, and find out where you can enjoy the taste of Tenali Double Horse.</p> */}
                 </div>
                 <div className='container mb-5'style={{backgroundColor:"white",borderRadius:'10px'}}>
@@ -208,7 +208,7 @@ class Content extends Component {
         <div className="col-lg-6 alignments d-flex flex-column">
         <div className="section-title-wrap mr-lg-30 mt-lg-2 mb-lg-4">
                
-                <h2  style={{fontSize:'22px'}}>Our Presence In India</h2>
+                <h2  style={{fontSize:'22px'}}>Our Global Presence</h2>
                 <p className="subtitle" style={{ textAlign: 'justify' }}>
                 Embracing a global footprint,<b style={{color:'#77241D'}}> Tenali Double Horse</b> is dedicated to extending its promise of excellence and trust to discerning consumers across the world. Our range of products  is accessible in 12 countries, underscoring our steadfast commitment to delivering exceptional quality experiences on an <b style={{color:'#77241D'}}>international level</b>.
                 </p>
