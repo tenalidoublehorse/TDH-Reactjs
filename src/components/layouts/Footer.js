@@ -126,7 +126,7 @@ class Footer extends Component {
                     <div className="container-fluid">
                        
                         <div className="footer-copyright">
-                            <p> Copyright © 2023 <Link to="/">Tenali Double Horse </Link> All Rights Reserved. </p>
+                            <p> Copyright © 2024 <Link to="/">Tenali Double Horse </Link> All Rights Reserved. </p>
                             <Link to="#" className="back-to-top" onClick={() => this.scrollToTop()}><i className="fas fa-chevron-up" /> </Link>
                         </div>
                     </div>
