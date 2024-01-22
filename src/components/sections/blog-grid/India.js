@@ -102,20 +102,23 @@ import 'magnific-popup';
 
 const gallery = [
     
-    {
-        img: "assets/img/about/amazon.png"
-    }
-    ,
+   
     {
         img: "assets/img/about/Dmart.png"
     },
     {
         img: "assets/img/about/big-basket.png"
     },
-    
+    {
+        img: "assets/img/about/Walmart.png"
+    },
     {
         img: "assets/img/about/reliance-fresh.png"
     },
+    {
+        img: "assets/img/about/spencers.png"
+    },
+   
    
     {
         img: "assets/img/about/Metro.png"
@@ -134,12 +137,47 @@ const gallery = [
     }
 ];
 
+const galler = [
+    
+    {
+        img: "assets/img/about/amazon.png"
+    }
+   ,
+    {
+        img: "assets/img/about/big-basket.png"
+    },
+    
+    {
+        img: "assets/img/about/natrivepur.png"
+    }
+   
+];
+
 class Markets extends Component {
 
     render() {
         return (
+            
             <div className="section pt-5" style={{ backgroundColor: '#F2ECE4' }} >
                 <h2 className='title text-center'>We are also Available in</h2>
+                <h5 class="custom-primary text-center">Ecommerce</h5>
+                <div className="container">
+                    <div className="row">
+                        
+                       
+                           
+                                {galler.map((item, i) => (
+                                    <div key={i} className="col-lg-4">
+                                        <Link>
+                                            <img src={process.env.PUBLIC_URL + "/" + item.img} className='shops' alt="post" />
+                                        </Link>
+                                    </div>
+                                ))}
+                            </div>
+                       
+                   
+                </div>
+                <h5 class="custom-primary text-center mt-3">Retail Partners</h5>
                 <div className="container">
                     <div className="row">
                         
