@@ -101,23 +101,24 @@ import $ from 'jquery';
 import 'magnific-popup';
 
 const gallery = [
+    
     {
-        img: "assets/img/about/big-basket.png"
-    },
-    {
-        img: "assets/img/about/more.png"
-    },
-    {
-        img: "assets/img/about/reliance-fresh.png"
-    },
+        img: "assets/img/about/amazon.png"
+    }
+    ,
     {
         img: "assets/img/about/Dmart.png"
     },
     {
-        img: "assets/img/about/Metro.png"
+        img: "assets/img/about/big-basket.png"
     },
+    
     {
-        img: "assets/img/about/amazon.png"
+        img: "assets/img/about/reliance-fresh.png"
+    },
+   
+    {
+        img: "assets/img/about/Metro.png"
     },
     {
         img: "assets/img/about/Ratnadeep.png"
@@ -127,6 +128,9 @@ const gallery = [
     },
     {
         img: "assets/img/campaign/retail-vijetha.png"
+    },
+    {
+        img: "assets/img/about/more.png"
     }
 ];
 
