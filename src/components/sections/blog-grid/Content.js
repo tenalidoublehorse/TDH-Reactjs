@@ -193,7 +193,7 @@ class Content extends Component {
     <Feedback/>
     {/* <Messenger/> */}
   </div>
-  <div className="fluid-container mb-5 pt-5 pb-3" style={{backgroundColor:"#F9F9F9"}}>             
+  <div className="fluid-container  pt-5 pb-3" style={{backgroundColor:"#F9F9F9"}}>             
   <div className="section-title-wrap section-header text-center">
                 
                 <h2 className="title text-center">International Expansion</h2>
