@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
 
-// import PortfolioV1 from './PortfolioV1';
+
 import PortfolioV2 from './Profile'
 
 import Feedback from '../home/Feedback';
@@ -13,6 +13,7 @@ class Content extends Component {
             <Fragment>
               
                <PortfolioV2/>
+              
                <Feedback/>
                {/* <Messenger/> */}
                {/* <AppleFactsSlider/> */}
