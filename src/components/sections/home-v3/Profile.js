@@ -60,7 +60,7 @@ function PortfolioV2() {
               <Nav.Link eventKey="images">News Articles</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link eventKey="videos">Video News </Nav.Link>
+              <Nav.Link eventKey="videos">Media Broadcasts </Nav.Link>
             </Nav.Item>
           </Nav>
           <Tab.Content>
