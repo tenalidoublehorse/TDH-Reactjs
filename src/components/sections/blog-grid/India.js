@@ -178,7 +178,7 @@ class Markets extends Component {
             
             <div className="section pt-5" style={{ backgroundColor: '#F2ECE4' }} >
                 <h2 className='title text-center'>We are also Available in</h2>
-                <h5 class="custom-primary text-center">Ecommerce</h5>
+                <h4 class="custom-primary text-center">Ecommerce</h4>
                 <div className="container">
                     <div className="row">
                         
@@ -195,7 +195,7 @@ class Markets extends Component {
                        
                    
                 </div>
-                <h5 class="custom-primary text-center mt-3">Retail Partners</h5>
+                <h4 class="custom-primary text-center mt-3">Retail Partners</h4>
                 <div className="container">
                     <div className="row">
                         
