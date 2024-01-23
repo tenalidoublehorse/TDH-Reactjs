@@ -143,8 +143,26 @@ const galler = [
         img: "assets/img/about/amazon.png"
     }
    ,
+   {
+    img: "assets/img/about/Dmart.png"
+},
+{
+    img: "assets/img/about/reliance-fresh.png"
+},
     {
         img: "assets/img/about/big-basket.png"
+    },
+    {
+        img: "assets/img/about/swiggy.png"
+    },
+    {
+        img: "assets/img/about/Qwipo.png"
+    },
+    {
+        img: "assets/img/about/Jumbotail.png"
+    },
+    {
+        img: "assets/img/about/gampa.png"
     },
     
     {
