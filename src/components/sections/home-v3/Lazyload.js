@@ -23,7 +23,7 @@ function Popup() {
       <i className="fas fa-times" />
           </Button>
           
-        <img className='relative'  src={process.env.PUBLIC_URL + "/assets/img/misc/gulfood.png"} alt="img"  /> 
+        <img className='relative'  src={process.env.PUBLIC_URL + "/assets/img/misc/gulfoodpop.png"} alt="img"  /> 
       
        
        
