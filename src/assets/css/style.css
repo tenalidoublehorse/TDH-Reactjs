@@ -9681,8 +9681,19 @@ a, a:hover, a:focus, a:active {
     -webkit-box-orient: vertical;
 }
 
-.awards .card Button{
+/* .awards .card Button{
   display: none;
+} */
+
+.awards .card Button{
+  background-color: #c92026;
+  color: #ffffff;
+}
+.more-btn{
+  background-color: #c92026;
+  color: #ffffff;
+  outline: none !important;
+  border:none !important;
 }
 .awards .card:hover {
   background-color: #ed4e53;
@@ -9692,6 +9703,9 @@ a, a:hover, a:focus, a:active {
   border-bottom-right-radius: 25px;
   
 }
+.awards .card{
+  background-color: #faf5e5;
+}
 .awards .card:hover Button {
   display: block;
   transition: all 1s;
@@ -9699,6 +9713,7 @@ a, a:hover, a:focus, a:active {
 .awards .card:hover .card-text{
   color: white;
 }
+
 
 .awards .card img{
   border-top-left-radius: 25px;
@@ -9716,7 +9731,10 @@ right: -5px;
 top: -5px;
 }
 .c-title {
-  font-weight: 600;
+  font-weight: 800;
+}
+.btn-primary:focus{
+  box-shadow: none!important;
 }
 .pop-text p{
   text-align: justify;
@@ -9728,7 +9746,7 @@ top: -5px;
   border:none !important;
 }
 .more-btn:hover{
-  background-color: #F4C64C;
+  background-color: #F4C64C!important;
   color: black;
   outline: none !important;
   border:none !important;

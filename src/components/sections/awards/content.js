@@ -45,16 +45,18 @@ function Awards() {
                 <div className='col-sm-12 col-md-4 col-lg-4 mb-5'>
                 <Card key={item.id} className='shadow'>
                 <img src={process.env.PUBLIC_URL + "/" + item.imageUrl} alt="img" />
-                <Card.Body>
+                <Card.Body >
                     <div className='d-flex justify-content-between align-items-center'>
-                    <Card.Title>{item.year}</Card.Title>
-                    <Button className='btn-sm more-btn'  onClick={() => handleShow(item)}>
+                    <Card.Title className='c-title mb-0'>{item.year}</Card.Title>
+                    <Button className='btn-md more-btn'  onClick={() => handleShow(item)}>
                         View
                     </Button>
+                    
                     </div>
-                    <Card.Text className='c-title'>
+                    <Card.Text className='c-title mt-2' >
                     {item.title}
                     </Card.Text>
+                    
                     {/* <Card.Text>
                     {item.description}
                     </Card.Text> */}
