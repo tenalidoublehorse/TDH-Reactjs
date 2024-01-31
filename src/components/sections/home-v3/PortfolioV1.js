@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import ReactPaginate from 'react-paginate';
 import { Tab, Nav } from 'react-bootstrap';
-import instaData from '../../../data/insta.json';
+import instaData from '../../../data/usedata.json';
 import videoData from '../../../data/video.json';
 
 function PortfolioV2() {
@@ -49,6 +49,9 @@ function PortfolioV2() {
                 {item.type === 'video' && (
                   <div className="ltn__gallery-item-img">
                     <iframe src={item.videoEmbedLink} width="100%" height="240px" title={`Video ${item.id}`} className="img-overflow"></iframe>
+                    <span className="ltn__gallery-action-icon">
+                      <i className="fas fa-search" />
+                    </span>
                   </div>
                 )}
                 <div className="ltn__gallery-item-info">

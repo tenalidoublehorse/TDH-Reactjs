@@ -80,9 +80,9 @@ function ViewPage() {
                        
                     
                      </div>
-                     <div className='navgiation d-flex justify-content-between align-items-center'>
-        <button className='btn navgiation-button' onClick={handlePrevious}><i className=" fas fa-arrow-left mr-2  mt-1"></i>Previous</button>
-        <button  className='btn navgiation-button'   onClick={handleNext}>Next<i className=" fas fa-arrow-right ml-2  mt-1"></i></button>
+                     <div className=' d-flex justify-content-end align-items-center'>
+        <button className='btn navgiation-button mr-2' onClick={handlePrevious}><i className=" fas fa-chevron-left   mt-1"></i></button>
+        <button  className='btn navgiation-button'   onClick={handleNext}><i className=" fas fa-chevron-right  mt-1"></i></button>
       </div>
                  </div>
              </div>

@@ -9737,10 +9737,12 @@ top: -5px;
 
 }
 .navgiation-button{
-  background-color: #c92026;
-  color: #ffffff;
+  background-color: #ffff!important;
+  color:#c92026!important;
+  border-radius: 25px;
+ 
   outline: none !important;
-  border:none !important;
+  border:2px solid #c92026!important;
 
 }
 .btn-primary:focus{
