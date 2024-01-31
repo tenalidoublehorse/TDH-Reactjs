@@ -561,7 +561,7 @@ blockquote p{
 }
 
 .title {
-  font-size: 32px;
+  font-size: 25px;
   margin-bottom: 20px;
 }
 .section-title-wrap.section-header {
@@ -9695,14 +9695,14 @@ a, a:hover, a:focus, a:active {
   outline: none !important;
   border:none !important;
 }
-.awards .card:hover {
+/* .awards .card:hover {
   background-color: #ed4e53;
   color: white;
   transition: all 1s;
   border-top-left-radius: 28px;
   border-bottom-right-radius: 25px;
   
-}
+} */
 .awards .card{
   background-color: #faf5e5;
 }
@@ -9710,9 +9710,9 @@ a, a:hover, a:focus, a:active {
   display: block;
   transition: all 1s;
 }
-.awards .card:hover .card-text{
+/* .awards .card:hover .card-text{
   color: white;
-}
+} */
 
 
 .awards .card img{
@@ -9730,8 +9730,18 @@ position: absolute;
 right: -5px;
 top: -5px;
 }
-.c-title {
-  font-weight: 800;
+
+.navgiation{
+  background-color: #faf5e5;
+  padding:30px;
+
+}
+.navgiation-button{
+  background-color: #c92026;
+  color: #ffffff;
+  outline: none !important;
+  border:none !important;
+
 }
 .btn-primary:focus{
   box-shadow: none!important;
@@ -10689,7 +10699,8 @@ background-repeat: no-repeat;
   padding-bottom:35px ;
 }
 .shops{
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
+  /* box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19); */
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
   border-radius: 10px;
   background-color: #fff;
   color: #000;
@@ -10699,11 +10710,39 @@ background-repeat: no-repeat;
   /* min-height: 80px; */
 }
 .shops:hover{
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.30);
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.template-shadow{
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+
 }
 .closebutton{
   max-width: fit-content!important;
 }
 .popkl .modal-dialog .modal-content{
   background-color: transparent!important;
+}
+.borderradius{
+  border-radius: 10px;
+}
+.spaces{
+  display:flex!important;
+  flex-direction:column!important;
+  justify-content: space-evenly!important;
+}
+
+.font-bold{
+  font-size: 26px!important;
+  font-weight: 800;
+}
+.font-bold-two{
+  font-size:23px;
+  font-weight: 800;
+}
+.c-title{
+  font-weight:800;
+}
+.article-img{
+  border-top-left-radius: 0.475rem!important;
+  border-radius:0.475rem;
 }

@@ -81,7 +81,7 @@ class Content extends Component {
               <div className="fluid-container  pt-5 pb-3" style={{backgroundColor:"#F9FAE6"}}>
               <div className="section-title-wrap section-header text-center">
                 
-                                <h2 className="title text-center">Nationwide Reach</h2>
+                                <h2 className="title text-center">Pan-India Presence</h2>
                                 {/* <p>Explore our product availability across the globe. Use the interactive world map to select countries and regions, and find out where you can enjoy the taste of Tenali Double Horse.</p> */}
                                 </div>
                                 <div className='container mb-5'style={{backgroundColor:"white",borderRadius:'10px'}}>

@@ -36,6 +36,7 @@ const refundpolicy = React.lazy(() => import("./components/pages/RefundPolicy"))
 const paymentploicy = React.lazy(() => import("./components/pages/paymentservices"));
 const Contactus = React.lazy(() => import("./components/pages/Contactus"));
 const Awards = React.lazy(() => import("./components/pages/Awards"));
+const Awardetails = React.lazy(() => import("./components/pages/Awardetails"));
 const CSRactivities = React.lazy(() => import("./components/pages/CSRactivities"));
 const Gallery = React.lazy(() => import("./components/pages/Gallery"));
 const Indusfoods = React.lazy(()=> import('./components/pages/Indusfoods'))
@@ -84,6 +85,7 @@ function App() {
           <Route path="/payment-ploicy" component={paymentploicy} />
           <Route path="/Contact" component={Contactus} />
           <Route path="/awards-recognitions" component={Awards} />
+          <Route path="/awardetails/:id" component={Awardetails} />
           <Route path="/csr-initiatives" component={CSRactivities} />
           <Route path="/Csrgallery" component={Gallery} />
           <Route path="/indusfood" component={Indusfoods} />

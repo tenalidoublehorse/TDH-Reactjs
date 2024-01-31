@@ -178,14 +178,14 @@ class Markets extends Component {
             
             <div className="section pt-5" style={{ backgroundColor: '#F2ECE4' }} >
                 <h2 className='title text-center'>We are also Available in</h2>
-                <h4 class="custom-primary text-center">Ecommerce</h4>
+                <h4 class="custom-primary text-center">Online Presence</h4>
                 <div className="container">
                     <div className="row">
                         
                        
                            
                                 {galler.map((item, i) => (
-                                    <div key={i} className="col-lg-4">
+                                    <div key={i} className="col-lg-3">
                                         <Link>
                                             <img src={process.env.PUBLIC_URL + "/" + item.img} className='shops' alt="post" />
                                         </Link>
@@ -202,7 +202,7 @@ class Markets extends Component {
                        
                            
                                 {gallery.map((item, i) => (
-                                    <div key={i} className="col-lg-4">
+                                    <div key={i} className="col-lg-3">
                                         <Link>
                                             <img src={process.env.PUBLIC_URL + "/" + item.img} className='shops' alt="post" />
                                         </Link>
