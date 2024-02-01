@@ -90,7 +90,7 @@ class Content extends Component {
                       <div className='container contact-container ' style={{paddingLeft:'0px',paddingRight:'0px'}}>
                       <div className="section-title-wrap  mb-2 mt-3 mt-lg-0 ">
                       {/* <h5 className="custom-primary text-lg-start  mx-auto m-lg-0 white-bg">Contact Us</h5> */}
-                        <h3 className="">Honors and Accolades That Define Us</h3>
+                        <h2 className="title">Honors and Accolades That Define Us</h2>
                         <p>Find our corporate and factory addresses along with contact information. We're here to assist you. Feel free to get in touch for inquiries, feedback, or any assistance you need.</p>
                       </div>
                       <div className="row contact-info d-flex " >

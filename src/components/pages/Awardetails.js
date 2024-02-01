@@ -2,11 +2,11 @@ import React, { Component, Fragment } from 'react';
 import MetaTags from "react-meta-tags";
 
 import Header from '../layouts/Header';
-import Breadcrumbs from '../layouts/Breadcrumblack';
+import Breadcrumbs from '../layouts/Breadcrumb';
 import Footer from '../layouts/Footer';
 import Content from '../sections/awardetails/content';
 
-const pagelocation = 'Awards & Recognitions'
+const pagelocation = 'Award Details'
 const bannerimg = "/assets/img/banner/tdh-awards-recoginations.png"
 
 class Locations extends Component {
@@ -14,7 +14,7 @@ class Locations extends Component {
         return (
             <Fragment>
                 <MetaTags>
-                    <title>Tenali Double Horse Awards & Recognitions| {pagelocation}</title>
+                    <title>Tenali Double Horse Award Details| {pagelocation}</title>
                     <meta
                         name="Our unwavering dedication to quality and authenticity has earned us prestigious honors, validating our commitment to delivering exceptional agricultural products"
                         content="#"
