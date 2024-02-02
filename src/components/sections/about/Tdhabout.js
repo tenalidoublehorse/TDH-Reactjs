@@ -28,15 +28,15 @@ class Aboutcompany extends Component {
     render() {
   
         return (
-          <div className='origins-main-section'>
+          <div className='origins-main-section '>
             <div className="container-fluid">
               <div className="origins-section">
-                <div className='pt-5 pb-5'>
+                <div className='pt-5 pb-5 wow animate__animated  animate__fadeInUp ' data-wow-delay="0.2s">
                     {/* <h5 className="custom-primary text-center white-bg mx-auto ">Unveilling Our Origins</h5> */}
                     <h2 className="title text-center">A Timeline of Growth, Innovation, and Impact</h2>
                   </div>
                 
-                  <div className='mb-4'>
+                  <div className='mb-4 wow animate__animated  animate__fadeInUp ' data-wow-delay="0.4s">
                   <Swiper
                   spaceBetween={50}
                   slidesPerView={1}
