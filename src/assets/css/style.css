@@ -178,6 +178,7 @@ tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video{
 }
 html{
   overflow-x: hidden;
+  scroll-behavior: smooth!important;
 }
 .opacity-0 {
   opacity: 0;
