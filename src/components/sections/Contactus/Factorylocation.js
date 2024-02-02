@@ -1,11 +1,19 @@
 import React, { Component } from 'react';
+import AOS from 'aos';
 
 class Factorylocation extends Component {
+
+    componentDidMount() {
+        AOS.init({
+            duration: 1500, 
+        });
+    }
+    
     render() {
         return (
             <div className="section" style={{ backgroundColor: '#fff7ef' }}>
                 <div className="container-fluid">
-                    <div className="section-title-wrap text-center">
+                    <div className="section-title-wrap text-center wow animate__animated  animate__fadeInUp" data-wow-delay="0.2s">
                         {/* <h5 className="custom-primary  white-bg mx-auto">Explore Our Factory Locations</h5> */}
                         <h2 className="title">Where Innovation Takes Shape</h2>
                         <p className="subtitle mb-3">
@@ -14,7 +22,7 @@ class Factorylocation extends Component {
                     </div>
                     <div className="row ">
 
-                        <div className="col-lg-3">
+                        <div className="col-lg-3 wow animate__animated  animate__fadeInUp" data-wow-delay="0.2s">
                             <div className="card-locations mb-4">
 
                                 <div className="card-body ">
@@ -43,7 +51,7 @@ class Factorylocation extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-3">
+                        <div className="col-lg-3 wow animate__animated  animate__fadeInUp" data-wow-delay="0.4s">
                             <div className="card-locations mb-4">
 
                                 <div className="card-body">
@@ -72,7 +80,7 @@ class Factorylocation extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-3">
+                        <div className="col-lg-3 wow animate__animated  animate__fadeInUp" data-wow-delay="0.6s">
                             <div className="card-locations mb-4">
 
                                 <div className="card-body">
@@ -103,7 +111,7 @@ class Factorylocation extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-3">
+                        <div className="col-lg-3 wow animate__animated  animate__fadeInUp" data-wow-delay="0.8s">
                             <div className="card-locations mb-4">
 
                                 <div className="card-body">

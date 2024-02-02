@@ -62,7 +62,7 @@ function Awards() {
                 // </Card.Body>
                 // </Card>
                 // </div>
-                <Card  className=' d-flex flex-row flex-wrap mb-5 template-shadow rounded-3'>
+                <Card  className=' d-flex flex-row flex-wrap mb-5 template-shadow rounded-3 wow animate__animated animate__fadeInUp' data-wow-delay={item.delay}>
                 <div  key={item.id} className='col-12 col-md-6 col-lg-6 py-3  '>
                 
                 <img src={process.env.PUBLIC_URL + "/" + item.imageUrl} className='article-img' alt="img" />

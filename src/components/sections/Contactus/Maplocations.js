@@ -41,12 +41,12 @@ class Maplocations extends Component {
 
               <div className="fluid-container" style={{ backgroundColor: 'white' }}>
                 <div className="container-fluid">
-                  <div className="section-title-wrap text-center mb-2 ">
+                  <div className="section-title-wrap text-center mb-2 wow animate__animated  animate__fadeInUp " data-wow-delay="0.2s">
                     <h2 className="title pt-4">Our Office & Factory Location</h2>
                   
                   </div>
                   <div className="row  p-2">
-                    <div className="col-lg-6 mb-3 mb-lg-0 ">
+                    <div className="col-lg-6 mb-3 mb-lg-0 wow animate__animated  animate__fadeInUp " data-wow-delay="0.4s">
                      
                       {/* <div className="col-lg-12  " > */}
                         <div className='location-card shadow pb-3 '>
@@ -89,7 +89,7 @@ class Maplocations extends Component {
 
 
                     </div>
-                    <div className="col-lg-6 mb-5 ">
+                    <div className="col-lg-6 mb-5 wow animate__animated  animate__fadeInUp " data-wow-delay="0.6s">
                       <div className='map-frame mt-3'>
                       <iframe
                             src={this.state.mapSrc}

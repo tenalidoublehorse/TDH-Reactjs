@@ -2,80 +2,97 @@
     {
     "id": 16,
     "imageUrl": "assets/img/newsevents/swarakashka-sebarma-two.png",
-    "caption": "sebarma"
+    "caption": "sebarma",
+    "delay":"0.2s"
+
 },
 {
     "id": 15,
     "imageUrl": "assets/img/newsevents/swarakashka-sebarma.png",
-    "caption": "sebarma"
+    "caption": "sebarma",
+    "delay":"0.4s"
 },
 {
     "id": 14,
     "imageUrl": "assets/img/newsevents/swarakashka-sebarma-three.png",
-    "caption": "sebarma"
+    "caption": "sebarma",
+    "delay":"0.6s"
 },
     {
         "id": 13,
         "imageUrl": "assets/img/newsevents/indusfod-eenadu-2024.png",
-        "caption": "indus food 2024"
+        "caption": "indus food 2024",
+        "delay":"0.8s"
     },
     {
         "id": 12,
         "imageUrl": "assets/img/newsevents/indusfod-2024.png",
-        "caption": "indus food 2024"
+        "caption": "indus food 2024",
+        "delay":"1.0s"
     },
     {
         "id": 11,
         "imageUrl": "assets/img/newsevents/tdh-msme-enaadu-news-artical.png",
-        "caption": "msme award"
+        "caption": "msme award",
+        "delay":"1.2s"
     },
     {
         "id": 10,
         "imageUrl": "assets/img/newsevents/tdh-msmec-2-national-award.png",
-        "caption": "msme award"
+        "caption": "msme award",
+        "delay":"1.4s"
     },
     {
         "id": 9,
         "imageUrl": "assets/img/newsevents/tdh-msme-award-sakshi-news-artical.png",
-        "caption": "msme award"
+        "caption": "msme award",
+        "delay":"1.6s"
     },
     {
         "id": 8,
         "imageUrl": "assets/img/newsevents/diwali-wishes.png",
-        "caption": "diwali Wishes"
+        "caption": "diwali Wishes",
+        "delay":"1.8s"
     },
     {
         "id": 7,
         "imageUrl": "assets/img/newsevents/divali-enadu-paper-adv.png",
-        "caption": "divali enadu paper adv"
+        "caption": "divali enadu paper adv",
+        "delay":"2.0s"
     },
     {
         "id": 6,
         "imageUrl": "assets/img/newsevents/nutrition-powder-packets-distributed-5.png",
-        "caption": "ek bharat shreshta barat"
+        "caption": "ek bharat shreshta barat",
+        "delay":"2.2s"
     },
     {
         "id": 5,
         "imageUrl": "assets/img/newsevents/Leprosy.png",
-        "caption": "phirese udaan"
+        "caption": "phirese udaan",
+        "delay":"2.4s"
     },
     {
         "id": 4,
         "imageUrl": "assets/img/newsevents/merite-scoller-two.png",
-        "caption": "phirese udaan"
+        "caption": "phirese udaan",
+        "delay":"2.6s"
     },
     {
         "id": 3,
         "imageUrl": "assets/img/newsevents/tenali-double-horse-all-products-img.png",
-        "caption": "Image 2"
+        "caption": "Image 2",
+        "delay":"2.8s"
     },
     {
         "id": 2,
         "imageUrl": "assets/img/newsevents/the-changemaker-of-india.png",
-        "caption": "Image 2"
+        "caption": "Image 2",
+        "delay":"3.0s"
     },
     {
         "id": 1,
-        "imageUrl": "assets/img/newsevents/industrial-visit-to-tenali-double-horse-09-jan-2023.png"
+        "imageUrl": "assets/img/newsevents/industrial-visit-to-tenali-double-horse-09-jan-2023.png",
+        "delay":"3.1s"
     }
 ]

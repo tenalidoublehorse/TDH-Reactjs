@@ -49,7 +49,7 @@ function PortfolioV2() {
 
   return (
     <div className="ltn__gallery-area mt-5 mb-5">
-      <div className="section-title-wrap section-header text-center">
+      <div className="section-title-wrap section-header text-center wow animate__animated  animate__fadeInUp" data-wow-delay="0.2s">
         <h5 className="custom-primary text-center">Get real-time updates on events</h5>
         <h2 className="title text-center">That Impact Our World</h2>
       </div>
@@ -74,13 +74,13 @@ function PortfolioV2() {
         </Tab.Container>
       </div>
       <div className={`container ${activeTab === 'images' ? 'tab1' : 'tab2'}`}>
-        <div className="ltn__gallery-active row ltn__gallery-style-2 ltn__gallery-info-hide---">
+        <div className="ltn__gallery-active row ltn__gallery-style-2 ltn__gallery-info-hide--- " >
           {activeTab === 'images' &&
             displayedItems.map((item) => (
-              <div key={item.id} className="ltn__gallery-item filter_category_1 col-lg-4 col-sm-6 col-12">
+              <div key={item.id} className="ltn__gallery-item filter_category_1 col-lg-4 col-sm-6 col-12 wow animate__animated  animate__fadeInUp" data-wow-delay={item.delay}>
                <div className="layer-1">.</div>
               <div className="ltn__gallery-item-inner" style={{ boxShadow: '1px 2px 4px' }}>
-                <div className="ltn__gallery-item-img">
+                <div className="ltn__gallery-item-img" >
                   <a href={publicUrl + "/" + item.imageUrl} data-rel="magnific:myCollection">
                     <img src={process.env.PUBLIC_URL + "/" + item.imageUrl} alt="img" className="img-overflow" />
                     <span className="ltn__gallery-action-icon">
@@ -100,7 +100,7 @@ function PortfolioV2() {
             ))}
           {activeTab === 'videos' &&
             displayedItemstwo.map((item) => (
-              <div key={item.id} className="ltn__gallery-item filter_category_1 col-lg-4 col-sm-6 col-12">
+              <div key={item.id} className="ltn__gallery-item filter_category_1 col-lg-4 col-sm-6 col-12 wow animate__animated  animate__fadeInUp" data-wow-delay={item.delay}>
                  <div className="layer-1">.</div>
                  <div className="ltn__gallery-item-inner" style={{ boxShadow: '1px 2px 4px' }}>
                 

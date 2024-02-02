@@ -79,12 +79,12 @@ class Content extends Component {
         return (
             <Fragment>
               <div className="fluid-container  pt-5 pb-3" style={{backgroundColor:"#F9FAE6"}}>
-              <div className="section-title-wrap section-header text-center">
+              <div className="section-title-wrap section-header text-center  wow animate__animated  animate__fadeInUp"  data-wow-delay="0.4s">
                 
                                 <h2 className="title text-center">Pan-India Presence</h2>
                                 {/* <p>Explore our product availability across the globe. Use the interactive world map to select countries and regions, and find out where you can enjoy the taste of Tenali Double Horse.</p> */}
                                 </div>
-                                <div className='container mb-5'style={{backgroundColor:"white",borderRadius:'10px'}}>
+                                <div className='container mb-5  wow animate__animated  animate__fadeInUp' data-wow-delay="0.4s" style={{backgroundColor:"white",borderRadius:'10px'}}>
                                 <div className="row ">
                        
                         <div className="col-lg-6 order-2  order-lg-1 alignments d-flex flex-column">
@@ -194,12 +194,12 @@ class Content extends Component {
     {/* <Messenger/> */}
   </div>
   <div className="fluid-container  pt-5 pb-3" style={{backgroundColor:"#F9F9F9"}}>             
-  <div className="section-title-wrap section-header text-center">
+  <div className="section-title-wrap section-header text-center  wow animate__animated  animate__fadeInUp" data-wow-delay="0.4s">
                 
                 <h2 className="title text-center">International Expansion</h2>
                 {/* <p>Explore our product availability across the globe. Use the interactive world map to select countries and regions, and find out where you can enjoy the taste of Tenali Double Horse.</p> */}
                 </div>
-                <div className='container mb-5'style={{backgroundColor:"white",borderRadius:'10px'}}>
+                <div className='container mb-5 wow animate__animated  animate__fadeInUp' data-wow-delay="0.6s" style={{backgroundColor:"white",borderRadius:'10px'}}>
                 <div className="row ">
         <div className="col-lg-6 mb-lg-30 alignments d-flex flex-column " >
         <img src={process.env.PUBLIC_URL + "/assets/img/about/worldmap-block.png"} alt="img" className=' mb-2' />

@@ -88,13 +88,13 @@ class Content extends Component {
                   <div className="row  p-2">
                     <div className="col-lg-7   d-flex align-items-center">
                       <div className='container contact-container ' style={{paddingLeft:'0px',paddingRight:'0px'}}>
-                      <div className="section-title-wrap  mb-2 mt-3 mt-lg-0 ">
+                      <div className="section-title-wrap  mb-2 mt-3 mt-lg-0  wow animate__animated  animate__fadeInUp" data-wow-delay="0.1s">
                       {/* <h5 className="custom-primary text-lg-start  mx-auto m-lg-0 white-bg">Contact Us</h5> */}
                         <h2 className="title">Honors and Accolades That Define Us</h2>
                         <p>Find our corporate and factory addresses along with contact information. We're here to assist you. Feel free to get in touch for inquiries, feedback, or any assistance you need.</p>
                       </div>
                       <div className="row contact-info d-flex " >
-                        <div className="col-lg-6">
+                        <div className="col-lg-6 wow animate__animated  animate__fadeInUp " data-wow-delay="0.2s">
                           <div className='card shadow p-3 mb-3'>
                           <i className='fas fa-phone mt-3'></i>
                             <h5 className="custom-primary">Toll Free Number</h5>
@@ -103,7 +103,7 @@ class Content extends Component {
 
 
                         </div>
-                        <div className="col-lg-6">
+                        <div className="col-lg-6 wow animate__animated  animate__fadeInUp " data-wow-delay="0.4s">
                           <div className='card shadow p-3 mb-3'>
                           <i className='fas fa-envelope mt-3 phone-email'></i>
                             <h5 className="custom-primary">Email Address</h5>
@@ -114,7 +114,7 @@ class Content extends Component {
                       </div>
                       </div>
                     </div>
-                    <div className="col-lg-5 mt-5">
+                    <div className="col-lg-5 mt-5 wow animate__animated  animate__fadeInUp" data-wow-delay="0.8s">
                       {/* <div className="row  top-row">
                         
                       </div> */}

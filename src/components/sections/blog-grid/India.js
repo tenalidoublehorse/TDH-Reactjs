@@ -104,69 +104,88 @@ const gallery = [
     
    
     {
-        img: "assets/img/about/Dmart.png"
+        img: "assets/img/about/Dmart.png",
+        delay:"0.2s"
     },
     {
-        img: "assets/img/about/big-basket.png"
+        img: "assets/img/about/big-basket.png",
+        delay:"0.4s"
     },
     {
-        img: "assets/img/about/Walmart.png"
+        img: "assets/img/about/Walmart.png",
+        delay:"0.6s"
     },
     {
-        img: "assets/img/about/reliance-fresh.png"
+        img: "assets/img/about/reliance-fresh.png",
+        delay:"0.8s"
     },
     {
-        img: "assets/img/about/spencers.png"
+        img: "assets/img/about/spencers.png",
+        delay:"1.0s"
     },
    
    
     {
-        img: "assets/img/about/Metro.png"
+        img: "assets/img/about/Metro.png",
+        delay:"1.2s"
     },
     {
-        img: "assets/img/about/Ratnadeep.png"
+        img: "assets/img/about/Ratnadeep.png",
+        delay:"1.4s"
     },
     {
-        img: "assets/img/campaign/retail-ushodaya.png"
+        img: "assets/img/campaign/retail-ushodaya.png",
+        delay:"1.6s"
     },
     {
-        img: "assets/img/campaign/retail-vijetha.png"
+        img: "assets/img/campaign/retail-vijetha.png",
+        delay:"1.8s"
     },
     {
-        img: "assets/img/about/more.png"
+        img: "assets/img/about/more.png",
+        delay:"2.0s"
     }
 ];
 
 const galler = [
     
     {
-        img: "assets/img/about/amazon.png"
+        img: "assets/img/about/amazon.png",
+        delay:"0.2s"
     }
    ,
    {
-    img: "assets/img/about/Dmart.png"
+    img: "assets/img/about/Dmart.png",
+    delay:"0.4s"
 },
 {
-    img: "assets/img/about/reliance-fresh.png"
+    img: "assets/img/about/reliance-fresh.png",
+    delay:"0.6s"
 },
     {
-        img: "assets/img/about/big-basket.png"
+        img: "assets/img/about/big-basket.png",
+        delay:"0.8s"
     },
     {
-        img: "assets/img/about/swiggy.png"
+        img: "assets/img/about/swiggy.png",
+        delay:"1.2s"
     },
     {
-        img: "assets/img/about/Qwipo.png"
+        img: "assets/img/about/Qwipo.png",
+        delay:"1.4s"
     },
     {
-        img: "assets/img/about/Jumbotail.png"
+        img: "assets/img/about/Jumbotail.png",
+        delay:"1.6s"
     },
     {
-        img: "assets/img/about/gampa.png"
+        img: "assets/img/about/gampa.png",
+        delay:"1.8s"
     },
     
     {
-        img: "assets/img/about/natrivepur.png"
+        img: "assets/img/about/natrivepur.png",
+        delay:"2.0s"
     }
    
 ];
@@ -176,7 +195,7 @@ class Markets extends Component {
     render() {
         return (
             
-            <div className="section pt-5" style={{ backgroundColor: '#F2ECE4' }} >
+            <div className="section pt-5 wow animate__animated  animate__fadeInUp" data-wow-delay="0.2s" style={{ backgroundColor: '#F2ECE4' }} >
                 <h2 className='title text-center'>We are also Available in</h2>
                 <h4 class="custom-primary text-center">Online Presence</h4>
                 <div className="container">
@@ -185,7 +204,7 @@ class Markets extends Component {
                        
                            
                                 {galler.map((item, i) => (
-                                    <div key={i} className="col-lg-3">
+                                    <div key={i} className="col-lg-3 wow animate__animated  animate__fadeInUp" data-wow-delay={item.delay}>
                                         <Link>
                                             <img src={process.env.PUBLIC_URL + "/" + item.img} className='shops' alt="post" />
                                         </Link>
@@ -202,7 +221,7 @@ class Markets extends Component {
                        
                            
                                 {gallery.map((item, i) => (
-                                    <div key={i} className="col-lg-3">
+                                    <div key={i} className="col-lg-3 wow animate__animated  animate__fadeInUp" data-wow-delay={item.delay}>
                                         <Link>
                                             <img src={process.env.PUBLIC_URL + "/" + item.img} className='shops' alt="post" />
                                         </Link>
