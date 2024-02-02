@@ -10,6 +10,7 @@
         "name": "Premium Urad Gota 1kg",
         "shortdesc": "Round Urad Gota is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
         "price":13.50,
+        "delay":"0.3s",
         "urls":"https://qr.emenu.ae/goodearth/#/product/110615 ",
         "rating": 4,
         "category": [
@@ -26,6 +27,7 @@
         "name": "Premium Urad Dall 500g",
         "shortdesc": "Urad Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
         "price":6.50,
+        "delay":"0.5s",
         "urls":"https://qr.emenu.ae/goodearth/#/product/110621",
         "rating": 4,
         "category": [
@@ -44,6 +46,7 @@
         "name": "Premium Toor Dall 1kg",
         "shortdesc": "Toor Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
         "price":14.50,
+        "delay":"0.7s",
         "urls":"https://qr.emenu.ae/goodearth/#/product/110614",
         "rating": 4,
         "category": [
@@ -60,6 +63,7 @@
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
         "name": "Premium Moong Dall 500g",
+        "delay":"0.9s",
         "shortdesc": "Moong Dall is the choicest by procuring from the best farms & fields in the country, is packed under hygienical conditions.",
         "price":6.95,
         "urls":"https://qr.emenu.ae/goodearth/#/product/110620",
@@ -79,6 +83,7 @@
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
         "name": "Premium Chana Dall 500g",
+        "delay":"0.9s",
         "shortdesc": "Our Chana Dal, sourced with care and crafted with excellence, brings you the essence of health and taste in every bite",
         "price":4.95,
         "urls":"https://qr.emenu.ae/goodearth/#/product/110618 ",
@@ -97,6 +102,7 @@
         "productsafetyimg3": "assets/img/safety-images/food-safaty.png",
         "productsafetyimg4": "assets/img/safety-images/100p-Natural.png",
         "name": "Premium Rishika Sunnundalu 200g",
+        "delay":"0.9s",
         "shortdesc": "TDH Rishika Sunnundalu makes your celebration special, tasteful and complete. Its sweetness brings about a feeling of togetherness and oneness with your family.",
         "price":11.95,
         "urls":"https://qr.emenu.ae/goodearth/#/product/110622 ",

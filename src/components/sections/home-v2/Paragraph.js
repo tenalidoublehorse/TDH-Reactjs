@@ -69,7 +69,7 @@ previous() {
                         <Slider className="product-slider" {...settings} ref={c => (this.slider = c)}>
                             {/* Product Start */}
                             {products.map((item, i) => (
-                                <div key={i} className="product">
+                                <div key={i} className="product wow animate__animated animate__fadeInUp" data-wow-delay={item.delay}>
                                     <Link className="product-thumb">
                                         <img src={process.env.PUBLIC_URL + "/" + item.img} alt={item.name} />
                                     </Link>

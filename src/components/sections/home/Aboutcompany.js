@@ -32,7 +32,7 @@ class TimelineSection extends Component {
           <section id="timeline " style={{ ...backgroundStyles }}>
             <div className="container-fluid video-conatiner  mt-lg-3 pb-4">
               <div className="row ourstory-section text-center"  >
-                  <div className='col-sm-12 col-lg-6 order-2 order-lg-2'>
+                  <div className='col-sm-12 col-lg-6 order-2 order-lg-2 wow animate__animated  animate__fadeInUp ' data-wow-delay="0.4s">
                     <div className="section-title-wrap section-header text-center pt-3">
                       <h2 className="title">About Tenali Double Horse</h2>
                       <p className='largefont' style={{textAlign:'justify'}}>At <b className='bold-colour'> Tenali Double Horse</b>, our journey began in 2005 with a vision to bring excellence and trust to every household in  <b className='bold-colour'> India</b>. Guided by our commitment to quality and customer satisfaction, we have since become a trusted name that resonates with millions.</p>
@@ -44,7 +44,7 @@ class TimelineSection extends Component {
                   )}
                     </div>
                   </div>
-                  <div className='col-sm-12 col-lg-6  order-1 order-lg-1 about-video'>
+                  <div className='col-sm-12 col-lg-6  order-1 order-lg-1 about-video wow animate__animated delay-2s animate__fadeInUp ' >
                   {/* {this.props.pagename.pagename === "AboutUs" ? (
                     <iframe  src="https://www.youtube.com/embed/4haxVA5cTuY?si=A5FrVYfc6VYLRg4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className='mb-5 mx-auto border5'  allowfullscreen></iframe> 
                     ) : (

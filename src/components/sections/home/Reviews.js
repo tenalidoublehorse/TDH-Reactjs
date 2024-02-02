@@ -41,7 +41,7 @@ class Reviews extends React.Component {
               <div className="col-md-12 col-lg-12">
                 <div>
                   <Slider {...settings}>
-                    <div className="testimonial ">
+                    <div className="testimonial  wow animate__animated  animate__slideInUp " data-wow-delay="0.4s">
                       <div className="testimonial-content border-0 shadow rounded-3">
                         <div className="testimonial-icon">
                           <i className="fa fa-quote-left"></i>
@@ -55,7 +55,7 @@ class Reviews extends React.Component {
                       {/* <span className="post">Web Developer</span> */}
                     </div>
     
-                    <div className="testimonial ">
+                    <div className="testimonial  wow animate__animated  animate__slideInUp " data-wow-delay="0.6s">
                       <div className="testimonial-content border-0 shadow rounded-3">
                         <div className="testimonial-icon">
                           <i className="fa fa-quote-left"></i>
@@ -68,7 +68,7 @@ class Reviews extends React.Component {
                       {/* <h3 className="title">bhaskar donepudi</h3> */}
                       {/* <span className="post">Web Developer</span> */}
                     </div>
-                    <div className="testimonial ">
+                    <div className="testimonial   wow animate__animated  animate__slideInUp " data-wow-delay="0.8s">
                       <div className="testimonial-content border-0 shadow rounded-3">
                         <div className="testimonial-icon">
                           <i className="fa fa-quote-left"></i>
@@ -81,7 +81,7 @@ class Reviews extends React.Component {
                       
                       {/* <span className="post">Web Developer</span> */}
                     </div>
-                    <div className="testimonial ">
+                    <div className="testimonial wow animate__animated  animate__slideInUp " data-wow-delay="0.9s ">
                       <div className="testimonial-content border-0 shadow rounded-3">
                         <div className="testimonial-icon">
                           <i className="fa fa-quote-left"></i>

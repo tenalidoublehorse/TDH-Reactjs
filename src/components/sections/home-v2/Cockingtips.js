@@ -19,7 +19,7 @@ class Cockingtips extends Component {
                 <div className=''>
                 </div>
                 <div className='row d-flex justify-content-center campaing pb-3'>
-                <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-1'>
+                <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-1 wow animate__animated  animate__fadeInUp ' data-wow-delay="0.4s">
                     <div className='mb-lg-5 camp-content'>
                       <div>
                         <div className="section-title-wrap section-header mb-md-5  text-center ">
@@ -35,7 +35,7 @@ class Cockingtips extends Component {
                       </div> */}
                     </div>
                   </div>
-                  <div className="col-lg-6  order-1 order-lg-2  pb-5" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                  <div className="col-lg-6  order-1 order-lg-2  pb-5 wow animate__animated  animate__fadeInUp" data-wow-delay="0.7s" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                      <img src={process.env.PUBLIC_URL + "/assets/img/about/idley.png"} alt="coocking tips" />
                   </div>
                 </div>

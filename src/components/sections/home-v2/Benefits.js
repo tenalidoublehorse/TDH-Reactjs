@@ -29,7 +29,7 @@ class Camapaing extends Component {
                   </div> */}
                 </div>
                 <div className='row d-flex justify-content-center campaing'>
-                <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-2'>
+                <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-2 wow animate__animated  animate__slideInUp ' data-wow-delay="0.4s" >
                     <div className='mb-lg-5 camp-content'>
                       <div>
                         <div className="section-title-wrap section-header mb-md-5  text-center ">
@@ -45,7 +45,7 @@ class Camapaing extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-6  order-1 order-lg-1 campaing-video pb-5" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                  <div className="col-lg-6  order-1 order-lg-1 campaing-video pb-5 wow animate__animated  animate__slideInUp" data-wow-delay="0.7s" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                   <video width="100%" height="100%" controls poster={process.env.PUBLIC_URL + "/assets/video/phire-se-uddan.png"}>
                           <source src={process.env.PUBLIC_URL + "/assets/video/phir-se-udan-event-womenempowerment-women.mp4"} type="video/mp4" />
                     </video>

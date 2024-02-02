@@ -58,17 +58,17 @@ class Products extends Component {
         return (
             <div className="colour-pink" style={{backgroundColor:'#fff7ef'}}>
                 <div className="container-fluid">
-                    <div className="section-title-wrap section-header text-center pt-5">
+                    <div className="section-title-wrap section-header text-center pt-5  wow animate__animated animate__fadeInUp" data-wow-delay="0.3s">
                         {/* <h5 className="custom-primary text-center white-bg mx-auto">Flavors of Excellence</h5> */}
                         <h2 className="title">Discover Our Culinary Treasures</h2>
                         <p className='largefont'>Indulge in a diverse range of superior quality products from Tenali Double Horse. Explore the finest ingredients that perfectly elevate your meals, from staples to specialties.</p>
                         
                     </div>
-                    <div className='slider-section-home' >
+                    <div className='slider-section-home  ' data-wow-delay="0.4s" >
                         <Slider className="product-slider home-product-slider   " {...settings} ref={c => (this.slider = c)}>
                         
                             {products.map((item, i) => (
-                                <div key={i} className="product card  border-0 shadow rounded-3">
+                                <div key={i} className="product card  border-0 shadow rounded-3 wow animate__animated animate__fadeInUp" data-wow-delay={item.delay}>
                                     
                                     <Link className="product-thumb pt-3" to={"/menu-item-v1/" + item.id}>
                                         <img src={process.env.PUBLIC_URL + "/" + item.img} alt={item.name} />

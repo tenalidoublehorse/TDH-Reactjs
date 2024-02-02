@@ -40,7 +40,7 @@ handleSaveChanges = () => {
                  
                 </div>
                 <div className='row d-flex justify-content-center campaing'>
-                <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-2'>
+                <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-2 wow animate__animated  animate__fadeInUp ' data-wow-delay="0.4s">
                     <div className='mb-lg-5 camp-content'>
                       <div>
                         <div className="section-title-wrap section-header mb-md-5 mt-lg-5 mt-xl-5  mt-xxl-5 text-center ">
@@ -65,7 +65,7 @@ handleSaveChanges = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-6 mb-lg-30  order-1 order-lg-1 suma-image" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                  <div className="col-lg-6 mb-lg-30  order-1 order-lg-1 suma-image wow animate__animated  animate__fadeInUp" data-wow-delay="0.6s" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                   <img src={process.env.PUBLIC_URL + "/assets/img/home/suma-every-bite-section-tdh.png"} alt="High Nutritional" />
           
                   </div>

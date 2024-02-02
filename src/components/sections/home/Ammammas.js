@@ -29,7 +29,7 @@ class Ammammas extends Component {
                   </div> */}
                 </div>
                 <div className='row d-flex justify-content-center ammamms-campaing'>
-                <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-2'>
+                <div className='col-lg-6 col-md-12 col-sm-12 d-flex justify-content-center align-items-center  order-2 order-lg-2 wow animate__animated  animate__fadeInUp ' data-wow-delay="0.4s">
                     <div className='mb-lg-5 camp-content'>
                       <div>
                         <div className="section-title-wrap section-header mb-md-5 mt-lg-5 mt-xl-5  mt-xxl-5 text-center ">
@@ -42,7 +42,7 @@ class Ammammas extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-6 mb-lg-30  order-1 order-lg-1 campaing-video" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                  <div className="col-lg-6 mb-lg-30  order-1 order-lg-1 campaing-video wow animate__animated  animate__fadeInUp " data-wow-delay="0.8s" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                   <img src={process.env.PUBLIC_URL + "/assets/img/campaign/amm.png"} alt="High Nutritional" />
             
                   </div>

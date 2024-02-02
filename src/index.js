@@ -16,6 +16,9 @@ import './assets/fonts/flaticon/flaticon.css';
 import './assets/fonts/font-awesome/css/all.min.css';
 import './assets/css/style.css';
 import './index.css';
+import 'animate.css'
+
+
 
 
 

@@ -29,7 +29,7 @@ class Process extends Component {
     render() {
         return (
             <div className="container-fluid nutrition-section pb-5">
-                <div className="section-title-wrap section-header text-center pt-4  pt-lg-5 ">
+                <div className="section-title-wrap section-header text-center pt-4  pt-lg-5 wow animate__animated animate__fadeInUp" data-wow-delay="0.4s">
                     {/* <h5 className="custom-primary white-bg mx-auto">Where Quality Meets Commitment </h5> */}
                     <h2 className="title">Where Quality Meets Commitment</h2>
                     <p className="subtitle largefont">
