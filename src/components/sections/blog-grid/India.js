@@ -100,52 +100,6 @@ import { Link } from 'react-router-dom';
 import $ from 'jquery';
 import 'magnific-popup';
 
-const gallery = [
-    
-   
-    {
-        img: "assets/img/about/Dmart.png",
-        delay:"0.2s"
-    },
-    {
-        img: "assets/img/about/big-basket.png",
-        delay:"0.4s"
-    },
-    {
-        img: "assets/img/about/Walmart.png",
-        delay:"0.6s"
-    },
-    {
-        img: "assets/img/about/reliance-fresh.png",
-        delay:"0.8s"
-    },
-    {
-        img: "assets/img/about/spencers.png",
-        delay:"1.0s"
-    },
-   
-   
-    {
-        img: "assets/img/about/Metro.png",
-        delay:"1.2s"
-    },
-    {
-        img: "assets/img/about/Ratnadeep.png",
-        delay:"1.4s"
-    },
-    {
-        img: "assets/img/campaign/retail-ushodaya.png",
-        delay:"1.6s"
-    },
-    {
-        img: "assets/img/campaign/retail-vijetha.png",
-        delay:"1.8s"
-    },
-    {
-        img: "assets/img/about/more.png",
-        delay:"2.0s"
-    }
-];
 
 const galler = [
     
@@ -201,10 +155,10 @@ class Markets extends Component {
                 <div className="container">
                     <div className="row">
                         
+                    
                        
-                           
                                 {galler.map((item, i) => (
-                                    <div key={i} className="col-lg-3 wow animate__animated  animate__fadeInUp" data-wow-delay={item.delay}>
+                                    <div key={i} className="col-lg-4 wow animate__animated  animate__fadeInUp" data-wow-delay={item.delay}>
                                         <Link>
                                             <img src={process.env.PUBLIC_URL + "/" + item.img} className='shops' alt="post" />
                                         </Link>
@@ -214,24 +168,10 @@ class Markets extends Component {
                        
                    
                 </div>
-                <h4 class="custom-primary text-center mt-3">Retail Partners</h4>
-                <div className="container">
-                    <div className="row">
-                        
-                       
-                           
-                                {gallery.map((item, i) => (
-                                    <div key={i} className="col-lg-3 wow animate__animated  animate__fadeInUp" data-wow-delay={item.delay}>
-                                        <Link>
-                                            <img src={process.env.PUBLIC_URL + "/" + item.img} className='shops' alt="post" />
-                                        </Link>
-                                    </div>
-                                ))}
-                            </div>
-                       
-                   
-                </div>
+                
+              
             </div>
+            
         );
     }
 }

@@ -8,6 +8,7 @@ import Feedback from '../home/Feedback';
 import { ComposableMap, Geographies, Geography ,Marker} from "react-simple-maps";
 
 import India from './India';
+import Markets from './Retail';
 
 const geoUrl ="https://cdn.jsdelivr.net/npm/world-atlas@2/land-110m.json"
 
@@ -248,6 +249,7 @@ class Content extends Component {
    
             
   <India/>
+  <Markets/>
             </Fragment>
         );
     }

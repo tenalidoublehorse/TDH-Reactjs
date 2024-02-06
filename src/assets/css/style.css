@@ -10527,6 +10527,10 @@ section {
       height: 350px;
       margin-right: auto;
     }
+    .angle {
+      width:100%!important;
+      height:150px!important;
+    }
     /* .testimonial{
       margin: 0 40px 40px!important;
     } */
@@ -10703,17 +10707,20 @@ background-repeat: no-repeat;
 }
 .shops{
   /* box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19); */
-  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  /* box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important; */
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #f2f2f2;
   color: #000;
-  margin: 15px;
-  padding: 5px 5px;
-  width: 300px;
+  /* margin: 10px; */
+ margin-top: 10px;
+ margin-bottom: 10px;
+  padding: 20px 80px;
+
   /* min-height: 80px; */
 }
 .shops:hover{
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  background-color: #fff7ef!important;
 }
 .template-shadow{
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
@@ -10748,4 +10755,12 @@ background-repeat: no-repeat;
 .article-img{
   border-top-left-radius: 0.475rem!important;
   border-radius:0.475rem;
+}
+.title.layer-one:before{
+  background-image: url('/assets/img/banner/angle.png')!important;
+
+}
+.angle {
+  width:100%!important;
+  height:180px;
 }
