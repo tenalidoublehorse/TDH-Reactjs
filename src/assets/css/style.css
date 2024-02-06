@@ -10764,3 +10764,17 @@ background-repeat: no-repeat;
   width:100%!important;
   height:180px;
 }
+.ecommerce{
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #000;
+  /* margin: 10px; */
+ margin-top: 10px;
+ margin-bottom: 10px;
+  padding: 15px 30px;
+
+}
+.ecommerce:hover{
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  background-color: #fff7ef!important;
+}

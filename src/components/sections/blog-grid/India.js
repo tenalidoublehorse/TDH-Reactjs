@@ -149,28 +149,26 @@ class Markets extends Component {
     render() {
         return (
             
-            <div className="section pt-5 wow animate__animated  animate__fadeInUp" data-wow-delay="0.2s" style={{ backgroundColor: '#F2ECE4' }} >
-                <h2 className='title text-center'>We are also Available in</h2>
-                <h4 class="custom-primary text-center">Online Presence</h4>
-                <div className="container">
-                    <div className="row">
-                        
-                    
-                       
-                                {galler.map((item, i) => (
-                                    <div key={i} className="col-lg-4 wow animate__animated  animate__fadeInUp" data-wow-delay={item.delay}>
-                                        <Link>
-                                            <img src={process.env.PUBLIC_URL + "/" + item.img} className='shops' alt="post" />
-                                        </Link>
-                                    </div>
-                                ))}
+            <div className="section pt-5 wow animate__animated animate__fadeInUp" data-wow-delay="0.2s" style={{ backgroundColor: 'rgb(249, 250, 230);'  }}>
+            <div className="container">
+                <div className="row">
+                    <div className='col-lg-5 col-md-12 col-sm-12 d-flex  flex-wrap flex-column  order-2 order-lg-2 wow animate__animated animate__fadeInUp' data-wow-delay="0.4s">
+                        <h2 className='custom-primary title '>We are also Available in</h2>
+                        <h4 className=" ">Online Presence</h4>
+                        <p className=' '>Experience convenience with our products, accessible on top ecommerce platforms globally</p>
+                    </div>
+                    <div className='col-lg-7 col-md-12 col-sm-12 d-flex flex-wrap  order-2 order-lg-2 wow animate__animated animate__fadeInUp' data-wow-delay="0.4s">
+                    {galler.map((item, i) => (
+                            <div key={i} className="col-lg-4 wow animate__animated  animate__fadeInUp" data-wow-delay={item.delay}>
+                                <Link>
+                                    <img src={process.env.PUBLIC_URL + "/" + item.img} className='ecommerce' alt="post" />
+                                </Link>
                             </div>
-                       
-                   
+                        ))}
+                    </div>
                 </div>
-                
-              
             </div>
+        </div>
             
         );
     }
