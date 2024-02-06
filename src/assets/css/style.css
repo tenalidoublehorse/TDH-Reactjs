@@ -10592,6 +10592,9 @@ section {
 .ceo-sec{
   margin-bottom: 0px !important;
 }
+.large-mobile{
+  text-align:center!important;
+}
 .event-slider {
   padding-bottom:5px ;
 }
@@ -10777,4 +10780,11 @@ background-repeat: no-repeat;
 .ecommerce:hover{
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
   background-color: #fff7ef!important;
+}
+.title-two {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+.large-mobile{
+  text-align:start;
 }

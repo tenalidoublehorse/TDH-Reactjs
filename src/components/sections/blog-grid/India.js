@@ -152,10 +152,10 @@ class Markets extends Component {
             <div className="section pt-5 wow animate__animated animate__fadeInUp" data-wow-delay="0.2s" style={{ backgroundColor: 'rgb(249, 250, 230);'  }}>
             <div className="container">
                 <div className="row">
-                    <div className='col-lg-5 col-md-12 col-sm-12 d-flex  flex-wrap flex-column  order-2 order-lg-2 wow animate__animated animate__fadeInUp' data-wow-delay="0.4s">
-                        <h2 className='custom-primary title '>We are also Available in</h2>
-                        <h4 className=" ">Online Presence</h4>
-                        <p className=' '>Experience convenience with our products, accessible on top ecommerce platforms globally</p>
+                    <div className='col-lg-5 col-md-12 col-sm-12 d-flex  flex-wrap flex-column justify-content-center order-2 order-lg-2 wow animate__animated animate__fadeInUp' data-wow-delay="0.4s">
+                        <h2 className='custom-primary title-two large-mobile' >We are also Available in</h2>
+                        <h4 className="large-mobile ">Online Presence</h4>
+                        <p className='large-mobile '>Experience convenience with our products, accessible on top ecommerce platforms globally</p>
                     </div>
                     <div className='col-lg-7 col-md-12 col-sm-12 d-flex flex-wrap  order-2 order-lg-2 wow animate__animated animate__fadeInUp' data-wow-delay="0.4s">
                     {galler.map((item, i) => (
