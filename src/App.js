@@ -40,6 +40,7 @@ const Awardetails = React.lazy(() => import("./components/pages/Awardetails"));
 const CSRactivities = React.lazy(() => import("./components/pages/CSRactivities"));
 const Gallery = React.lazy(() => import("./components/pages/Gallery"));
 const Indusfoods = React.lazy(()=> import('./components/pages/Indusfoods'))
+const Gulfoodexpo = React.lazy(()=> import('./components/pages/Gulfoodexpo'))
 
 const ScrollToTop = withRouter(({ children, location: { pathname } }) => {
   useLayoutEffect(() => {
@@ -89,6 +90,7 @@ function App() {
           <Route path="/csr-initiatives" component={CSRactivities} />
           <Route path="/Csrgallery" component={Gallery} />
           <Route path="/indusfood" component={Indusfoods} />
+          <Route path="/gulfoodexpo" component={Gulfoodexpo} />
           
         </ScrollToTop>
       </Suspense>

@@ -10942,8 +10942,6 @@ background-repeat: no-repeat;
 
 }
 
-/* Test */
-
 .odd .bubble::before{
   position: absolute;
   width: 16px;
@@ -10957,6 +10955,37 @@ background-repeat: no-repeat;
 
   z-index: 5;
   
-  
+}
 
+.gulfoodexpo_event_details .venue_details{
+    background: #fff;
+    padding: 20px 25px;
+    box-shadow: 0px 0px 15px #00000014;
+    border-radius: 15px;
+    max-width: 380px;
+}
+
+.gulfoodexpo_event_details .venue_details h5{
+  margin-bottom: 10px;
+}
+
+.gulfoodexpo_event_details .title{
+  line-height: 32px;
+}
+
+.gulfoodexpo_event_details ul{
+  list-style: disc;
+  margin-left: 15px;  
+}
+
+.stay_connected ul{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.stay_connected ul a{
+  margin: 0px 8px;
 }

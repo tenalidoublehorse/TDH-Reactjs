@@ -37,6 +37,12 @@
             "bg":"assets/img/banner/Indus-foods-new-banner.png"
         }
     ],
+    "gulfoodexpo":[
+        {
+            "id":5,
+            "bg":"assets/img/banner/gulfood-web-banner.jpg"
+        }
+    ],
     "homethree": [
         {
             "id": 1,
