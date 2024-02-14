@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 // import { Link,useNavigate } from 'react-router-dom';
-import axios from '../../../api/axios';
+import axios from "axios";
 
 function Content(){
      //  start main function
@@ -11,8 +11,9 @@ function Content(){
     Lastname  :'',
     Email :'',
     Phonenumber :'',
-    PurposeofContact :'',
     Message:'',
+    Companyname:'',
+    Countryname:'',
     AddedTimeStamp :currentTimestamp,
     updatedTimeStamp :currentTimestamp,
   });
@@ -25,19 +26,46 @@ function Content(){
 };
 
     const handlAddData = async (event) => {
-        // event.preventDefault();
-    
-        try{
-          let res = await axios.post('api/addindusdata/',formData  );
-          alert("Successfully Submited Your Query Thank You!")
+        event.preventDefault();
+        if(formData.Firstname != "" && formData.Phonenumber != "" && formData.Lastname != "" && formData.Email != ""){
+            try{
+                let res = await axios.post('https://www.dtgallery.net/tdh-backend/',formData  );
+                setformData({
+                    id :'',
+                    Firstname :'',
+                    Lastname  :'',
+                    Email :'',
+                    Phonenumber :'',
+                    Message:'',
+                    Companyname:'',
+                    Countryname:''
+                  });
+                alert("Successfully Submited Your Query Thank You!")
+              }
+              catch(error){
+                  // alert("Oops! Unable to send information. Please check the provided details and try again later.")
+              }
         }
-        catch(error){
-            // alert("Oops! Unable to send information. Please check the provided details and try again later.")
+      }
+
+
+      const handlAddDataForm = async (event) => {
+        event.preventDefault();
+        
+        if(formData.Firstname != "" && formData.Phonenumber != "" && formData.Lastname != "" && formData.Email != ""){
+            try{
+                let res = await axios.post('https://www.dtgallery.net/tdh-backend/',formData  );
+                event.target.reset();
+                alert("Successfully Submited Your Query Thank You!");
+              }
+              catch(error){
+                  // alert("Oops! Unable to send information. Please check the provided details and try again later.")
+              }
         }
       }
 
       useEffect (()=>{
-        handlAddData();
+        //handlAddData();
       },{})
 
     return (
@@ -48,7 +76,7 @@ function Content(){
                         <div className='col-md-3'></div>
                         <div className="col-md-6 my-auto">
                             <div>
-                                <form className='  px-3 pb-4 pt-4' style={{ borderRadius: '8px' }}>
+                                <form className='  px-3 pb-4 pt-4' style={{ borderRadius: '8px' }} onSubmit={handlAddDataForm}>
                                     <div className=''>
                                         <p className='text-center text-danger form-hedline'>Book an Appointment</p>
                                         <p className="subtitle" style={{ textAlign: 'center' }}>
@@ -56,7 +84,7 @@ function Content(){
                                         </p>
                                     </div>
                                     <div className="row">
-                                        <div className="form-group col-lg-12">
+                                        <div className="form-group col-lg-6">
                                             <input
                                                 type="text"
                                                 placeholder="First Name"
@@ -68,7 +96,7 @@ function Content(){
                                             />
 
                                         </div>
-                                        <div className="form-group col-lg-12">
+                                        <div className="form-group col-lg-6">
                                             <input
                                                 type="text"
                                                 placeholder="Last Name"
@@ -80,16 +108,13 @@ function Content(){
                                             />
                                         </div>
                                         <div className="form-group col-lg-12">
-
                                             <input
                                                 type="text"
-                                                placeholder="Email Address"
-                                                required
+                                                placeholder="Company Name"
                                                 className="form-control"
-                                                name="Email"
-                                                // pattern=".\.com."
+                                                name="Companyname"
+                                                pattern="[A-Za-z]+"
                                                 onChange={handleChange}
-
                                             />
                                         </div>
                                         <div className="form-group col-lg-12">
@@ -107,21 +132,29 @@ function Content(){
 
                                         </div>
                                         <div className="form-group col-lg-12">
-                                            <select
-                                                className="form-control"
-                                                name="PurposeofContact"
-                                                required
-                                                onChange={handleChange}
-                                            >
-                                                <option value="">Purpose of Contact</option>
-                                                <option value="export">export</option>
-                                                <option value="distribution">Distribution Enquiry</option>
-                                                <option value="Feedback">Feedback</option>
-                                                <option value="Suggestions">Suggestions</option>
-                                                <option value="Other">Job Enquiry</option>
-                                            </select>
-                                        </div>
 
+                                            <input
+                                                type="text"
+                                                placeholder="Email Address"
+                                                required
+                                                className="form-control"
+                                                name="Email"
+                                                // pattern=".\.com."
+                                                onChange={handleChange}
+
+                                            />
+                                        </div>
+                                        <div className="form-group col-lg-12">
+                                            <input
+                                                type="text"
+                                                placeholder="Country"
+                                                required
+                                                className="form-control"
+                                                name="Countryname"
+                                                pattern="[A-Za-z]+"
+                                                onChange={handleChange}
+                                            />
+                                        </div>
                                         <div className="form-group col-lg-12">
                                             <textarea
                                                 name="Message"
@@ -136,7 +169,7 @@ function Content(){
                                         </div>
                                     </div>
                                     <div className='d-flex justify-content-center'>
-                                        <button type="submit" value="Send" className="btn-custom primary mt-3 mx-auto" name="button" onClick={handlAddData} >Send Message</button>
+                                        <button type="submit" value="Send" className="btn-custom primary mt-3 mx-auto" name="button"  >Send Message</button>
                                     </div>
                                     
                                 </form>

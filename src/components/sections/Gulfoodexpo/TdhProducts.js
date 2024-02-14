@@ -30,7 +30,7 @@ class TdhProducts extends Component {
                             <p>
                             Date: 19th - 23rd February 2024<br />
                             Venue: Dubai World Trade Centre<br />
-                            Visit us as Stand: ZP-H47, Hall: Za’abeel Plaza</p>
+                            Visit us at Stand: ZP-H47, Hall: Za’abeel Plaza</p>
 
                             </div>
                         </div>
