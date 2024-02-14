@@ -18,7 +18,7 @@ class Abouindusfood extends Component {
 
                         </div>
                         <div className="col-lg-6 mb-lg-30  d-flex flex-column order-1 order-lg-2 tdh-shop aligen-items-center my-auto" >
-                        <img src={process.env.PUBLIC_URL + "/assets/img/banner/tdh-shop-ai.png"} alt="img" className='' />
+                        <img src={process.env.PUBLIC_URL + "/assets/img/banner/gulfood-stall.png"} alt="Stall" className='' />
                        
                         </div>
                         <div className="col-lg-6 alignments d-flex flex-column order-1 order-lg-1">
