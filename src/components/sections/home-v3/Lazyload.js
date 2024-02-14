@@ -23,7 +23,7 @@ function Popup() {
       <i className="fas fa-times" />
           </Button>
           
-        <div><a href={process.env.PUBLIC_URL + "/#gulfoodexpo"}><img className='relative'  src={process.env.PUBLIC_URL + "/assets/img/misc/tdh-gulfood.jpeg"} alt="Gulfood Expo"  /></a></div>
+        <div><a href={process.env.PUBLIC_URL + "/#gulfoodexpo"}><img className='relative'  src={process.env.PUBLIC_URL + "/assets/img/misc/tdh-gulfood.jpg"} alt="Gulfood Expo"  /></a></div>
       </Modal>
     </>
   );
