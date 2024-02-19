@@ -1,5 +1,48 @@
 import React, { Component,Link } from 'react';
 
+const images_src = ["gulfood-1.jpg", "gulfood-2.jpg", "gulfood-3.jpg", "gulfood-4.jpg", "gulfood-5.jpg"];
+const delay = 3000;
+
+function Slideshow() {
+  const [index, setIndex] = React.useState(0);
+
+  React.useEffect(() => {
+    setTimeout(
+      () =>
+        setIndex((prevIndex) =>
+          prevIndex === images_src.length - 1 ? 0 : prevIndex + 1
+        ),
+      delay
+    );
+
+    return () => {};
+  }, [index]);
+
+  return (
+    <div className="slideshow_1">
+      <div
+        className="slideshowSlider_1"
+        style={{ transform: `translate3d(${-index * 100}%, 0, 0)` }}
+      >
+        {images_src.map((img, index) => (
+          <div
+            className="slide_1"
+            key={index}
+          ><img src={ process.env.PUBLIC_URL + "/assets/img/gulfood/" + img }></img></div>
+        ))}
+      </div>
+
+      { /*<div className="slideshowDots">
+        {colors.map((_, idx) => (
+          <div
+            key={idx}
+            className={`slideshowDot${index === idx ? " active" : ""}`}
+          ></div>
+        ))}
+        </div> */ }
+    </div>
+  );
+}
 
 class Abouindusfood extends Component {
     render() {
@@ -14,11 +57,11 @@ class Abouindusfood extends Component {
                 </div> */}
                     <div className="row ">
                         <div className='col-md-6'>
-                        
+                            
 
                         </div>
                         <div className="col-lg-6 mb-lg-30  d-flex flex-column order-1 order-lg-2 tdh-shop aligen-items-center my-auto" >
-                            <img src={process.env.PUBLIC_URL + "/assets/img/gulfood/gulfood-1.jpg"} alt="Stall" className='' />
+                        <Slideshow></Slideshow>
                         </div>
 
                         <div className='col-md-2'></div>
