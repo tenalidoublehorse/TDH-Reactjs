@@ -13,20 +13,20 @@ class Abouindusfood extends Component {
                     </p>
                 </div> */}
                     <div className="row ">
-                        <div className='col-md-12'>
-                        <h2 className='title text-center' style={{fontSize:'33px'}}>Join Us at Gulfood Expo</h2>
+                        <div className='col-md-6'>
+                        
 
                         </div>
-                        { /*<div className="col-lg-6 mb-lg-30  d-flex flex-column order-1 order-lg-2 tdh-shop aligen-items-center my-auto" >
-                        <img src={process.env.PUBLIC_URL + "/assets/img/banner/gulfood-stall.png"} alt="Stall" className='' />
-                       
-            </div>*/ }
+                        <div className="col-lg-6 mb-lg-30  d-flex flex-column order-1 order-lg-2 tdh-shop aligen-items-center my-auto" >
+                            <img src={process.env.PUBLIC_URL + "/assets/img/gulfood/gulfood-1.jpg"} alt="Stall" className='' />
+                        </div>
+
                         <div className='col-md-2'></div>
-                        <div className="col-lg-8 alignments d-flex flex-column order-1 order-lg-1">
+                        <div className="col-lg-6 alignments d-flex flex-column order-1 order-lg-1">
                         <div className="">
-                               
-                                { /*<h4 style={{ color: "#ea202f" }}>Join Us at Gulfood Expo</h4> */ }
-                                <p className="subtitle" style={{ textAlign: 'center' }}>
+                                <h2 className='title text-left' style={{fontSize:'33px'}}>Join Us at Gulfood Expo</h2>
+                                { /*<h4 style={{ color: "#ea202f" }}>Join Us at Gulfood Expo</h4> style={{ textAlign: 'center' }}*/ }
+                                <p className="subtitle" >
                                 
 Tenali Double Horse is thrilled to be participating in the Gulfood Expo 2024, the world's largest annual food and beverage trade event! We invite you to join us at our booth to explore our latest products, engage with our team, and discover exciting business opportunities.
 
