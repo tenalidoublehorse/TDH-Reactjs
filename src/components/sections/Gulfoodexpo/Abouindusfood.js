@@ -1,6 +1,6 @@
 import React, { Component,Link } from 'react';
 
-const images_src = ["gulfood-1.jpg", "gulfood-2.jpg", "gulfood-3.jpg", "gulfood-4.jpg", "gulfood-5.jpg"];
+const images_src = ["gulfood-1.jpg", "gulfood-2.jpg", "gulfood-3.jpg", "gulfood-4.jpg", "gulfood-5.jpg", "gulfood-6.jpg", "gulfood-7.jpg", "gulfood-8.jpg", "gulfood-9.jpg", "gulfood-10.jpg", "gulfood-11.jpg"];
 const delay = 3000;
 
 function Slideshow() {
