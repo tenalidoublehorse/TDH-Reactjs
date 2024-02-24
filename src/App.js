@@ -56,7 +56,8 @@ function App() {
       <Suspense fallback={<div></div>}>
         <ScrollToTop>
           <Preloader />
-          <Route exact path="/"  component={Home}/>
+          <Route exact path="/" component={Gulfoodexpo} />
+          <Route exact path="/home"  component={Home}/>
           <Route path="/home-v2" component={Hometwo}/>
           <Route path="/news-room" component={Homethree}/>
           <Route path="/home-v4" component={Homefour}/>

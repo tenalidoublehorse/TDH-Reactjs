@@ -7,7 +7,7 @@ function Popup() {
 
   useEffect(() => {
     // Set showModal to true when the component mounts (page loads)
-    setShowModal(false);
+    setShowModal(true);
   }, []);
   
 
