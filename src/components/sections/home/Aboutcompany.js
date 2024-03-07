@@ -26,6 +26,14 @@ class TimelineSection extends Component {
             
           };
 
+        const videoHeader = {
+          margin: "0px",
+          background: "#000000",
+          marginTop: "-10px",
+          color: "#FFF",
+          padding: "10px 0px"
+        }
+
 
           
         return (
@@ -59,6 +67,24 @@ class TimelineSection extends Component {
                  </div>
               </div>
             </div>
+
+            <div className="container-fluid women-video-conatiner  mt-lg-12 pb-4" style={{ marginTop: "40px" }}>
+                  <div className="row"  >
+                    <div className='col-md-4' style={{ marginBottom: "20px" }}>
+                      <iframe width="100%" height="250" src="https://www.youtube.com/embed/aNqjljPlwgo?si=fk1bqdDIiAJbdbmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                      <p className="text-center" style={ videoHeader }><strong>Hindi</strong></p>
+                    </div>
+                    <div className='col-md-4' style={{ marginBottom: "20px" }}>
+                      <iframe width="100%" height="250" src="https://www.youtube.com/embed/k3rESpnWkZA?si=Oj4B9ycqvxiiphGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                      <p className="text-center" style={ videoHeader }><strong>Telugu</strong></p>
+                    </div>
+                    <div className='col-md-4' style={{ marginBottom: "20px" }}>
+                      <iframe width="100%" height="250" src="https://www.youtube.com/embed/f861ADkySo8?si=v9OGfWVjFq-XGWuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                      <p className="text-center" style={ videoHeader }><strong>Tamil</strong></p>
+                    </div>
+                  </div>
+            </div>
+
           </section>
         );
     }
