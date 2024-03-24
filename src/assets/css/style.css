@@ -11035,3 +11035,22 @@ background-repeat: no-repeat;
 .slideshowDot.active {
   background-color: #6a0dad;
 }
+
+.participate-button{
+  background-color: #F2ECE4 !important;
+  color: black;
+  font-size: 23px;
+  font-weight: 600;
+  border: none;
+  text-transform: capitalize;
+}
+
+.participate-button:hover{
+  color: black !important;
+}
+.model-close-button{
+  background-color: #F2ECE4 !important;
+  color: black;
+  font-size: 18px;
+  font-weight: 500;
+}
