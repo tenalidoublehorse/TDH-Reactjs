@@ -23,7 +23,7 @@ function Popup() {
           <a href='https://ipltenalidoublehorse.com/' target='_blank'>
             <img className='relative' src={process.env.PUBLIC_URL + "/assets/img/popup-banner-img.jpg"} alt="Gulfood Expo" />
           </a>
-          <Button variant="primary" className="participate-button mb-3" style={{ position: 'absolute', bottom: '0', left: '50%', transform: 'translateX(-50%)' }}>Click Here</Button>
+          <Button variant="primary" onClick={() => window.open('https://ipltenalidoublehorse.com', '_blank')} className="participate-button mb-3" style={{ position: 'absolute', bottom: '0', left: '50%', transform: 'translateX(-50%)' }}>Click Here</Button>
         </div>
       </Modal>
     </>

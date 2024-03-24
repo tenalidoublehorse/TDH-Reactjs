@@ -11039,7 +11039,7 @@ background-repeat: no-repeat;
 .participate-button{
   background-color: #F2ECE4 !important;
   color: black;
-  font-size: 23px;
+  font-size: 21px;
   font-weight: 600;
   border: none;
   text-transform: capitalize;
@@ -11047,10 +11047,15 @@ background-repeat: no-repeat;
 
 .participate-button:hover{
   color: black !important;
+  background-color: #F2ECE4 !important;
 }
 .model-close-button{
   background-color: #F2ECE4 !important;
   color: black;
   font-size: 18px;
   font-weight: 500;
+}
+.model-close-button:hover{
+  color: black !important;
+  background-color: #F2ECE4 !important;
 }
