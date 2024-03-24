@@ -5,6 +5,8 @@ import Header from '../layouts/Header';
 import Footer from '../layouts/Footer';
 import Content from '../sections/home/Content';
 // import Content from '../sections/Indusfoods/Content';
+// import Campaign  from '../sections/home/Camapaing';
+import Popup from '../sections/home-v3/Lazyload'
 
 const pagelocation = 'Home';
 
@@ -20,6 +22,7 @@ class Home extends Component {
                     />
                 </MetaTags> 
                 <Header/>
+                <Popup/>
             
                 <Content/>
                 <Footer className="footer-with-border"   footer={{ style: "ct-footer", logo: "assets/img/footer-bg-image.png"}} />
