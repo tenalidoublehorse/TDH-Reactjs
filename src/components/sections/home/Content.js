@@ -39,7 +39,7 @@ class Content extends Component {
                
                 <Productcards />
                 {/* <Nutrients/> ammas dosa batter */}
-                <Lazyload/>
+                {/* <Lazyload/> */}
                 {/* <Latestproducts/> */}
                 {/* <Mainproductsslider/> */}
                 {/* <Camapaing/> */}
