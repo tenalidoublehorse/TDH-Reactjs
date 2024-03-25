@@ -47,21 +47,29 @@ class Menu extends Component {
                         {item.child ? <Link onClick={e => e.preventDefault()} to="/"> {item.linkText} </Link> : <Link to={item.link}> {item.linkText} </Link>}
                         {/* Render submenu if exists */}
                         {item.child ?
-                            <ul className="sub-menu" role="menu">
+                            <ul className="submenu" role="menu">
                                 {item.submenu.map((sub_item, i) => (
                                     <li key={i} className={`menu-item ${sub_item.child ? 'menu-item-has-children' : ''} `}>
                                         {sub_item.child ? <Link onClick={e => e.preventDefault()} to="/"> {sub_item.linkText} </Link> : <Link to={sub_item.link}> {sub_item.linkText} </Link>}
                                         {/* Render third level submenu if exists */}
                                         {sub_item.submenu ?
-                                            <ul className="sub-menu">
+                                            <ul className="submenu">
                                                 {sub_item.submenu.map((third_item, i) => (
                                                     <li className="menu-item" key={i}><Link to={third_item.link}>{third_item.linkText}</Link></li>
                                                 ))}
-                                                {/* Special handling for 'TDHF' menu item */}
+                                               
                                                 
                                             </ul> : null}
                                     </li>
                                 ))}
+                                {item.linkText === 'Events' ? (
+                                                    <Fragment>
+                                                        <li className="menu-item">
+                                                            {/* <button>tdhf</button> */}
+                                                            <a href="https://ipltenalidoublehorse.com/" target="_blank" rel="noopener noreferrer">IPL 2024</a>
+                                                        </li>
+                                                    </Fragment>
+                                                ) : null}
                             </ul>
                             : null
                         }

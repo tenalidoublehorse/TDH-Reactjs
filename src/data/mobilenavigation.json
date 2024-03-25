@@ -106,6 +106,19 @@
         "link": "/news-room"
     },
     {
+        "id": 7,
+        "linkText": "Events",
+        "child": true,
+        "submenu": [
+           
+           
+            
+        ]
+       
+        
+    }
+    ,
+    {
         "id": 6,
         "linkText": "Contact",
         "link": "/Contact"

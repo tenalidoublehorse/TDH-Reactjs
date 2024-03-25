@@ -35,11 +35,11 @@ class Mobilemenu extends HeaderComponent {
                                                     : null}
                                             </li>
                                         ))}
-                                             {item.linkText === 'About' && isMobile && (
+                                             {item.linkText === 'Events' && isMobile && (
                                             <Fragment>
                                                
                                                 <li className="menu-item">
-                                                    <a href="https://phirseudaan.com/" target="_blank" rel="noopener noreferrer">CSR Initiatives</a>
+                                                    <a href="https://ipltenalidoublehorse.com/" target="_blank" rel="noopener noreferrer">IPL 2024</a>
                                                 </li>
                                             </Fragment>
                                         )}
