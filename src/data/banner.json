@@ -30,11 +30,15 @@
     "hometwo":[
         {
             "id":5,
-            "bg":"assets/img/banner/tdh-lalbahadur-sastribanner.png"
+            "bg":"assets/img/banner/tdh-banner-new.png"
         },
         {
             "id":6,
-            "bg":"assets/img/banner/Indus-foods-new-banner.png"
+            "bg":"assets/img/banner/tdh-all-products.png"
+        },
+        {
+            "id":7,
+            "bg":"assets/img/banner/tdh-awards-recoginations.png"
         }
     ],
     "gulfoodexpo":[
