@@ -1,51 +1,26 @@
-import React, { useEffect ,useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Slider from 'react-slick';
-import { hometwo as bannerpost } from '../../../data/banner.json';
-import axios from '../../../api/axios';
-import Loader from '../../layouts/Loader';
+// Import the appropriate keys from your JSON file
+import { hometwo as bannerData } from '../../../data/banner.json'; 
 
 const Indusbanner = () => {
-    const [items, setItems] = useState([]);
-    const [loading, setLoading] = useState(true);
+  const [items, setItems] = useState([]);
+  const [loading, setLoading] = useState(true);
 
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        // Set state with the imported JSON data
+        setItems(bannerData); // Assuming "home" is the key in your JSON structure
+        setLoading(false); // Set loading to false as the data has been fetched
+      } catch (error) {
+        console.error('Error fetching banner data:', error);
+        setLoading(false); // Set loading to false in case of error
+      }
+    };
 
-    useEffect(() => {
-        const fetchData = async () => {
-            try {
-    
-                const response = await axios.get('/api/getbanner/');
-                setItems(response.data);
-                setLoading(false);
-            } catch (error) {
-           
-                console.error('Error fetching getbanner post data:', error);
-                setLoading(false);
-          
-            }
-        };
-
-        fetchData();
-    }, {});
-
-
- 
-  // const handleMarqueeHover = () => {
-  //   const marquee = document.getElementById('marquee');
-  //   marquee.stop();
-  // };
-
-  // const handleMarqueeLeave = () => {
-  //   const marquee = document.getElementById('marquee');
-  //   marquee.start();
-  // };
-
-  // useEffect(() => {
-  //   const marquee = document.getElementById('marquee');
-
-  //   return () => {
-  //     marquee.start(); // Ensure marquee starts when the component is unmounted
-  //   };
-  // }, []);
+    fetchData(); // Call the fetchData function when the component mounts
+  }, []);
 
   const settings = {
     slidesToShow: 1,
@@ -77,7 +52,7 @@ const Indusbanner = () => {
         {items.map((item, i) => (
           <img
             key={i}
-            src={'https://codkraft.com' + item.Image}
+            src={process.env.PUBLIC_URL + "/" + item.bg}
             alt={item.Title}
             onClick={() => handleImageClick(item.id)}
           />
@@ -85,22 +60,7 @@ const Indusbanner = () => {
       </Slider>
       <div className='marq-banner'>
         <img src={process.env.PUBLIC_URL + "/assets/img/banner/TenaliDoubleHorse-IndusFood_boomark-3x52.png"} alt="img" className='' />
-        </div>
-      {/* <div
-        className="header-marque"
-        style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
-      >
-        <marquee
-          id="marquee"
-          width="97%"
-          direction="left"
-          onMouseEnter={handleMarqueeHover}
-          onMouseLeave={handleMarqueeLeave}
-        >
-          We have recently introduced our products in UAE. For inquiries regarding exports, please
-          reach out to us at 1800 270 567 567 or email us at exports@tenalidoublehorse.com.
-        </marquee>
-      </div> */}
+      </div>
     </div>
   );
 };
